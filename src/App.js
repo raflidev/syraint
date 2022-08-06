@@ -1,11 +1,19 @@
 // Import Swiper React components
 import { Swiper, SwiperSlide } from 'swiper/react';
+import { Navigation } from "swiper";
+import { Pagination } from "swiper";
 
 // Import Swiper styles
 import 'swiper/css';
+import "swiper/css/navigation";
+import "swiper/css/pagination";
 import image1 from "./images/1.jpg"
 import image2 from "./images/2.jpg"
 import image3 from "./images/3.jpg"
+
+import long from "./images/Long_Charcoal.png"
+import cube from "./images/Cube_Charcoal.png"
+import question from "./images/question_mark.png"
 
 import logo from "./images/logo.png"
 
@@ -51,7 +59,7 @@ function App() {
         <div className="text-white h-screen bg-no-repeat bg-cover " style={{backgroundImage: `url("https://charcoal.pro/info/wp-content/uploads/2020/05/trusted-coconut-shell-charcoal-briquettes-factory-1024x576.jpg")` }}>
           <div className="flex h-screen bg-black bg-opacity-40">
             <div className="m-auto ">
-              <div className="font-bold text-6xl capitalize text-center leading-tight">
+              <div className="font-bold text-3xl lg:text-6xl capitalize text-center leading-tight">
                   Get your premium briquettes <br></br> with quality raw materials
               </div>
             </div>
@@ -64,7 +72,7 @@ function App() {
       <div className="w-5/6 mx-auto relative"> 
         <div className="-mt-32 z-10">
           <div className="p-5 py-10 mx-5 bg-white rounded-lg shadow-2xl">
-            <div className="grid grid-cols-3 gap-4">
+            <div className="grid grid-cols-1 lg:grid-cols-3 gap-4">
               <div className="flex">
                 <div className="w-1/6">
                   <svg xmlns="http://www.w3.org/2000/svg" className="h-12 w-12 bg-green-400 rounded-full" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
@@ -118,7 +126,7 @@ function App() {
 
       {/* Feature */}
       <div className="w-5/6 mx-auto mt-24 pt-5 pb-10">
-        <div className="mx-10 grid grid-cols-3 items-center gap-10">
+        <div className="mx-10 grid grid-cols-2 lg:grid-cols-3 items-center gap-10">
           <div className="space-y-5">
             <div>
               <svg xmlns="http://www.w3.org/2000/svg" className="h-12 w-12" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.7}>
@@ -223,13 +231,64 @@ function App() {
 
 
     {/* Carousel */}
-    <Swiper>
-    <SwiperSlide>Slide 1</SwiperSlide>
-      <SwiperSlide>Slide 2</SwiperSlide>
-      <SwiperSlide>Slide 3</SwiperSlide>
-      <SwiperSlide>Slide 4</SwiperSlide>
+    <h1 className='text-3xl font-bold text-center pt-10 pb-5'>OUR INVENTORY</h1>
+    <Swiper navigation={true} pagination={true} modules={[Navigation, Pagination]} className="mySwiper mx-10">
+      <SwiperSlide>
+        <div className='flex py-10 justify-center'>
+          <div className='w-1/2 mx-auto space-y-5'>
+              <img className='mx-auto' src={long} alt="Long Charcoal"/>
+              <p className='text-center font-bold text-xl'>
+                SAWDUST CHARCOAL
+              </p>
+              <p className='text-center'>
+              Sawdust Charcoal is made by burning wood in the absence of oxygen. Our modern carbonization process produces strong and high density charcoal. Its unique hexagonal shape provides efficient storage, wide surface area, and easy stacking of charcoal during usage.
+              </p>    
+          </div>
+        </div>
+      </SwiperSlide>
+      <SwiperSlide>
+        <div className='flex py-10 justify-center'>
+          <div className='w-1/2 mx-auto space-y-5'>
+              <img className='mx-auto' src={cube} alt="Long Charcoal"/>
+              <p className='text-center font-bold text-xl'>
+              CUBES SHISHA CHARCOAL
+              </p>
+              <p className='text-center'>
+              Arguably the most common type of shisha coal, cubes have six flat equal sides (like dice) which make them ultra-stable when burning. Cubes offer a slow burn and can be successfully used with most hookah bowl and screen setups due to the many different sizes available. Make sure to rotate the cubes throughout the session to get the best results.
+              </p>    
+          </div>
+        </div>
+      </SwiperSlide>
+      <SwiperSlide>
+        <div className='flex py-10 justify-center'>
+          <div className='w-1/2 mx-auto space-y-5'>
+              <img className='mx-auto' src={question} alt="Long Charcoal"/>
+              <p className='text-center font-bold text-xl'>
+              CUSTOMIZE YOUR CHARCOAL!
+              </p>
+              <p className='text-center'>
+              You can customize the shape of the charcoal. You can adjust the size, hardness, and duration of burning. We will make all expectations as much as possible.
+              </p>    
+          </div>
+        </div>
+      </SwiperSlide>
     </Swiper>
     {/* End Carousel */}
+
+    {/* Maps */}
+    <div>
+        <iframe
+      className='w-full h-60'
+      loading="lazy"
+      title='maps'
+      allowfullscreen
+      referrerpolicy="no-referrer-when-downgrade"
+      src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCBsWcQJiEmoNEY3XJZCTEfdxU-jkfyn4M
+        &q=Mixue Tambun">
+      </iframe>
+    </div>
+
+    {/* End Maps */}
 
     </div>
   );
