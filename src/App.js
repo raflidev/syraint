@@ -11,6 +11,11 @@ import image1 from "./images/1.jpg"
 import image2 from "./images/2.jpg"
 import image3 from "./images/3.jpg"
 
+// icon
+import linkedin from "./images/icon/linkedin.svg"
+import facebook from "./images/icon/facebook.svg"
+import instagram from "./images/icon/instagram.svg"
+
 import long from "./images/Long_Charcoal.png"
 import cube from "./images/Cube_Charcoal.png"
 import question from "./images/question_mark.png"
@@ -75,7 +80,7 @@ function App() {
             <div className="grid grid-cols-1 lg:grid-cols-3 gap-4">
               <div className="flex">
                 <div className="w-1/6">
-                  <svg xmlns="http://www.w3.org/2000/svg" className="h-12 w-12 bg-green-400 rounded-full" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                  <svg xmlns="http://www.w3.org/2000/svg" className="h-12 w-12 bg-orange-600 rounded-full" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
                     <path d="M12 14l9-5-9-5-9 5 9 5z" />
                     <path d="M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z" />
                   <path strokeLinecap="round" strokeLinejoin="round" d="M12 14l9-5-9-5-9 5 9 5zm0 0l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14zm-4 6v-7.5l4-2.222" />
@@ -90,7 +95,7 @@ function App() {
               </div>
               <div className="flex">
                 <div className="w-1/6">
-                  <svg xmlns="http://www.w3.org/2000/svg" className="h-12 w-12 bg-green-400 rounded-full" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                  <svg xmlns="http://www.w3.org/2000/svg" className="h-12 w-12 bg-orange-600 rounded-full" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
                     <path d="M12 14l9-5-9-5-9 5 9 5z" />
                     <path d="M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z" />
                   <path strokeLinecap="round" strokeLinejoin="round" d="M12 14l9-5-9-5-9 5 9 5zm0 0l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14zm-4 6v-7.5l4-2.222" />
@@ -105,7 +110,7 @@ function App() {
               </div>
               <div className="flex">
                 <div className="w-1/6">
-                  <svg xmlns="http://www.w3.org/2000/svg" className="h-12 w-12 bg-green-400 rounded-full" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                  <svg xmlns="http://www.w3.org/2000/svg" className="h-12 w-12 bg-orange-600 rounded-full" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
                     <path d="M12 14l9-5-9-5-9 5 9 5z" />
                     <path d="M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z" />
                   <path strokeLinecap="round" strokeLinejoin="round" d="M12 14l9-5-9-5-9 5 9 5zm0 0l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14zm-4 6v-7.5l4-2.222" />
@@ -275,10 +280,107 @@ function App() {
     </Swiper>
     {/* End Carousel */}
 
+    {/* Team */}
+     <div className='my-10'>
+      <div className='bg-orange-600 text-white py-10'>
+        <h1 className='text-center uppercase text-3xl font-bold py-3'>Our Team</h1>
+        <div className="w-5/6 mx-auto py-10">
+          <div className="grid grid-cols-4 gap-4">
+            <div>
+              <div className='mx-auto w-40 h-40 bg-red-100 rounded-full mb-5'></div>
+              <div className='space-y-3 text-center'>
+                <div className='font-bold text-xl'>Muhammad Rafli Ramadhan</div>
+                <div className='text-lg'>Jabatan</div>
+                <div className='italic'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nobis, magni.</div>
+                <div className='flex justify-center space-x-5 pt-5'>
+                  <div>
+                    <img src={linkedin} className="text-white" alt="" />
+                  </div>
+                  <div>
+                    <img src={facebook} className="text-white" alt="" />
+                  </div>
+                  <div>
+                    <img src={instagram} className="text-white" alt="" />
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            
+            <div>
+              <div className='mx-auto w-40 h-40 bg-red-100 rounded-full mb-5'></div>
+              <div className='space-y-3 text-center'>
+                <div className='font-bold text-xl'>Muhammad Rafli Ramadhan</div>
+                <div className='text-lg'>Jabatan</div>
+                <div className='italic'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nobis, magni.</div>
+                <div className='flex justify-center space-x-5 pt-5'>
+                  <div>
+                    <img src={linkedin} className="text-white" alt="" />
+                  </div>
+                  <div>
+                    <img src={facebook} className="text-white" alt="" />
+                  </div>
+                  <div>
+                    <img src={instagram} className="text-white" alt="" />
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            
+            <div>
+              <div className='mx-auto w-40 h-40 bg-red-100 rounded-full mb-5'></div>
+              <div className='space-y-3 text-center'>
+                <div className='font-bold text-xl'>Muhammad Rafli Ramadhan</div>
+                <div className='text-lg'>Jabatan</div>
+                <div className='italic'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nobis, magni.</div>
+                <div className='flex justify-center space-x-5 pt-5'>
+                  <div>
+                    <img src={linkedin} className="text-white" alt="" />
+                  </div>
+                  <div>
+                    <img src={facebook} className="text-white" alt="" />
+                  </div>
+                  <div>
+                    <img src={instagram} className="text-white" alt="" />
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            
+            <div>
+              <div className='mx-auto w-40 h-40 bg-red-100 rounded-full mb-5'></div>
+              <div className='space-y-3 text-center'>
+                <div className='font-bold text-xl'>Muhammad Rafli Ramadhan</div>
+                <div className='text-lg'>Jabatan</div>
+                <div className='italic'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nobis, magni.</div>
+                <div className='flex justify-center space-x-5 pt-5'>
+                  <div>
+                    <img src={linkedin} className="text-white" alt="" />
+                  </div>
+                  <div>
+                    <img src={facebook} className="text-white" alt="" />
+                  </div>
+                  <div>
+                    <img src={instagram} className="text-white" alt="" />
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            
+          </div>
+        </div>
+      </div>
+     </div>
+    {/* End Team */}
+
     {/* Maps */}
     <div>
+      <h1 className='text-center uppercase text-3xl font-bold py-8'>Location</h1>
         <iframe
-      className='w-full h-60'
+      className='w-5/6 mx-auto h-96'
       loading="lazy"
       title='maps'
       allowfullscreen
@@ -289,6 +391,17 @@ function App() {
     </div>
 
     {/* End Maps */}
+
+    {/* Footer */}
+    <div className='w-full bg-orange-600 py-7 mt-10'>
+      <div className='text-center text-sm font-light text-white space-y-1'>
+        <p>syra.idn@gmail.com</p>
+        <p>+62 812-9710-8565 (Whatsapp)</p>
+        <p>Indonesia, Bekasi. Medan Satria, Pejuang Jaya, Jalan Komando Raya.</p>
+        <p className='pt-5'>&copy;2021 by PT Syra International.</p>
+      </div>
+    </div>
+    {/* End Footer */}
 
     </div>
   );
