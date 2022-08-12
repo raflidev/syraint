@@ -2,7 +2,7 @@ import React from 'react'
 
 function Feature() {
   return (
-    <div>
+    <div id="about">
     <div className="w-5/6 mx-auto mt-24 pt-5 pb-10">
         <div className="mx-10 grid grid-cols-2 lg:grid-cols-4 items-start gap-10 ">
           <div className="space-y-5">
