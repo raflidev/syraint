@@ -1,8 +1,56 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
 import jumbotron from "../images/jumbotron.jpg"
+import {Link} from "react-router-dom"
 
-const provide = ['Product', 'Service'];
+const provide = [
+  {
+    nama: "Products",
+    sub:[
+      {
+        nama: "Agriculture",
+        slug: "agriculture"
+      },
+      {
+        nama: "Steel",
+        slug: "steel"
+      },
+      {
+        nama: "Coal",
+        slug: "coal"
+      },
+      {
+        nama: "Biodiesel",
+        slug: "biodiesel"
+      },
+      {
+        nama: "Wood Furniture",
+        slug: "wood-furniture"
+      },
+    ]
+  },
+  {
+    nama: "Services",
+    sub: [
+      {
+        nama: "Air Freight",
+        slug: "air-feight"
+      },
+      {
+        nama: "Sea Freight",
+        slug: "sea-freight"
+      },
+      {
+        nama: "Custom Brokerage",
+        slug: "custom-brokerage"
+      },
+      {
+        nama: "Inland Service",
+        slug: "inland-service"
+      },
+    ]
+  } 
+];
 
 function Home() {
   return (
@@ -12,11 +60,11 @@ function Home() {
             <div className='flex h-full text-white bg-black/40'>
                 <div className='m-auto'>
                     <div className='flex justify-center'>
-                        <div className='w-4/6 text-center space-y-2'>
+                        <div className='w-4/6 text-center space-y-10'>
                             <div className='font-bold text-4xl'>
                                 Syra International
                             </div>
-                            <div className='text-lg'>
+                            <div className='text-sm lg:text-lg'>
                             Syra International is a distributor company that specializes in a wide range of products and services, including Agriculture, Teak Root Furniture, Iron, Biodiesel, and Coal, as well as freight forwarding services such as Inland, Air, and Sea Freight Service. We have a large sales capacity and export their products to various countries. We are dedicated to providing the best service and fulfilling the needs of clients.
                             </div>
                         </div>
@@ -26,19 +74,31 @@ function Home() {
         </section>
 
         {/* Provide Section */}
-        <section className='px-16 py-10'>
+        <section className='px-2 lg:px-16 py-10 my-32'>
             <div className='uppercase text-gold font-bold text-2xl text-center'>we provide your needs</div>
                 <div className='flex justify-center mt-20'>
-                    <div className='w-4/6 grid grid-cols-1 gap-4'>
+                    <div className='w-full lg:w-4/6 grid grid-cols-1 gap-10 space-y-10'>
                         {provide.map((item, index) => (
-                            <div key={index} id={item}>
+                            <div key={index} className="w-full" id={item.nama}>
                                 <div className='bg-black w-full h-[20rem] bg-cover rounded-lg bg-center' style={{backgroundImage: `url(${jumbotron})`}}>
                                     <div className='flex h-full text-white bg-black/40'>
-                                        <div className='m-auto'>
-                                            <div className='flex justify-center'>
-                                                <div className='w-4/6 text-center space-y-2'>
+                                        <div className='m-auto w-full'>
+                                            <div className='flex w-full justify-center'>
+                                                <div className='w-5/6 text-center space-y-2'>
                                                     <div className='font-bold text-lg'>
-                                                        {item}
+                                                        {item.nama}
+                                                    </div>
+                                                    <div className={`w-full grid grid-cols-2 md:grid-cols-${item.sub.length} font-medium justify-center gap-4 pt-6`}>
+                                                      {item.sub.map((sub, index) => (
+                                                        <Link to={`/product/${sub.slug}`} className='bg-gold px-2 h-16 bg-cover bg-center text-black hover:cursor-pointer duration-200 rounded-md hover:bg-black hover:text-gold' key={index}>
+                                                          <div className='flex h-full'>
+                                                            <div className="m-auto">
+                                                              {sub.nama} 
+                                                            </div>
+                                                          </div>
+                                                        </Link>
+                                                      ))
+                                                      }
                                                     </div>
                                                 </div>
                                             </div>
@@ -53,9 +113,9 @@ function Home() {
         {/* End Provide Section */}
 
         {/* Choose Section */}
-        <section id="why-us" className='px-16 py-20'>
-            <div className='uppercase text-gold font-bold text-2xl text-center'>Why Choose Syra?</div>
-            <div className='grid grid-cols-3 gap-4 my-16'>
+        <section id="why-us" className='px-16 py-28 text-black bg-gold'>
+            <div className='uppercase font-bold text-2xl text-center'>Why Choose Syra?</div>
+            <div className='grid grid-cols-1 space-y-10 lg:space-y-0 lg:grid-cols-3 gap-4 my-16'>
                 <div className='flex justify-center'>
                     <div className='text-center space-y-3'>
                         <div className='font-bold text-xl'>Innovation</div>
