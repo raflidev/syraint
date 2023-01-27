@@ -1,7 +1,37 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
 import jumbotron from "../images/jumbotron.jpg"
+import { Swiper, SwiperSlide } from "swiper/react";
+// import required modules
+import { Pagination, Navigation } from "swiper";
 import {Link} from "react-router-dom"
+
+import "swiper/css";
+import "swiper/css/pagination";
+import "swiper/css/navigation"; 
+
+import coal1 from "../images/coal/1.png";
+import coal2 from "../images/coal/2.png";
+import coal3 from "../images/coal/3.png";
+import coal4 from "../images/coal/4.png";
+import coal5 from "../images/coal/5.png";
+
+
+import wood1 from "../images/wood/1.jpeg"
+import wood2 from "../images/wood/2.jpeg"
+import wood3 from "../images/wood/3.jpeg"
+import wood4 from "../images/wood/4.jpeg"
+import wood5 from "../images/wood/5.jpeg"
+import wood6 from "../images/wood/6.jpeg"
+import wood7 from "../images/wood/7.jpeg"
+import wood8 from "../images/wood/8.jpeg"
+import wood9 from "../images/wood/9.jpeg"
+import wood10 from "../images/wood/10.jpeg"
+import wood11 from "../images/wood/11.jpeg"
+import wood12 from "../images/wood/12.jpeg"
+import wood13 from "../images/wood/13.jpeg"
+
+const gambar = [coal1, coal2, coal3, coal4, coal5, wood1, wood2, wood3, wood4, wood5, wood6, wood7, wood8, wood9, wood10, wood11, wood12, wood13];
 
 const provide = [
   {
@@ -113,7 +143,7 @@ function Home() {
         {/* End Provide Section */}
 
         {/* Choose Section */}
-        <section id="why-us" className='px-16 py-28 text-black bg-gold'>
+        <section id="why-us" className='px-3 md:px-16 py-28 text-black bg-gold'>
             <div className='uppercase font-bold text-2xl text-center'>Why Choose Syra?</div>
             <div className='grid grid-cols-1 space-y-10 lg:space-y-0 lg:grid-cols-3 gap-4 my-16'>
                 <div className='flex justify-center'>
@@ -137,6 +167,38 @@ function Home() {
             </div>
         </section>
         {/* End Choose Section */}
+
+        {/* Our Client Section */}
+        <section className='px-3 md:px-16 py-28'>
+          <div className='uppercase font-bold text-2xl text-center mb-20'>Our Client</div>
+          <div>
+          <Swiper
+            pagination={{
+              type: "fraction",
+            }}
+            navigation={true}
+            modules={[Pagination, Navigation]}
+            className="text-gold"
+          >
+          {
+            gambar.map((item, index) => (
+              <SwiperSlide key={index}>
+                <div className='flex h-full'>
+                  <div className="m-auto">
+                    <div className='w-full'>
+                      <div className="flex justify-center">
+                        <img src={item} className="w-full md:w-1/2" alt="" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </SwiperSlide>
+            ))
+          }
+          </Swiper>
+          </div>
+        </section>
+        {/* End Our Client Section */}
 
         {/* Footer Section */}
         <footer className='bg-black text-white'>

@@ -14,7 +14,7 @@ export default function Navbar() {
     };
     window.addEventListener('scroll', changeNavbarColor);
   return (
-    <div className='fixed top-0 w-full text-white'> 
+    <div className='fixed top-0 w-full text-white z-20'> 
         <div className={`flex justify-between items-center uppercase py-5 px-10 lg:px-16 duration-300 ${colorchange ? 'bg-black' : 'bg-transparent'}`}>
             <div className='font-bold'>Syra International</div>
             <div className='hidden md:inline space-x-16 text-xs font-medium'>
