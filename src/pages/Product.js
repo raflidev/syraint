@@ -1,25 +1,8 @@
 import React, { useEffect, useState } from 'react'
 import { Link, useParams  } from 'react-router-dom'
-import jumbotron from "../images/jumbotron.jpg"
 
-const product = [
-  {
-    nama: "Kayu Jati",
-    slug: "wood-furniture",
-  },
-  {
-    nama: "Bacang",
-    slug: "wood-furniture",
-  },
-  {
-    nama: "Keyboard",
-    slug: "wood-furniture",
-  },
-  {
-    nama: "Ketoprak",
-    slug: "wood-furniture",
-  },
-];
+
+import { product } from '../data';
 
 const provide = [
   {
@@ -81,17 +64,20 @@ function Product() {
         <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mt-10 duration-300'>
           {
             filteredProduct.map((item, index) => (
-              <div key={index} className="border-2 border-black pb-2 rounded duration-300">
-                <img src={jumbotron} className='h-[10rem] w-full rounded' alt="asd"/>
-                <div className='p-2'>
+              <Link to={`/product/${item.slug}/${item.id}`} key={index} className=" pb-2 rounded duration-500 hover:bg-black/80 hover:cursor-pointer hover:text-white">
+                <img src={item.gambar[0]} className='w-full rounded' alt="asd"/>
+                <div className='p-2 space-y-1'>
                   <div className='text-xs'>
-                    category: {item.slug}
-                  </div>
-                  <div className='font-medium text-lg'>
                     {item.nama}
                   </div>
+                  <div className='font-medium text-lg'>
+                    ${item.harga[0]}
+                  </div>
+                  <span className='bg-green-300/70 font-medium text-xs rounded py-1 px-2'>
+                    free shipping
+                  </span>
                 </div>
-              </div>
+              </Link>
             ))
           }
           {
