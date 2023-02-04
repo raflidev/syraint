@@ -1,3 +1,12 @@
+import yudy from "./images/people/yudy.jpg";
+import aldy from "./images/people/aldy.jpeg";
+import rafli from "./images/people/rafli.jpeg";
+import ali from "./images/people/ali.jpeg";
+import hilman from "./images/people/hilman.jpeg";
+import linkedin from "./images/icon/linkedin.svg"
+import instagram from "./images/icon/instagram.svg"
+import facebook from "./images/icon/facebook.svg"
+
 import f1_1 from "./images/furniture/1/1.jpg";
 import f1_2 from "./images/furniture/1/2.jpg";
 import f1_3 from "./images/furniture/1/3.jpg";
@@ -19,6 +28,8 @@ import f4_1 from "./images/furniture/4/1.jpg";
 import f4_2 from "./images/furniture/4/2.jpg";
 import f4_3 from "./images/furniture/4/3.jpg";
 import f4_4 from "./images/furniture/4/4.jpg";
+
+
 
 export const product = [
   {
@@ -55,3 +66,93 @@ export const product = [
   },
   
 ];
+
+
+export const people = [
+  {
+    nama: 'YUDY HADI WIBOWO',
+    gambar: yudy,
+    jabatan: 'Founder',
+    quotes: "Integrity is an indicator of one's success and trust is built with good communication.",
+    links: [
+      {
+        nama: 'linkedin',
+        icon: linkedin,
+        url: 'https://www.linkedin.com/in/yudyhadiwibowo/'
+      },
+      {
+        nama: 'facebook',
+        icon: facebook,
+        url: 'https://www.facebook.com/yudyhadiwibowo/',
+      },
+      {
+        nama: 'instagram',
+        icon: instagram,
+        url: 'http://www.instagram.com/yudyhadi'
+      },
+    ]
+  },
+  {
+    nama: 'ALDY ALFARIDZY ASHARY',
+    gambar: aldy,
+    jabatan: 'Co-Founder',
+    quotes: "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+    links: [
+      {
+        nama: 'linkedin',
+        icon: linkedin,
+        url: 'https://www.linkedin.com/in/aldyalfaridzy'
+      },
+      {
+        nama: 'instagram',
+        icon: instagram,
+        url: 'http://www.instagram.com/dyyz7'
+      },
+    ]
+  },
+  {
+    nama: 'MUHAMMAD RAFLI RAMADHAN',
+    gambar: rafli,
+    jabatan: 'Chief Technology Officer',
+    quotes: "The more I read, the more I acquire, the more certain I am that I know nothing.",
+    links: [
+      {
+        nama: 'linkedin',
+        icon: linkedin,
+        url: 'https://www.linkedin.com/in/raflidev/'
+      },
+      {
+        nama: 'instagram',
+        icon: instagram,
+        url: 'http://www.instagram.com/raflidev'
+      },
+    ]
+  },
+  {
+    nama: 'ALI RAFII MARZUKI',
+    gambar: ali,
+    jabatan: 'Chief Marketing Officer',
+    quotes: "Some are born great, some achieve greatness, and some have greatness thrust upon them.",
+    links: [
+      {
+        nama: 'instagram',
+        icon: instagram, 
+        url: 'https://www.instagram.com/alirafii.marzuki/'
+      },
+    ]
+  },
+  {
+    nama: 'Hilman al hazmi',
+    gambar: hilman,
+    jabatan: 'Chief Marketing Officer',
+    quotes: "Don't stop when you are tired. Stop when you are done!",
+    links: [
+      {
+        nama: 'instagram',
+        icon: instagram,
+        url: 'https://www.instagram.com/hilmanhazmiii/'
+      },
+    ]
+  },
+  
+]

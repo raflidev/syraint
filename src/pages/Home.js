@@ -6,6 +6,8 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import { Pagination, Navigation } from "swiper";
 import {Link} from "react-router-dom"
 
+import {people} from "../data"
+
 import "swiper/css";
 import "swiper/css/pagination";
 import "swiper/css/navigation"; 
@@ -91,7 +93,7 @@ function Home() {
                 <div className='m-auto'>
                     <div className='flex justify-center'>
                         <div className='w-4/6 text-center space-y-10'>
-                            <div className='font-bold text-4xl'>
+                            <div className='font-bold text-5xl'>
                                 Syra International
                             </div>
                             <div className='text-sm lg:text-lg'>
@@ -105,7 +107,7 @@ function Home() {
 
         {/* Provide Section */}
         <section className='px-2 lg:px-16 py-10 my-32'>
-            <div className='uppercase text-gold font-bold text-2xl text-center'>we provide your needs</div>
+            <div className='uppercase text-gold font-bold text-3xl text-center'>we provide your needs</div>
                 <div className='flex justify-center mt-20'>
                     <div className='w-full lg:w-4/6 grid grid-cols-1 gap-10 space-y-10'>
                         {provide.map((item, index) => (
@@ -115,7 +117,7 @@ function Home() {
                                         <div className='m-auto w-full'>
                                             <div className='flex w-full justify-center'>
                                                 <div className='w-5/6 text-center space-y-2'>
-                                                    <div className='font-bold text-lg'>
+                                                    <div className='font-bold text-3xl'>
                                                         {item.nama}
                                                     </div>
                                                     <div className={`w-full grid grid-cols-2 md:grid-cols-${item.sub.length} font-medium justify-center gap-4 pt-6`}>
@@ -144,7 +146,7 @@ function Home() {
 
         {/* Choose Section */}
         <section id="why-us" className='px-3 md:px-16 py-28 text-black bg-gold'>
-            <div className='uppercase font-bold text-2xl text-center'>Why Choose Syra?</div>
+            <div className='uppercase font-bold text-3xl text-center'>Why Choose Syra?</div>
             <div className='grid grid-cols-1 space-y-10 lg:space-y-0 lg:grid-cols-3 gap-4 my-16'>
                 <div className='flex justify-center'>
                     <div className='text-center space-y-3'>
@@ -170,7 +172,7 @@ function Home() {
 
         {/* Our Client Section */}
         <section className='px-3 md:px-16 py-28'>
-          <div className='uppercase font-bold text-2xl text-center mb-20'>Our Client</div>
+          <div className='uppercase font-bold text-3xl text-center mb-20'>Our Client</div>
           <div>
           <Swiper
             pagination={{
@@ -199,6 +201,46 @@ function Home() {
           </div>
         </section>
         {/* End Our Client Section */}
+
+        {/* Our Team */}
+        <section className='bg-gold px-3 md:px-16 py-28'>
+        <div className=' text-black'>
+        <h1 className='text-center uppercase text-3xl font-bold py-3'>Our Team</h1>
+        <div className="w-5/6 mx-auto py-10">
+          <div className="grid grid-cols-1 space-y-4 lg:space-y-0 lg:grid-cols-3 gap-5 items-start">
+            { people.map((item, index) => (
+              <div>
+                <img src={item.gambar} className='mx-auto w-48 h-48 bg-red-100 rounded-full mb-5' alt="" srcset="" />
+                <div className='space-y-3 text-center'>
+                  <div className='font-bold text-xl uppercase'>{item.nama}</div>
+                  <div className='text-lg'>{item.jabatan}</div>
+                  <div className='italic'>{item.quotes}</div>
+                  <div className='flex justify-center space-x-5 pt-2 pb-8'>
+                    {
+                      item.links.map((sub, index) => (
+                        <a href={sub.url} target="_blank" rel="noreferrer">
+                          <img src={sub.icon} className="text-black hover:bg-orange-700 p-1 hover:rounded hover:cursor-pointer" alt="" />
+                        </a>
+                      ))
+                    }
+{/*                     
+                    <a href="https://www.facebook.com/yudyhadiwibowo/" target="_blank" rel="noreferrer">
+                      <img src={facebook} className="text-white hover:bg-orange-700 p-1 hover:rounded hover:cursor-pointer" alt="" />
+                    </a>
+                    <a href="http://www.instagram.com/yudyhadi" target="_blank" rel="noreferrer">
+                      <img src={instagram} className="text-white hover:bg-orange-700 p-1 hover:rounded hover:cursor-pointer" alt="" />
+                    </a> */}
+                  </div>
+                </div>
+              </div>
+            ))}
+
+            
+          </div>
+        </div>
+      </div>
+        </section>
+        {/* End Our Team */}
 
         {/* Footer Section */}
         <footer className='bg-black text-white'>
