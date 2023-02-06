@@ -70,10 +70,10 @@ function Product() {
                   <div className='text-xs font-medium'>
                     Category: <span className='underline'>{item.tipe}</span>
                   </div>
-                  <div className='text-xs'>
+                  <div className='text-sm font-semibold'>
                     {item.nama}
                   </div>
-                  <div className='font-medium text-lg'>
+                  <div className='font-bold text-lg'>
                     ${item.harga[0]}
                   </div>
                   <span className='bg-green-300/70 font-medium text-xs rounded py-1 px-2'>
