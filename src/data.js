@@ -304,6 +304,280 @@ import f54_2 from "./images/furniture/54/2.jpg";
 import f54_3 from "./images/furniture/54/3.jpg";
 import f54_4 from "./images/furniture/54/4.jpg";
 
+import f55_1 from "./images/furniture/55/1.jpg";
+import f55_2 from "./images/furniture/55/2.jpg";
+import f55_3 from "./images/furniture/55/3.jpg";
+import f55_4 from "./images/furniture/55/4.jpg";
+
+import f56_1 from "./images/furniture/56/1.jpg";
+import f56_2 from "./images/furniture/56/2.jpg";
+import f56_3 from "./images/furniture/56/3.jpg";
+import f56_4 from "./images/furniture/56/4.jpg";
+import f56_5 from "./images/furniture/56/5.jpg";
+import f56_6 from "./images/furniture/56/6.jpg";
+
+import f57_1 from "./images/furniture/57/1.jpg";
+import f57_2 from "./images/furniture/57/2.jpg";
+import f57_3 from "./images/furniture/57/3.jpg";
+import f57_4 from "./images/furniture/57/4.jpg";
+import f57_5 from "./images/furniture/57/5.jpg";
+
+import f58_1 from "./images/furniture/58/1.jpg";
+import f58_2 from "./images/furniture/58/2.jpg";
+import f58_3 from "./images/furniture/58/3.jpg";
+import f58_4 from "./images/furniture/58/4.jpg";
+
+import f59_1 from "./images/furniture/59/1.jpg";
+import f59_2 from "./images/furniture/59/2.jpg";
+import f59_3 from "./images/furniture/59/3.jpg";
+import f59_4 from "./images/furniture/59/4.jpg";
+import f59_5 from "./images/furniture/59/5.jpg";
+import f59_6 from "./images/furniture/59/6.jpg";
+
+import f60_1 from "./images/furniture/60/1.jpg";
+import f60_2 from "./images/furniture/60/2.jpg";
+import f60_3 from "./images/furniture/60/3.jpg";
+import f60_4 from "./images/furniture/60/4.jpg";
+import f60_5 from "./images/furniture/60/5.jpg";
+
+import f61_1 from "./images/furniture/61/1.jpg";
+import f61_2 from "./images/furniture/61/2.jpg";
+import f61_3 from "./images/furniture/61/3.jpg";
+import f61_4 from "./images/furniture/61/4.jpg";
+import f61_5 from "./images/furniture/61/5.jpg";
+
+import f62_1 from "./images/furniture/62/1.jpg";
+import f62_2 from "./images/furniture/62/2.jpg";
+import f62_3 from "./images/furniture/62/3.jpg";
+import f62_4 from "./images/furniture/62/4.jpg";
+
+import f63_1 from "./images/furniture/63/1.jpg";
+import f63_2 from "./images/furniture/63/2.jpg";
+import f63_3 from "./images/furniture/63/3.jpg";
+import f63_4 from "./images/furniture/63/4.jpg";
+
+import f64_1 from "./images/furniture/64/1.jpg";
+import f64_2 from "./images/furniture/64/2.jpg";
+import f64_3 from "./images/furniture/64/3.jpg";
+import f64_4 from "./images/furniture/64/4.jpg";
+import f64_5 from "./images/furniture/64/5.jpg";
+
+import f65_1 from "./images/furniture/65/1.jpg";
+import f65_2 from "./images/furniture/65/2.jpg";
+import f65_3 from "./images/furniture/65/3.jpg";
+import f65_4 from "./images/furniture/65/4.jpg";
+
+import f66_1 from "./images/furniture/66/1.jpg";
+import f66_2 from "./images/furniture/66/2.jpg";
+import f66_3 from "./images/furniture/66/3.jpg";
+import f66_4 from "./images/furniture/66/4.jpg";
+import f66_5 from "./images/furniture/66/5.jpg";
+
+import f67_1 from "./images/furniture/67/1.jpg";
+import f67_2 from "./images/furniture/67/2.jpg";
+import f67_3 from "./images/furniture/67/3.jpg";
+import f67_4 from "./images/furniture/67/4.jpg";
+
+import f68_1 from "./images/furniture/68/1.jpg";
+import f68_2 from "./images/furniture/68/2.jpg";
+import f68_3 from "./images/furniture/68/3.jpg";
+import f68_4 from "./images/furniture/68/4.jpg";
+
+import f69_1 from "./images/furniture/69/1.jpg";
+import f69_2 from "./images/furniture/69/2.jpg";
+import f69_3 from "./images/furniture/69/3.jpg";
+import f69_4 from "./images/furniture/69/4.jpg";
+import f69_5 from "./images/furniture/69/5.jpg";
+import f69_6 from "./images/furniture/69/6.jpg";
+
+import f70_1 from "./images/furniture/70/1.jpg";
+import f70_2 from "./images/furniture/70/2.jpg";
+import f70_3 from "./images/furniture/70/3.jpg";
+import f70_4 from "./images/furniture/70/4.jpg";
+
+import f71_1 from "./images/furniture/71/1.jpg";
+import f71_2 from "./images/furniture/71/2.jpg";
+import f71_3 from "./images/furniture/71/3.jpg";
+import f71_4 from "./images/furniture/71/4.jpg";
+
+import f72_1 from "./images/furniture/72/1.jpg";
+import f72_2 from "./images/furniture/72/2.jpg";
+import f72_3 from "./images/furniture/72/3.jpg";
+import f72_4 from "./images/furniture/72/4.jpg";
+import f72_5 from "./images/furniture/72/5.jpg";
+
+import f73_1 from "./images/furniture/73/1.jpg";
+import f73_2 from "./images/furniture/73/2.jpg";
+import f73_3 from "./images/furniture/73/3.jpg";
+
+import f74_1 from "./images/furniture/74/1.jpg";
+import f74_2 from "./images/furniture/74/2.jpg";
+import f74_3 from "./images/furniture/74/3.jpg";
+import f74_4 from "./images/furniture/74/4.jpg";
+import f74_5 from "./images/furniture/74/5.jpg";
+
+import f75_1 from "./images/furniture/75/1.jpg";
+import f75_2 from "./images/furniture/75/2.jpg";
+import f75_3 from "./images/furniture/75/3.jpg";
+import f75_4 from "./images/furniture/75/4.jpg";
+
+import f76_1 from "./images/furniture/76/1.jpg";
+import f76_2 from "./images/furniture/76/2.jpg";
+import f76_3 from "./images/furniture/76/3.jpg";
+import f76_4 from "./images/furniture/76/4.jpg";
+import f76_5 from "./images/furniture/76/5.jpg";
+
+import f77_1 from "./images/furniture/77/1.jpg";
+import f77_2 from "./images/furniture/77/2.jpg";
+import f77_3 from "./images/furniture/77/3.jpg";
+import f77_4 from "./images/furniture/77/4.jpg";
+
+import f78_1 from "./images/furniture/78/1.jpg";
+import f78_2 from "./images/furniture/78/2.jpg";
+import f78_3 from "./images/furniture/78/3.jpg";
+import f78_4 from "./images/furniture/78/4.jpg";
+
+import f79_1 from "./images/furniture/79/1.jpg";
+import f79_2 from "./images/furniture/79/2.jpg";
+import f79_3 from "./images/furniture/79/3.jpg";
+import f79_4 from "./images/furniture/79/4.jpg";
+
+import f80_1 from "./images/furniture/80/1.jpg";
+import f80_2 from "./images/furniture/80/2.jpg";
+import f80_3 from "./images/furniture/80/3.jpg";
+import f80_4 from "./images/furniture/80/4.jpg";
+import f80_5 from "./images/furniture/80/5.jpg";
+
+import f81_1 from "./images/furniture/81/1.jpg";
+import f81_2 from "./images/furniture/81/2.jpg";
+import f81_3 from "./images/furniture/81/3.jpg";
+
+import f82_1 from "./images/furniture/82/1.jpg";
+import f82_2 from "./images/furniture/82/2.jpg";
+import f82_3 from "./images/furniture/82/3.jpg";
+import f82_4 from "./images/furniture/82/4.jpg";
+import f82_5 from "./images/furniture/82/5.jpg";
+
+import f83_1 from "./images/furniture/83/1.jpg";
+import f83_2 from "./images/furniture/83/2.jpg";
+import f83_3 from "./images/furniture/83/3.jpg";
+import f83_4 from "./images/furniture/83/4.jpg";
+
+import f84_1 from "./images/furniture/84/1.jpg";
+import f84_2 from "./images/furniture/84/2.jpg";
+import f84_3 from "./images/furniture/84/3.jpg";
+import f84_4 from "./images/furniture/84/4.jpg";
+
+import f85_1 from "./images/furniture/85/1.jpg";
+import f85_2 from "./images/furniture/85/2.jpg";
+import f85_3 from "./images/furniture/85/3.jpg";
+import f85_4 from "./images/furniture/85/4.jpg";
+import f85_5 from "./images/furniture/85/5.jpg";
+import f85_6 from "./images/furniture/85/6.jpg";
+
+import f86_1 from "./images/furniture/86/1.jpg";
+import f86_2 from "./images/furniture/86/2.jpg";
+import f86_3 from "./images/furniture/86/3.jpg";
+import f86_4 from "./images/furniture/86/4.jpg";
+import f86_5 from "./images/furniture/86/5.jpg";
+
+import f87_1 from "./images/furniture/87/1.jpg";
+import f87_2 from "./images/furniture/87/2.jpg";
+import f87_3 from "./images/furniture/87/3.jpg";
+
+import f88_1 from "./images/furniture/88/1.jpg";
+import f88_2 from "./images/furniture/88/2.jpg";
+import f88_3 from "./images/furniture/88/3.jpg";
+import f88_4 from "./images/furniture/88/4.jpg";
+import f88_5 from "./images/furniture/88/5.jpg";
+
+import f89_1 from "./images/furniture/89/1.jpg";
+import f89_2 from "./images/furniture/89/2.jpg";
+import f89_3 from "./images/furniture/89/3.jpg";
+import f89_4 from "./images/furniture/89/4.jpg";
+import f89_5 from "./images/furniture/89/5.jpg";
+import f89_6 from "./images/furniture/89/6.jpg";
+import f89_7 from "./images/furniture/89/7.jpg";
+import f89_8 from "./images/furniture/89/8.jpg";
+
+import f90_1 from "./images/furniture/90/1.jpg";
+import f90_2 from "./images/furniture/90/2.jpg";
+import f90_3 from "./images/furniture/90/3.jpg";
+import f90_4 from "./images/furniture/90/4.jpg";
+
+import f92_1 from "./images/furniture/92/1.jpg";
+import f92_2 from "./images/furniture/92/2.jpg";
+import f92_3 from "./images/furniture/92/3.jpg";
+import f92_4 from "./images/furniture/92/4.jpg";
+import f92_5 from "./images/furniture/92/5.jpg";
+
+import f93_1 from "./images/furniture/93/1.jpg";
+import f93_2 from "./images/furniture/93/2.jpg";
+import f93_3 from "./images/furniture/93/3.jpg";
+import f93_4 from "./images/furniture/93/4.jpg";
+import f93_5 from "./images/furniture/93/5.jpg";
+import f93_6 from "./images/furniture/93/6.jpg";
+
+import f94_1 from "./images/furniture/94/1.jpg";
+import f94_2 from "./images/furniture/94/2.jpg";
+import f94_3 from "./images/furniture/94/3.jpg";
+import f94_4 from "./images/furniture/94/4.jpg";
+import f94_5 from "./images/furniture/94/5.jpg";
+
+import f95_1 from "./images/furniture/95/1.jpg";
+import f95_2 from "./images/furniture/95/2.jpg";
+import f95_3 from "./images/furniture/95/3.jpg";
+import f95_4 from "./images/furniture/95/4.jpg";
+
+import f96_1 from "./images/furniture/96/1.jpg";
+import f96_2 from "./images/furniture/96/2.jpg";
+import f96_3 from "./images/furniture/96/3.jpg";
+
+import f97_1 from "./images/furniture/97/1.jpg";
+import f97_2 from "./images/furniture/97/2.jpg";
+import f97_3 from "./images/furniture/97/3.jpg";
+
+import f98_1 from "./images/furniture/98/1.jpg";
+import f98_2 from "./images/furniture/98/2.jpg";
+import f98_3 from "./images/furniture/98/3.jpg";
+import f98_4 from "./images/furniture/98/4.jpg";
+
+import f99_1 from "./images/furniture/99/1.jpg";
+import f99_2 from "./images/furniture/99/2.jpg";
+import f99_3 from "./images/furniture/99/3.jpg";
+import f99_4 from "./images/furniture/99/4.jpg";
+
+import f100_1 from "./images/furniture/100/1.jpg";
+import f100_2 from "./images/furniture/100/2.jpg";
+import f100_3 from "./images/furniture/100/3.jpg";
+import f100_4 from "./images/furniture/100/4.jpg";
+
+import f101_1 from "./images/furniture/101/1.jpg";
+import f101_2 from "./images/furniture/101/2.jpg";
+import f101_3 from "./images/furniture/101/3.jpg";
+import f101_4 from "./images/furniture/101/4.jpg";
+
+import f102_1 from "./images/furniture/102/1.jpg";
+import f102_2 from "./images/furniture/102/2.jpg";
+import f102_3 from "./images/furniture/102/3.jpg";
+import f102_4 from "./images/furniture/102/4.jpg";
+
+import f103_1 from "./images/furniture/103/1.jpg";
+import f103_2 from "./images/furniture/103/2.jpg";
+import f103_3 from "./images/furniture/103/3.jpg";
+import f103_4 from "./images/furniture/103/4.jpg";
+
+import f104_1 from "./images/furniture/104/1.jpg";
+import f104_2 from "./images/furniture/104/2.jpg";
+import f104_3 from "./images/furniture/104/3.jpg";
+import f104_4 from "./images/furniture/104/4.jpg";
+import f104_5 from "./images/furniture/104/5.jpg";
+import f104_6 from "./images/furniture/104/6.jpg";
+
+import f105_1 from "./images/furniture/105/1.jpg";
+import f105_2 from "./images/furniture/105/2.jpg";
+import f105_3 from "./images/furniture/105/3.jpg";
+
 
 
 export const product = [
@@ -793,6 +1067,466 @@ export const product = [
     spek: ["Height: 47 inches | Width : 31,4 inches"],
     slug: "wood-furniture"
    },
+   {
+    id: "55",
+    tipe: "Dining Table",
+    nama: "White - Carving Table - Flower Shape - Round Teak Stump Dining Table – Tree Stump Dining Table – Teak Wood Dining Table - Live Edge Table",
+    gambar: [f55_1,f55_2,f55_3,f55_4],
+    harga: ["1950","2150","2350","2650","2000","2200","2400","2700"],
+    spek: ["Height: 29.5 Inches | Diameter: 31.4 inches","Height: 29.5 Inches | Diameter: 35.4 inches","Height: 29.5 inches | Diameter: 39.3 inches","Height: 29.5 inches| Diameter: 47.2 inches","Height: 31.4 inches | Diameter: 31.4 inches","Height: 31.4 inches | Diameter: 35.4 inches","Height: 31.4 inches | Diameter: 39.3 inches","Height: 31.4 inches | Diameter: 47.2 inches"],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "56",
+    tipe: "Dining Table",
+    nama: "White Djembe Teak Root Dining Table – Tree Root Dining Table – Teak Wood Table - Dining Room Furniture",
+    gambar: [f56_1,f56_2,f56_3,f56_4,f56_5,f56_6],
+    harga: ["1850", "2250","1900","2300"],
+    spek: ["Height: 75 Centimeters| Diameter: 80 Centimeters", "Height: 75 Centimeters| Diameter: 100 Centimeters","Height: 80 Centimeters| Diameter: 80 Centimeters","Height: 80 Centimeters| Diameter: 100 Centimeters"],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "57",
+    tipe: "Dining Table",
+    nama: "Round Cone - Teak Stump Table – Modern Dining Table – Natural Teak Wood Dining Table - Dining Room Furniture - Live Edge Table",
+    gambar: [f57_1,f57_2,f57_3,f57_4,f57_5],
+    harga: ["1650","2050","2350","2650"],
+    spek: ["Height: 31.4 Inches | Diameter: 23.6 inches", "Height: 31.4 Inches | Diameter: 31.4 inches","Height: 31.4 Inches | Diameter: 39.3 inches","Height: 31.4 Inches | Diameter: 47.2 inches"],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "58",
+    tipe: "Dining Table",
+    nama: "White Round Cone - Teak Stump Table – Modern Dining Table – Natural Teak Wood Dining Table - Dining Room Furniture",
+    gambar: [f58_1,f58_2,f58_3,f58_4],
+    harga: ["1550","1850","2150","2450","1600","1900","2200","2500"],
+    spek: ["Height: 29.5 inches | Diameter: 23.6 inches","Height: 29.5 inches | Diameter: 31.4 inches","Height: 29.5 inches | Diameter: 39.3 inches","Height: 29.5 inches | Diameter: 47.2 inches","Height: 31.4 inches | Diameter: 23.6 inches","Height: 31.4 inches | Diameter: 31.4 inches","Height: 31.4 inches | Diameter: 39.3 inches","Height: 31.4 inches | Diameter: 47.2 inches",],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "59",
+    tipe: "Dining Table",
+    nama: "Carving Table - Flower Shape - Round Teak Stump Dining Table – Tree Stump Dining Table – Teak Wood Dining Table - Dining Room Furniture",
+    gambar: [f59_1,f59_2,f59_3,f59_4,f59_5,f59_6],
+    harga: ["1550","2050","2350","2650","1600","2100","2400","2700",],
+    spek: ["Height: 29.5 inches | Diameter: 23.6 inches","Height: 29.5 inches | Diameter: 31.4 inches","Height: 29.5 inches | Diameter: 39 inches","Height: 29.5 inches | Diameter: 47.2 inches","Height: 31.4 inches | Diameter: 23.6 inches","Height: 31.4 inches | Diameter: 31.4 inches","Height: 31.4 inches | Diameter: 39 inches","Height: 31.4 inches | Diameter: 47.2 inches",],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "60",
+    tipe: "Coffee Table",
+    nama: "White - Square Teak Root Coffee Table – Teak Wood Coffee Table - Tree Root Table - Driftwood Coffee Table",
+    gambar: [f60_1,f60_2,f60_3,f60_4,f60_5],
+    harga: ["1400","1600","1800","2000","2400",],
+    spek: ["Height: 17.7 inches | Width : 19.6 inches","Height: 17.7 inches | Width : 23.6 inches","Height: 17.7 inches | Width : 31.4 inches","Height: 17.7 inches | Width : 39 inches","Height: 17.7 inches | Width : 47 inches",],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "61",
+    tipe: "Coffee Table",
+    nama: "Acacia Coffee Table - Side Table - End Table - Sofa Table - Acacia Stool - Bench - Outdoor Chair",
+    gambar: [f61_1,f61_2,f61_3,f61_4,f61_5],
+    harga: ["1150"],
+    spek: ["Width: 23.6 inches | Height: 17.7 inches | Depth: 23.6 inches"],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "62",
+    tipe: "Coffee Table",
+    nama: "Carving Table - Flower Shape - Teak Root Coffee Table – Side Table - End Table - Outdoor Table - Accent Table",
+    gambar: [f62_1,f62_2,f62_3,f62_4],
+    harga: ["2150"],
+    spek: ["Width: 47.2 inches | Height: 18 inches | Depth: 47.2 inches"],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "63",
+    tipe: "Coffee Table",
+    nama: "Teak Wood Slab Table - Live Edge Table - Outdoor Table - Gardening Tree Root Table",
+    gambar: [f63_1,f63_2,f63_3,f63_4],
+    harga: ["2200"],
+    spek: ["Width: 61 inches | Height: 26.3 inches | Depth: 29.5 inches"],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "64",
+    tipe: "Coffee Table",
+    nama: "Carving Table - Flower Shape Round - Teak Root Coffee Table – Natural Root Coffee Table – Teak Wood Coffee Table",
+    gambar: [f64_1,f64_2,f64_3,f64_4,f64_5],
+    harga: ["1850"],
+    spek: ["Width: 39.3 inches | Height: 17.7 inches | Depth: 39.3 inches"],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "65",
+    tipe: "Coffee Table",
+    nama: "Carving Table - Flower Shape Round - Teak Root Coffee Table - Driftwood Table - Live Edge Table - Wood Sculpture",
+    gambar: [f65_1,f65_2,f65_3,f65_4],
+    harga: ["1600"],
+    spek: ["Width: 31.4 inches | Height: 17.7 inches | Depth: 31.4 inches"],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "66",
+    tipe: "Coffee Table",
+    nama: "Teak Wood Slab Table - Erosion Root Table - Rustic Live Edge Table - Driftwood Table - Outdoor Table",
+    gambar: [f66_1,f66_2,f66_3,f66_4,f66_5],
+    harga: ["1930"],
+    spek: ["Width: 51 inches | Height: 24 inches | Depth: 25 inches"],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "67",
+    tipe: "Coffee Table",
+    nama: "Teak Root Coffee Table - Live Edge Table - Driftwood Table - Rustic Coffee Table - Rectangular Table",
+    gambar: [f67_1,f67_2,f67_3,f67_4],
+    harga: ["1300"],
+    spek: ["Width: 31.4 inches | Height: 15.7 inches | Depth: 23.6 inches"],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "68",
+    tipe: "Coffee Table",
+    nama: "Square - Wooden Patchwork Teak Root Coffee Table – Reclaimed Coffee Table – Teak Wood Table - Driftwood Table",
+    gambar: [f68_1,f68_2,f68_3,f68_4],
+    harga: ["1030","1200","1500","1650","1830","1100","1250","1530","1710","1880",],
+    spek: ["Height: 15.7 inches | Width : 15.7 inches","Height: 15.7 inches | Width : 19.6 inches","Height: 15.7 inches | Width : 23.6 inches","Height: 15.7 inches | Width : 31.5 inches","Height: 15.7 inches | Width : 39.4 inches","Height: 17.7 inches | Width : 19.6 inches","Height: 17.7 inches | Width : 23.6 inches","Height: 17.7 inches | Width : 31.4 inches","Height: 17.7 inches | Width : 39 inches","Height: 17.7 inches | Width : 47 inches",],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "69",
+    tipe: "Coffee Table",
+    nama: "Teak Root Coffee Table - Live Edge Table - Outdoor Table - Driftwood Table - Tree Root Sofa Table",
+    gambar: [f69_1,f69_2,f69_3,f69_4,f69_5,f69_6],
+    harga: ["2600"],
+    spek: ["Width: 63 inches | Height: 23.6 inches | Depth: 63 inches"],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "70",
+    tipe: "Coffee Table",
+    nama: "Square Carving Table - Flower Shape - Square Teak Root Coffee Table – Natural Root Coffee Table – Driftwood Coffee Table - Live Edge Table",
+    gambar: [f70_1,f70_2,f70_3,f70_4],
+    harga: ["1450","1550","1850","2050","2350","2750","1500","1600","1900","2100","2400","2800",],
+    spek: ["Height: 15.7 inches | Width : 19.6 inches","Height: 15.7 inches | Width : 23.6 inches","Height: 15.7 inches | Width : 31.4 inches","Height: 15.7 inches | Width : 39.3 inches","Height: 15.7 inches | Width : 47.2 inches","Height: 15.7 inches | Width : 59 inches","Height: 17.7 inches | Width : 19.6 inches","Height: 17.7 inches | Width : 23.6 inches","Height: 17.7 inches | Width : 31.4 inches","Height: 17.7 inches | Width : 39.3 inches","Height: 17.7 inches | Width : 47.2 inches","Height: 17.7 inches | Width : 59 inches",],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "71",
+    tipe: "Coffee Table",
+    nama: "White Round Teak Root Coffee Table – Natural Root Coffee Table – Teak Wood Coffee Table",
+    gambar: [f71_1,f71_2,f71_3,f71_4],
+    harga: ["1300","1450","1750","1950","2250","2650","1350","1500","1800","2000","2300","2700",],
+    spek: ["Height: 15.7 inches | Width : 19.6 inches","Height: 15.7 inches | Width : 23.6 inches","Height: 15.7 inches | Width : 31.4 inches","Height: 15.7 inches | Width : 39.3 inches","Height: 15.7 inches | Width : 47.2 inches","Height: 15.7 inches | Width : 59 inches","Height: 17.7 inches | Width : 19.6 inches","Height: 17.7 inches | Width : 23.6 inches","Height: 17.7 inches | Width : 31.4 inches","Height: 17.7 inches | Width : 39.3 inches","Height: 17.7 inches | Width : 47.2 inches","Height: 17.7 inches | Width : 59 inches"],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "72",
+    tipe: "Coffee Table",
+    nama: "Hole – Teak Wood Table – Teak Wood Bench – Teak Wood Garden Furniture – Live Edge Table",
+    gambar: [f72_1,f72_2,f72_3,f72_4,f72_5],
+    harga: ["1400"],
+    spek: ["Width: 38.5 inches | Height: 17.7 inches | Depth: 23.6 inches"],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "73",
+    tipe: "Coffee Table",
+    nama: "Hole – Teak Wood Table – Teak Wood Bench – Teak Wood Garden Furniture – Live Edge Table",
+    gambar: [f73_1,f73_2,f73_3],
+    harga: ["1400"],
+    spek: ["Width: 37 inches | Height: 17.7 inches | Depth: 19.6 inches"],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "74",
+    tipe: "Coffee Table",
+    nama: "Round - Teak Root Coffee Table – Teak Wood Coffee Table – Root Side Table - Live Edge Table - Driftwood Table",
+    gambar: [f74_1,f74_2,f74_3,f74_4,f74_5],
+    harga: ["1400","1650","1850","2150","1450","1700","1900","2200",],
+    spek: ["Height: 15.7 inches | Width : 23.6 inches","Height: 15.7 inches | Width : 31.4 inches","Height: 15.7 inches | Width : 39.3 inches","Height: 15.7 inches | Width : 47.2 inches","Height: 17.7 inches | Width : 23.6 inches","Height: 17.7 inches | Width : 31.4 inches","Height: 17.7 inches | Width : 39.3 inches","Height: 17.7 inches | Width : 47.2 inches",],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "75",
+    tipe: "Coffee Table",
+    nama: "Square - Tree Root Coffee Table – Outdoor Coffee Table – Teak Wood Table - Side Table - End Table - Live Edge Table",
+    gambar: [f75_1,f75_2,f75_3,f75_4],
+    harga: ["1450","1650","1850","2150","1500","1700","1900","2200",],
+    spek: ["Height: 15.7 inches | Width : 19.6 inches", "Height: 15.7 inches | Width : 23.6 inches","Height: 15.7 inches | Width : 31.4 inches","Height: 15.7 inches | Width : 39 inches","Height: 17.7 inches | Width : 19.6 inches","Height: 17.7 inches | Width : 23.6 inches","Height: 17.7 inches | Width : 31.4 inches","Height: 17.7 inches | Width : 39.3 inches",],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "76",
+    tipe: "Coffee Table",
+    nama: "Black Star - Teak Stump Table – Teak Wood End Table – Teak Wood Side Table - Outdoor Table - Live Edge Table",
+    gambar: [f76_1,f76_2,f76_3,f76_4,f76_5],
+    harga: ["1450","1550","1750","1950",],
+    spek: ["Height: 17.7 inches | Diameter : 19.6 inches","Height: 17.7 inches | Diameter : 23.6 inches","Height: 17.7 inches | Diameter : 31.4 inches","Height: 17.7 inches | Diameter : 39.3 inches",],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "77",
+    tipe: "Coffee Table",
+    nama: "White Round - Teak Root Coffee Table – Tree Root Table – End Table - Side Table - Night Stand - Live Edge Table - Living Room Furniture",
+    gambar: [f77_1,f77_2,f77_3,f77_4],
+    harga: ["1400","1500","1600","1800","2150",],
+    spek: ["Height: 17.7 inches | Width : 19.6 inches","Height: 17.7 inches | Width : 23.6 inches","Height: 17.7 inches | Width : 31.4 inches","Height: 17.7 inches | Width : 39.3 inches","Height: 17.7 inches | Width : 47.2 inches",],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "78",
+    tipe: "Coffee Table",
+    nama: "Log Coffee Table – Wood Coffee Table – End Table - Live Edge Table - Night Stand - Side Table",
+    gambar: [f78_1,f78_2,f78_3,f78_4],
+    harga: ["800","900","1100","1400"],
+    spek: ["Height: 15.7 inches | Width : 19.6 inches","Height: 15.7 inches | Width : 23.6 inches","Height: 15.7 inches | Width : 27.5 inches","Height: 15.7 inches | Width : 31.5 inches",],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "79",
+    tipe: "Coffee Table",
+    nama: "Carved Table - Sculpture Table - Fish Sculpture - Teak Root Coffee Table - Live Edge Table - Driftwood Table",
+    gambar: [f79_1,f79_2,f79_3,f79_4],
+    harga: ["2350"],
+    spek: ["Width: 47.2 inches | Height: 19.6 inches | Depth: 47.2 inches"],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "80",
+    tipe: "Coffee Table",
+    nama: "Round Teak Root Coffee Table – Round Teak Root Side Table – Round End Table – Live Edge Table – Rustic Table",
+    gambar: [f80_1,f80_2,f80_3,f80_4,f80_5],
+    harga: ["900"],
+    spek: ["Width: 23.6 inches | Height: 17.7 inches | Depth: 23.6 inches"],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "81",
+    tipe: "Coffee Table",
+    nama: "Rectangular - Natural Teak Root Coffee Table – Tree Root Side Table – Live Edge Table - Driftwood Table",
+    gambar: [f81_1,f81_2,f81_3],
+    harga: ["1850","2050"],
+    spek: ["Width: 39.3 inches | Height: 17.7 inches | Depth: 31.4 inches", "Width: 47.2 inches | Height: 17.7 inches | Depth: 31.4 inches"],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "82",
+    tipe: "Coffee Table",
+    nama: "Rectangle - White - Teak Root Coffee Table – Tree Root Coffee Table – Teak Wood Coffee Table - Live Edge Table - Driftwood Table",
+    gambar: [f82_1,f82_2,f82_3,f82_4,f82_5],
+    harga: ["1730"],
+    spek: ["Width: 39.3 inches | Height: 17.7 inches | Depth: 31.4 inches"],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "83",
+    tipe: "Coffee Table",
+    nama: "Natural - Square Teak Root Coffee Table – Teak Wood Coffee Table - Tree Root Table - Driftwood Coffee Table",
+    gambar: [f83_1,f83_2,f83_3,f83_4],
+    harga: ["1300","1350","1550","1700","1950"],
+    spek: ["Width: 19.6 inches | Height: 17.7 inches","Width: 23.6 inches | Height: 17.7 inches","Width: 31.4 inches | Height: 17.7 inches","Width: 39.3 inches | Height: 17.7 inches","Width: 47.2 inches | Height: 17.7 inches",],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "84",
+    tipe: "Coffee Table",
+    nama: "White Square - Teak Root Coffee Table – Tree Root Side Table – Teak Wood End Table - Live Edge Table - Driftwood Table",
+    gambar: [f84_1,f84_2,f84_3,f84_4],
+    harga: ["1050"],
+    spek: ["Width: 19.6 inches | Height: 17.7 inches | Depth: 19.6 inches"],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "85",
+    tipe: "Coffee Table",
+    nama: "Rectangular - White - Teak Root Coffee Table – Tree Root Side Table – Live Edge Table - Driftwood Table ( Best Seller )",
+    gambar: [f85_1,f85_2,f85_3,f85_4,f85_5,f85_6],
+    harga: ["1850", "2050"],
+    spek: ["Width: 39.3 inches | Height: 17.7 inches | Depth: 31.4 inches", "Width: 47.2 inches | Height: 17.7 inches | Depth: 31.4 inches"],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "86",
+    tipe: "Coffee Table",
+    nama: "Black Square - Wooden Patchwork Coffee Table – Outdoor Coffee Table – Teak Root Side Table - Driftwood Table",
+    gambar: [f86_1,f86_2,f86_3,f86_4],
+    harga: ["1700"],
+    spek: ["Width: 31.4 inches | Height: 17.7 inches | Depth: 31.4 inches"],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "87",
+    tipe: "Coffee Table",
+    nama: "White Square - Teak Root Coffee Table – Tree Root Coffee Table – Teak Wood Coffee Table - Live Edge Table - Driftwood Table",
+    gambar: [f87_1,f87_2,f87_3],
+    harga: ["1350","1550","1850","2250","1400","1600","1900","2300",],
+    spek: "Height: 15.7 inches | Width : 19.6 inches",
+    slug: 'wood-furniture'
+   },
+   {
+    id: "88",
+    tipe: "Coffee Table",
+    nama: "Round - Teak Root Coffee Table – Tree Root Coffee Table – Live Edge Table - End Table - Side Table - Night Stand - Living Room Furniture",
+    gambar: [f88_1,f88_2,f88_3,f88_4,f88_5],
+    harga: ["1400","1500","1650","1850","2150","2450","1450","1550","1700","1900","2200","2500",],
+    spek: ["Height: 15.7 inches | Width : 19.6 inches","Height: 15.7 inches | Width : 23.6 inches","Height: 15.7 inches | Width : 31.4 inches","Height: 15.7 inches | Width : 39.3 inches","Height: 15.7 inches | Width : 47.2 inches","Height: 15.7 inches | Width : 59 inches","Height: 17.7 inches | Diameter : 19.6 inches","Height: 17.7 inches | Diameter : 23.6 inches","Height: 17.7 inches | Diameter : 31.4 inches","Height: 17.7 inches | Diameter : 39.3 inches","Height: 17.7 inches | Width : 47.2 inches","Height: 17.7 inches | Width : 59 inches", ],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "89",
+    tipe: "Coffee Table",
+    nama: "White - Flower Shape - Round Teak Root Coffee Table – Carving Table - Natural Root Coffee Table – Living Home Furniture ( Best Seller )",
+    gambar: [f89_1,f89_2,f89_3,f89_4,f89_5,f89_6,f89_7,f89_8],
+    harga: ["1450","1650","1850","2150","1500","1700","1900","2200",],
+    spek: ["Height: 15.7 inches | Width : 23.6 inches","Height: 15.7 inches | Width : 31.4 inches","Height: 15.7 inches | Width : 39.3 inches","Height: 15.7 inches | Width : 47.2 inches","Height: 17.7 inches | Diameter : 23.6 inches","Height: 17.7 inches | Diameter : 31.4 inches","Height: 17.7 inches | Diameter : 39.3 inches","Height: 17.7 inches | Width : 47.2 inches",],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "90",
+    tipe: "Coffee Table",
+    nama: "Round Teak Root Coffee Table – Round Teak Root Side Table – Round End Table – Live Edge Table",
+    gambar: [f90_1,f90_2,f90_3,f90_4],
+    harga: ["1250"],
+    spek: ["Width: 23.6 inches | Height: 19.6 inches | Depth: 23.6 inches"],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "91",
+    tipe: "Coffee Table",
+    nama: "Carving Table - Flower Shape Round - Natural Teak Root Coffee Table – Teak Wood Sculpture Table – Wood Art Table ( Best Seller )",
+    gambar: [f90_1,f90_2,f90_3,f90_4],
+    harga: ["1300","1550","1750","1950","2250","2650","1350","1600","1800","2000","2300","2700",],
+    spek: ["Height: 15.7 inches | Width : 19.6 inches", "Height: 15.7 inches | Width : 23.6 inches","Height: 15.7 inches | Width : 31.4 inches","Height: 15.7 inches | Width : 39.3 inches","Height: 15.7 inches | Width : 47.2 inches","Height: 15.7 inches | Width : 59 inches","Height: 17.7 inches | Diameter : 19.6 inches","Height: 17.7 inches | Diameter : 23.6 inches","Height: 17.7 inches | Diameter : 31.4 inches","Height: 17.7 inches | Diameter : 39.3 inches","Height: 17.7 inches | Width : 47.2 inches","Height: 17.7 inches | Width : 59 inches",],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "92",
+    tipe: "Console and Bar Table",
+    nama: "Carving Table - Leaves Shape - Teak Root Console Table – Rustic Console Table – Teak Wood Table – Living Room Furniture",
+    gambar: [f92_1,f92_2,f92_3,f92_4,f92_5],
+    harga: ["1850"],
+    spek: ["Width: 47 inches | Height: 31 inches | Depth: 15.7 inches"],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "93",
+    tipe: "Console and Bar Table",
+    nama: "White - Leaves Shape Carving - Teak Root Console Table – Natural Console Table – Teak Wood Console Table - Live Edge Table",
+    gambar: [f93_1,f93_2,f93_3,f93_4,f93_5,f93_6],
+    harga: ["1550","1750","2050","2250","2450","1600","1800","2100","2300","2500",],
+    spek: ["Height: 29.5 inches | Diameter: 39.3 inches","Height: 29.5 inches | Diameter: 47.2 inches","Height: 29.5 inches | Diameter: 59 inches","Height: 29.5 inches | Diameter: 70.8 inches","Height: 29.5 inches | Diameter: 78.7 inches","Height: 31.4 inches | Diameter: 39.3 inches","Height: 31.4 inches | Diameter: 47.2 inches","Height: 31.4 inches | Diameter: 59 inches","Height: 31.4 inches | Diameter: 70.8 inches","Height: 31.4 inches | Diameter: 78.7 inches",],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "94",
+    tipe: "Console and Bar Table",
+    nama: "Carving - Teak Root Bar Table - Wood Console Table - Entryway Table - Wood Sculpture",
+    gambar: [f94_1,f94_2,f94_3,f94_4,f94_5],
+    harga: ["1900"],
+    spek: ["Width: 47.2 inches | Height: 40 inches | Depth: 17.7 inches"],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "95",
+    tipe: "Console and Bar Table",
+    nama: "Teak Root Console Table – Natural Console Table – Teak Wood Console Table - Root Bar Table - Live Edge Table",
+    gambar: [f95_1,f95_2,f95_3,f95_4],
+    harga: ["2420"],
+    spek: ["Width: 78.7 inches | Height: 31.4 inches | Depth: 17.7 inches"],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "96",
+    tipe: "Console and Bar Table",
+    nama: "Leaves Shape Carving - Teak Root Console Table – Driftwood Console Table – Teak Wood Console Table - Live Edge Table - Roots Bar Table",
+    gambar: [f96_1,f96_2,f96_3],
+    harga: ["2450"],
+    spek: ["Width: 78.7 inches | Height: 31.4 inches | Depth: 17.7 inches"],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "97",
+    tipe: "Console and Bar Table",
+    nama: "Teak Root Console Table – Root Bar Table - Entryway Table - Driftwood Table – Teak Wood Console Table - Live Edge Table",
+    gambar: [f97_1,f97_2,f97_3],
+    harga: ["2150"],
+    spek: ["Width: 70.9 inches | Height: 31.4 inches | Depth: 15.7 inches"],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "98",
+    tipe: "Console and Bar Table",
+    nama: "TV Table – Rustic Teak Root Table – Teak Wood Console Table – Live Edge Table – Living Room Furniture – Driftwood Console Table",
+    gambar: [f98_1,f98_2,f98_3,f98_4],
+    harga: ["1650"],
+    spek: ["Width: 48 inches | Height: 31.4 inches | Depth: 16.9 inches"],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "99",
+    tipe: "Console and Bar Table",
+    nama: "Teak Wood Console Table - Driftwood Console Table - Teak Root Console Table - Live Edge Table - Workbench - Office Table",
+    gambar: [f99_1,f99_2,f99_3,f99_4],
+    harga: ["1750"],
+    spek: ["Width: 63.7 inches | Height: 29.5 inches | Depth: 14 inches"],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "100",
+    tipe: "Console and Bar Table",
+    nama: "Teak Root Console Table – Natural Console Table – Teak Wood Console Table - Root Bar Table - Live Edge Table",
+    gambar: [f100_1,f100_2,f100_3,f100_4],
+    harga: ["1550","1750","1950","2150","2450"],
+    spek: ["Height: 31.4 inches | Diameter: 39.3 inches","Height: 31.4 inches | Diameter: 47.2 inches","Height: 31.4 inches | Diameter: 59 inches","Height: 31.4 inches | Diameter: 70.8 inches","Height: 31.4 inches | Diameter: 78.7 inches",],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "101",
+    tipe: "Console and Bar Table",
+    nama: "Display Wooden Table - Tree Root Table - Teak Root Console Table - Driftwood Table - Entryway Table",
+    gambar: [f101_1,f101_2,f101_3,f101_4],
+    harga: ["2150"],
+    spek: ["Width: 57 inches | Height: 37.4 inches | Depth: 21.6 inches"],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "102",
+    tipe: "Console and Bar Table",
+    nama: "Leaves Shape - Teak Root Console Table – Hand Carved Console Table – Teak Wood Console Table – Live Edge Table",
+    gambar: [f102_1,f102_2,f102_3,f102_4],
+    harga: ["1850"],
+    spek: ["Width: 51 inches | Height: 31.4 inches | Depth: 17.7 inches"],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "103",
+    tipe: "Console and Bar Table",
+    nama: "Bar Stools – Teak Root Chair – Tree Root Outdoor Chair – Tree Root Garden Bench - Dining Chair",
+    gambar: [f103_1,f103_2,f103_3,f103_4],
+    harga: ["1320"],
+    spek: ["Width: 17.7 inches | Height: 36.6 inches |Depth: 17.7 inches | Seat height: 26.7 inches | Seat width: 17.7 inches | Seat depth: 15.7 inches"],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "104",
+    tipe: "Console and Bar Table",
+    nama: "Silver - Tree Root Console Table - Teak Root Console Table – Live Edge Table – Living Room Table",
+    gambar: [f104_1,f104_2,f104_3,f104_4,f104_5,f104_6],
+    harga: ["1450","1550","1750","1950","2150",],
+    spek: ["Height: 31.4 inches | Diameter: 39.3 inches","Height: 31.4 inches | Diameter: 47.2 inches","Height: 31.4 inches | Diameter: 59 inches","Height: 31.4 inches | Diameter: 70.8 inches","Height: 31.4 inches | Diameter: 78.7 inches",],
+    slug: 'wood-furniture'
+   },
+   {
+    id: "105",
+    tipe: "Console and Bar Table",
+    nama: "Teak Root Console Table – Hand Carved Console Table – Teak Wood Console Table – Live Edge Table",
+    gambar: [f105_1,f105_2,f105_3],
+    harga: ["1550"],
+    spek: ["Width: 39.3 inches | Height: 31.4 inches | Depth: 17.7 inches"],
+    slug: 'wood-furniture'
+   }
+   
   
 ];
 

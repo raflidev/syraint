@@ -57,7 +57,8 @@ function ProductId() {
           </div>
         </div>
         <div className="w-5/12 px-10 space-y-3">
-          <div className='text-2xl'>{data['nama']}</div>
+          <div className='text-2xl font-medium'>{data['nama']}</div>
+          <div className='text-xl'>{data['tipe']}</div>
           <div className='font-bold text-3xl'>${data['harga'][spek]}</div>
           <div className="w-full grid grid-cols-2 gap-4" onChange={(e) => console.log(e.target.value)}>
             {

@@ -67,6 +67,9 @@ function Product() {
               <Link to={`/product/${item.slug}/${item.id}`} key={index} className=" pb-2 rounded duration-500 hover:bg-black/80 hover:cursor-pointer hover:text-white">
                 <img src={item.gambar[0]} className='w-full rounded' alt="asd"/>
                 <div className='p-2 space-y-1'>
+                  <div className='text-xs font-medium'>
+                    Category: <span className='underline'>{item.tipe}</span>
+                  </div>
                   <div className='text-xs'>
                     {item.nama}
                   </div>

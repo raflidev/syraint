@@ -1,1595 +1,1595 @@
 [
   {
-   "No": 1,
-   "Type of Item": "Furniture",
-   "Name Of Item": "Table Set – 4 Bench\/Chair and 1 Coffee Table – Teak Root Coffee Table – Driftwood Coffee Table – Teak Wood Bench",
-   "Price ( Include Shipping": "$2300",
-   "Spesification": "Height: 17.7 inches | Width : 31,4 inches",
+   id: "1,"
+   tipe: "Furniture",
+   nama: "Table Set – 4 Bench\/Chair and 1 Coffee Table – Teak Root Coffee Table – Driftwood Coffee Table – Teak Wood Bench",
+   harga: "$2300",
+   spek: "Height: 17.7 inches | Width : 31,4 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/124qke46sG0g1z3Y2doZgCP_dy93iLW33?usp=share_link"
   },
   {
-   "Name Of Item": "Table Set – 4 Bench\/Chair and 1 Coffee Table – Teak Root Coffee Table – Driftwood Coffee Table – Teak Wood Bench",
-   "Price ( Include Shipping": "$2480",
-   "Spesification": "Height: 17.7 inches | Width : 39,3 inches"
+   nama: "Table Set – 4 Bench\/Chair and 1 Coffee Table – Teak Root Coffee Table – Driftwood Coffee Table – Teak Wood Bench",
+   harga: "$2480",
+   spek: "Height: 17.7 inches | Width : 39,3 inches"
   },
   {
-   "Name Of Item": "Table Set – 4 Bench\/Chair and 1 Coffee Table – Teak Root Coffee Table – Driftwood Coffee Table – Teak Wood Bench",
-   "Price ( Include Shipping": "$2660",
-   "Spesification": "Height: 17.7 inches | Width : 47 inches"
+   nama: "Table Set – 4 Bench\/Chair and 1 Coffee Table – Teak Root Coffee Table – Driftwood Coffee Table – Teak Wood Bench",
+   harga: "$2660",
+   spek: "Height: 17.7 inches | Width : 47 inches"
   },
   {
-   "No": 2,
-   "Type of Item": "Furniture",
-   "Name Of Item": "Leaves Shape Carving - Teak Root Console Table – Natural Console Table – Teak Wood Console Table - Live Edge Table",
-   "Price ( Include Shipping": "$2250",
-   "Spesification": "Width: 70.8 inches | Height: 31.4 inches | Depth: 17.7 inches",
+   id: "2,"
+   tipe: "Furniture",
+   nama: "Leaves Shape Carving - Teak Root Console Table – Natural Console Table – Teak Wood Console Table - Live Edge Table",
+   harga: "$2250",
+   spek: "Width: 70.8 inches | Height: 31.4 inches | Depth: 17.7 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1ZRoI-CdNb7KueaSQkUZuG__u9NuVyaYq?usp=sharing"
   },
   {
-   "No": 3,
-   "Type of Item": "Furniture",
-   "Name Of Item": "Teak Root Bench – Driftwood Bench – Outdoor Furniture – Live Edge Table - Teak Wood Coffee Table",
-   "Price ( Include Shipping": "$1950",
-   "Spesification": "Width: 70.8 inches | Height: 19.6 inches | Depth: 17.7 inches",
+   id: "3,"
+   tipe: "Furniture",
+   nama: "Teak Root Bench – Driftwood Bench – Outdoor Furniture – Live Edge Table - Teak Wood Coffee Table",
+   harga: "$1950",
+   spek: "Width: 70.8 inches | Height: 19.6 inches | Depth: 17.7 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1OGcmOKXHgTHyKi8WO5kMC5WF7EEBnndm?usp=sharing"
   },
   {
-   "No": 4,
-   "Type of Item": "Furniture",
-   "Name Of Item": "Black Square Teak Root Coffee Table – Natural Burl Coffee Table – Teak Wood Coffee Table",
-   "Price ( Include Shipping": "$1350",
-   "Spesification": "Height: 17.7 inches | Width : 19.6 inches",
+   id: "4,"
+   tipe: "Furniture",
+   nama: "Black Square Teak Root Coffee Table – Natural Burl Coffee Table – Teak Wood Coffee Table",
+   harga: "$1350",
+   spek: "Height: 17.7 inches | Width : 19.6 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1dq-u4NlMd7ZKS_lKfCbcNgISTMP4rY8Z?usp=sharing"
   },
   {
-   "Price ( Include Shipping": "$1650",
-   "Spesification": "Height: 17.7 inches | Width : 23.6 inches"
+   harga: "$1650",
+   spek: "Height: 17.7 inches | Width : 23.6 inches"
   },
   {
-   "Price ( Include Shipping": "$1950",
-   "Spesification": "Height: 17.7 inches | Width : 31.4 inches"
+   harga: "$1950",
+   spek: "Height: 17.7 inches | Width : 31.4 inches"
   },
   {
-   "Price ( Include Shipping": "$2250",
-   "Spesification": "Height: 17.7 inches | Width : 39.3 inches"
+   harga: "$2250",
+   spek: "Height: 17.7 inches | Width : 39.3 inches"
   },
   {
-   "No": 5,
-   "Type of Item": "Furniture",
-   "Name Of Item": "Teak Stump Table – Modern Teak Wood Table – Teak Wood Side Table - End Table - Night Stand - Live Edge Table - Living Room Furniture",
-   "Price ( Include Shipping": "$1350",
-   "Spesification": "Height: 15.7 inches | Width : 19.6 inches",
+   id: "5,"
+   tipe: "Furniture",
+   nama: "Teak Stump Table – Modern Teak Wood Table – Teak Wood Side Table - End Table - Night Stand - Live Edge Table - Living Room Furniture",
+   harga: "$1350",
+   spek: "Height: 15.7 inches | Width : 19.6 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1h_TUZqf3J35oDeHYWkkkNzPuDp-i3SFD?usp=sharing"
   },
   {
-   "Price ( Include Shipping": "$1550",
-   "Spesification": "Height: 15.7 inches | Width : 23.6 inches"
+   harga: "$1550",
+   spek: "Height: 15.7 inches | Width : 23.6 inches"
   },
   {
-   "Price ( Include Shipping": "$1650",
-   "Spesification": "Height: 15.7 inches | Width : 31.4 inches"
+   harga: "$1650",
+   spek: "Height: 15.7 inches | Width : 31.4 inches"
   },
   {
-   "Price ( Include Shipping": "$1850",
-   "Spesification": "Height: 15.7 inches | Width : 39 inches"
+   harga: "$1850",
+   spek: "Height: 15.7 inches | Width : 39 inches"
   },
   {
-   "Price ( Include Shipping": "$2050",
-   "Spesification": "Height: 15.7 inches | Width : 47 inches"
+   harga: "$2050",
+   spek: "Height: 15.7 inches | Width : 47 inches"
   },
   {
-   "Price ( Include Shipping": "$1400",
-   "Spesification": "Height: 17.7 inches | Width : 19.6 inches"
+   harga: "$1400",
+   spek: "Height: 17.7 inches | Width : 19.6 inches"
   },
   {
-   "Price ( Include Shipping": "$1600",
-   "Spesification": "Height: 17.7 inches | Width : 23.6 inches"
+   harga: "$1600",
+   spek: "Height: 17.7 inches | Width : 23.6 inches"
   },
   {
-   "Price ( Include Shipping": "$1700",
-   "Spesification": "Height: 17.7 inches | Width : 31.4 inches"
+   harga: "$1700",
+   spek: "Height: 17.7 inches | Width : 31.4 inches"
   },
   {
-   "Price ( Include Shipping": "$1900",
-   "Spesification": "Height: 17.7 inches | Width : 39 inches"
+   harga: "$1900",
+   spek: "Height: 17.7 inches | Width : 39 inches"
   },
   {
-   "Price ( Include Shipping": "$2100",
-   "Spesification": "Height: 17.7 inches | Width : 47 inches"
+   harga: "$2100",
+   spek: "Height: 17.7 inches | Width : 47 inches"
   },
   {
-   "No": 6,
-   "Type of Item": "Furniture",
-   "Name Of Item": "Black Round Teak Root Coffee Table – Natural Root Coffee Table – Teak Wood Coffee Table",
-   "Price ( Include Shipping": "$1350",
-   "Spesification": "Height: 40 Centimeters | Diameter : 50 Centimeters",
+   id: "6,"
+   tipe: "Furniture",
+   nama: "Black Round Teak Root Coffee Table – Natural Root Coffee Table – Teak Wood Coffee Table",
+   harga: "$1350",
+   spek: "Height: 40 Centimeters | Diameter : 50 Centimeters",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1mxhb5Z6Rv5sQC_mhqcFg-dIOVDPTgkO-?usp=sharing"
   },
   {
-   "Price ( Include Shipping": "$1400",
-   "Spesification": "Height: 40 Centimeters | Diameter : 60 Centimeters"
+   harga: "$1400",
+   spek: "Height: 40 Centimeters | Diameter : 60 Centimeters"
   },
   {
-   "Price ( Include Shipping": "$1550",
-   "Spesification": "Height: 40 Centimeters | Diameter : 80 Centimeters"
+   harga: "$1550",
+   spek: "Height: 40 Centimeters | Diameter : 80 Centimeters"
   },
   {
-   "Price ( Include Shipping": "$1750",
-   "Spesification": "Height: 40 Centimeters | Diameter : 100 Centimeters"
+   harga: "$1750",
+   spek: "Height: 40 Centimeters | Diameter : 100 Centimeters"
   },
   {
-   "Price ( Include Shipping": "$1950",
-   "Spesification": "Height: 40 Centimeters | Diameter : 120 Centimeters"
+   harga: "$1950",
+   spek: "Height: 40 Centimeters | Diameter : 120 Centimeters"
   },
   {
-   "Price ( Include Shipping": "$2450",
-   "Spesification": "Height: 40 Centimeters | Diameter : 150 Centimeters"
+   harga: "$2450",
+   spek: "Height: 40 Centimeters | Diameter : 150 Centimeters"
   },
   {
-   "Price ( Include Shipping": "$1380",
-   "Spesification": "Height: 45 Centimeters | Diameter : 50 Centimeters"
+   harga: "$1380",
+   spek: "Height: 45 Centimeters | Diameter : 50 Centimeters"
   },
   {
-   "Price ( Include Shipping": "$1430",
-   "Spesification": "Height: 45 Centimeters | Diameter : 60 Centimeters"
+   harga: "$1430",
+   spek: "Height: 45 Centimeters | Diameter : 60 Centimeters"
   },
   {
-   "Price ( Include Shipping": "$1600",
-   "Spesification": "Height: 45 Centimeters | Diameter : 80 Centimeters"
+   harga: "$1600",
+   spek: "Height: 45 Centimeters | Diameter : 80 Centimeters"
   },
   {
-   "Price ( Include Shipping": "$1800",
-   "Spesification": "Height: 45 Centimeters | Diameter : 100 Centimeters"
+   harga: "$1800",
+   spek: "Height: 45 Centimeters | Diameter : 100 Centimeters"
   },
   {
-   "Price ( Include Shipping": "$2000",
-   "Spesification": "Height: 45 Centimeters | Diameter : 120 Centimeters"
+   harga: "$2000",
+   spek: "Height: 45 Centimeters | Diameter : 120 Centimeters"
   },
   {
-   "Price ( Include Shipping": "$2500",
-   "Spesification": "Height: 45 Centimeters | Diameter : 150 Centimeters"
+   harga: "$2500",
+   spek: "Height: 45 Centimeters | Diameter : 150 Centimeters"
   },
   {
-   "No": 7,
-   "Type of Item": "Furniture",
-   "Name Of Item": "Black Round Teak Root Coffee Table – Natural Burl Coffee Table – Teak Wood Coffee Table",
-   "Price ( Include Shipping": "$1300",
-   "Spesification": "Height: 15.7 inches | Width : 19.6 inches",
+   id: "7,"
+   tipe: "Furniture",
+   nama: "Black Round Teak Root Coffee Table – Natural Burl Coffee Table – Teak Wood Coffee Table",
+   harga: "$1300",
+   spek: "Height: 15.7 inches | Width : 19.6 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1gw5wwQd0BJJsUUw0NoJaskWgCmfyNpp5?usp=share_link"
   },
   {
-   "Price ( Include Shipping": "$1450",
-   "Spesification": "Height: 15.7 inches | Width : 23.6 inches"
+   harga: "$1450",
+   spek: "Height: 15.7 inches | Width : 23.6 inches"
   },
   {
-   "Price ( Include Shipping": "$1750",
-   "Spesification": "Height: 15.7 inches | Width : 31.4 inches"
+   harga: "$1750",
+   spek: "Height: 15.7 inches | Width : 31.4 inches"
   },
   {
-   "Price ( Include Shipping": "$1950",
-   "Spesification": "Height: 15.7 inches | Width : 39.3 inches"
+   harga: "$1950",
+   spek: "Height: 15.7 inches | Width : 39.3 inches"
   },
   {
-   "Price ( Include Shipping": "$2350",
-   "Spesification": "Height: 15.7 inches | Width : 47.2 inches"
+   harga: "$2350",
+   spek: "Height: 15.7 inches | Width : 47.2 inches"
   },
   {
-   "Price ( Include Shipping": "$1350",
-   "Spesification": "Height: 17.7 inches | Width : 19.6 inches"
+   harga: "$1350",
+   spek: "Height: 17.7 inches | Width : 19.6 inches"
   },
   {
-   "Price ( Include Shipping": "$1500",
-   "Spesification": "Height: 17.7 inches | Width : 23.6 inches"
+   harga: "$1500",
+   spek: "Height: 17.7 inches | Width : 23.6 inches"
   },
   {
-   "Price ( Include Shipping": "$1800",
-   "Spesification": "Height: 17.7 inches | Width : 31.4 inches"
+   harga: "$1800",
+   spek: "Height: 17.7 inches | Width : 31.4 inches"
   },
   {
-   "Price ( Include Shipping": "$2000",
-   "Spesification": "Height: 17.7 inches | Width : 39.3 inches"
+   harga: "$2000",
+   spek: "Height: 17.7 inches | Width : 39.3 inches"
   },
   {
-   "Price ( Include Shipping": "$2400",
-   "Spesification": "Height: 17.7 inches | Width : 47.2 inches"
+   harga: "$2400",
+   spek: "Height: 17.7 inches | Width : 47.2 inches"
   },
   {
-   "No": 8,
-   "Type of Item": "Furniture",
-   "Name Of Item": "Teak Root Bench - Root Chair - Side Table - End Table - Driftwood Table - Outdoor Furniture - Black and White",
-   "Price ( Include Shipping": "$1110",
-   "Spesification": "Width: 51 inches | Height: 17.7 inches | Depth: 17.7 inches",
+   id: "8,"
+   tipe: "Furniture",
+   nama: "Teak Root Bench - Root Chair - Side Table - End Table - Driftwood Table - Outdoor Furniture - Black and White",
+   harga: "$1110",
+   spek: "Width: 51 inches | Height: 17.7 inches | Depth: 17.7 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1VHHoEMmsv7M60zn-c4EDmimx9CZURa_D?usp=sharing"
   },
   {
-   "No": 9,
-   "Type of Item": "Furniture",
-   "Name Of Item": "Round - Wooden Patchwork Teak Root Coffee Table – Modern Coffee Table – Teak Wood Table - Driftwood Table - Dining Room Furniture",
-   "Price ( Include Shipping": "$1150",
-   "Spesification": "Height: 15.7 inches | Width : 19.6 inches",
+   id: "9,"
+   tipe: "Furniture",
+   nama: "Round - Wooden Patchwork Teak Root Coffee Table – Modern Coffee Table – Teak Wood Table - Driftwood Table - Dining Room Furniture",
+   harga: "$1150",
+   spek: "Height: 15.7 inches | Width : 19.6 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1AGtD93T2tptiYMywX2cQtvzj5-9mPytn?usp=sharing"
   },
   {
-   "Price ( Include Shipping": "$1350",
-   "Spesification": "Height: 15.7 inches | Width : 23.6 inches"
+   harga: "$1350",
+   spek: "Height: 15.7 inches | Width : 23.6 inches"
   },
   {
-   "Price ( Include Shipping": "$1650",
-   "Spesification": "Height: 15.7 inches | Width : 27.5 inches"
+   harga: "$1650",
+   spek: "Height: 15.7 inches | Width : 27.5 inches"
   },
   {
-   "Price ( Include Shipping": "$1850",
-   "Spesification": "Height: 15.7 inches | Width : 31.4 inches"
+   harga: "$1850",
+   spek: "Height: 15.7 inches | Width : 31.4 inches"
   },
   {
-   "Price ( Include Shipping": "$2050",
-   "Spesification": "Height: 15.7 inches | Width : 39.3 inches"
+   harga: "$2050",
+   spek: "Height: 15.7 inches | Width : 39.3 inches"
   },
   {
-   "Price ( Include Shipping": "$1200",
-   "Spesification": "Height: 17.7 inches | Width : 19.6 inches"
+   harga: "$1200",
+   spek: "Height: 17.7 inches | Width : 19.6 inches"
   },
   {
-   "Price ( Include Shipping": "$1400",
-   "Spesification": "Height: 17.7 inches | Width : 23.6 inches"
+   harga: "$1400",
+   spek: "Height: 17.7 inches | Width : 23.6 inches"
   },
   {
-   "Price ( Include Shipping": "$1700",
-   "Spesification": "Height: 17.7 inches | Width : 31.4 inches"
+   harga: "$1700",
+   spek: "Height: 17.7 inches | Width : 31.4 inches"
   },
   {
-   "Price ( Include Shipping": "$1900",
-   "Spesification": "Height: 17.7 inches | Width : 39.3 inches"
+   harga: "$1900",
+   spek: "Height: 17.7 inches | Width : 39.3 inches"
   },
   {
-   "Price ( Include Shipping": "$2100",
-   "Spesification": "Height: 17.7 inches | Width : 47.2 inches"
+   harga: "$2100",
+   spek: "Height: 17.7 inches | Width : 47.2 inches"
   },
   {
-   "No": 10,
-   "Type of Item": "Furniture",
-   "Name Of Item": "Teak Root Bench - Root Coffee Table - Side Table - End Table - Driftwood Table - Outdoor Furniture",
-   "Price ( Include Shipping": "$1100",
-   "Spesification": "Width: 44 inches | Height: 17.7 inches | Depth: 13.4 inches",
+   id: "10",
+   tipe: "Furniture",
+   nama: "Teak Root Bench - Root Coffee Table - Side Table - End Table - Driftwood Table - Outdoor Furniture",
+   harga: "$1100",
+   spek: "Width: 44 inches | Height: 17.7 inches | Depth: 13.4 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1M0nJm1byawYprpDCFpuTiThmB7ukk8W4?usp=sharing"
   },
   {
-   "No": 11,
-   "Type of Item": "Statue and Sculpture",
-   "Name Of Item": "Owl Wood Statue - Animal Home Décor - Natural Wood Carving -Wooden Owl Sculpture",
-   "Price ( Include Shipping": "$1100",
-   "Spesification": "Width: 20 inches | Height: 17.2 inches | Depth: 9 inches",
+   id: "11",
+   tipe: "Statue and Sculpture",
+   nama: "Owl Wood Statue - Animal Home Décor - Natural Wood Carving -Wooden Owl Sculpture",
+   harga: "$1100",
+   spek: "Width: 20 inches | Height: 17.2 inches | Depth: 9 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1bjXU4LCNVm64Qw_o5ePgBzfEiWpkxvGV?usp=share_link"
   },
   {
-   "No": 12,
-   "Type of Item": "Statue and Sculpture",
-   "Name Of Item": "Eagle Wood Statue -  Animal Home Décor - Natural Wood Carving - Teak Wood Sculpture",
-   "Price ( Include Shipping": "$1100",
-   "Spesification": "Width: 13 inches | Height: 21 inches | Depth: 10.2 inches",
+   id: "12",
+   tipe: "Statue and Sculpture",
+   nama: "Eagle Wood Statue -  Animal Home Décor - Natural Wood Carving - Teak Wood Sculpture",
+   harga: "$1100",
+   spek: "Width: 13 inches | Height: 21 inches | Depth: 10.2 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1yAPOw0znRNrKOMywHsAV2PrlvgWP2SUv?usp=sharing"
   },
   {
-   "No": 13,
-   "Type of Item": "Statue and Sculpture",
-   "Name Of Item": "Horse Head - Horse Wood Statue - Horse Wood Sculpture - Tree Root Art Decoration - Teak Wood Hand Carving - Wood Art",
-   "Price ( Include Shipping": "$2110",
-   "Spesification": "Width: 29.5 inches | Height: 32.2 inches | Depth: 19.2 inches",
+   id: "13",
+   tipe: "Statue and Sculpture",
+   nama: "Horse Head - Horse Wood Statue - Horse Wood Sculpture - Tree Root Art Decoration - Teak Wood Hand Carving - Wood Art",
+   harga: "$2110",
+   spek: "Width: 29.5 inches | Height: 32.2 inches | Depth: 19.2 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/11T-dQpT1Uc24MTGXuC8chCVUlGW7CUfx?usp=sharing"
   },
   {
-   "No": 14,
-   "Type of Item": "Statue and Sculpture",
-   "Name Of Item": "Horse Statue - Horse Sculpture - Tree Root Art Decoration - Teak Wood Carving - Wood Horse",
-   "Price ( Include Shipping": "$2110",
-   "Spesification": "Width: 43.3 inches | Height: 17.7 inches | Depth: 13.7 inches",
+   id: "14",
+   tipe: "Statue and Sculpture",
+   nama: "Horse Statue - Horse Sculpture - Tree Root Art Decoration - Teak Wood Carving - Wood Horse",
+   harga: "$2110",
+   spek: "Width: 43.3 inches | Height: 17.7 inches | Depth: 13.7 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1B5igUiCf1lOkYeRHbyfpZOVF5pB_Kzwh?usp=sharing"
   },
   {
-   "No": 15,
-   "Type of Item": "Statue and Sculpture",
-   "Name Of Item": "Eagle Wood Sculpture - Animal Statue - Teak Root Carving - Wood Art Decoration",
-   "Price ( Include Shipping": "$2110",
-   "Spesification": "Width: 35.4 inches | Height: 32.2 inches | Depth: 25 inches",
+   id: "15",
+   tipe: "Statue and Sculpture",
+   nama: "Eagle Wood Sculpture - Animal Statue - Teak Root Carving - Wood Art Decoration",
+   harga: "$2110",
+   spek: "Width: 35.4 inches | Height: 32.2 inches | Depth: 25 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/19QSb71z-DVINXKzGLRm_Q7kDFoAotYbj?usp=sharing"
   },
   {
-   "No": 16,
-   "Type of Item": "Statue and Sculpture",
-   "Name Of Item": "Jesus Christ Wood Statue - Christmas Décor - Home Gift - Teak Wood Carving and Crafts",
-   "Price ( Include Shipping": "$1100",
-   "Spesification": "Width: 15 inches | Height: 22 inches | Depth: 14 inches",
+   id: "16",
+   tipe: "Statue and Sculpture",
+   nama: "Jesus Christ Wood Statue - Christmas Décor - Home Gift - Teak Wood Carving and Crafts",
+   harga: "$1100",
+   spek: "Width: 15 inches | Height: 22 inches | Depth: 14 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1Xl7pTJl-ro3FfXyBWd1TvmdGL-hKg5cC?usp=sharing"
   },
   {
-   "No": 17,
-   "Type of Item": "Statue and Sculpture",
-   "Name Of Item": "Forest Spirit Sculpture - Woman Face Wood Statue, Unique Home Decor, Natural Wood Carving and Vintage Crafts",
-   "Price ( Include Shipping": "$1100",
-   "Spesification": "Width: 13.7 inches | Height: 16.5 inches | Depth: 9 inches",
+   id: "17",
+   tipe: "Statue and Sculpture",
+   nama: "Forest Spirit Sculpture - Woman Face Wood Statue, Unique Home Decor, Natural Wood Carving and Vintage Crafts",
+   harga: "$1100",
+   spek: "Width: 13.7 inches | Height: 16.5 inches | Depth: 9 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1RaNIAdSVG4IbSKuVncaTGwt7SFcy15dI?usp=share_link"
   },
   {
-   "No": 18,
-   "Type of Item": "Statue and Sculpture",
-   "Name Of Item": "Jesus Christ Wood Statue - Jesus Christ Wood Sculpture - Wood Carving - Wood Art Sculpture - Home Art Decor",
-   "Price ( Include Shipping": "$2180",
-   "Spesification": "Width: 18 inches | Height: 67 inches | Depth: 12 inches",
+   id: "18",
+   tipe: "Statue and Sculpture",
+   nama: "Jesus Christ Wood Statue - Jesus Christ Wood Sculpture - Wood Carving - Wood Art Sculpture - Home Art Decor",
+   harga: "$2180",
+   spek: "Width: 18 inches | Height: 67 inches | Depth: 12 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1NzsK3_WNYtkgrzb05kFazKL9CWmvvr5v?usp=share_link"
   },
   {
-   "No": 19,
-   "Type of Item": "Statue and Sculpture",
-   "Name Of Item": "Gorilla Wood Statue - Animal Sculpture - Natural Wood Carving",
-   "Price ( Include Shipping": "$2200",
-   "Spesification": "Width: 15.7 inches | Height: 52 inches | Depth: 29.5 inches",
+   id: "19",
+   tipe: "Statue and Sculpture",
+   nama: "Gorilla Wood Statue - Animal Sculpture - Natural Wood Carving",
+   harga: "$2200",
+   spek: "Width: 15.7 inches | Height: 52 inches | Depth: 29.5 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1RJkhgKTHMgdFgMLWfHZBBjXbaUj7TamQ?usp=share_link"
   },
   {
-   "No": 20,
-   "Type of Item": "Home Décor",
-   "Name Of Item": "Wooden Chicken Statue - Chicken Sculpture - Root Art Sculpture - Carved Art Object - Art Home Decor",
-   "Price ( Include Shipping": "$3500",
-   "Spesification": "Width: 37.4 inches | Height: 52.4 inches | Depth: 29.5 inches",
+   id: "20",
+   tipe: "Home Décor",
+   nama: "Wooden Chicken Statue - Chicken Sculpture - Root Art Sculpture - Carved Art Object - Art Home Decor",
+   harga: "$3500",
+   spek: "Width: 37.4 inches | Height: 52.4 inches | Depth: 29.5 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1UQLcEmd72EfieOaT1MiqN-UUR5no7KUv?usp=sharing"
   },
   {
-   "No": 21,
-   "Type of Item": "Home Décor",
-   "Name Of Item": "Wooden Rabbit Statue - Rabbit Sculpture - Root Art Sculpture - Carved Art Object - Art Home decor",
-   "Price ( Include Shipping": "$3500",
-   "Spesification": "Width: 43.3 inches | Height: 59 inches | Depth: 17.7 inches",
+   id: "21",
+   tipe: "Home Décor",
+   nama: "Wooden Rabbit Statue - Rabbit Sculpture - Root Art Sculpture - Carved Art Object - Art Home decor",
+   harga: "$3500",
+   spek: "Width: 43.3 inches | Height: 59 inches | Depth: 17.7 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1Q_riSUV4IcqVtDp7CxgUFidNu2p5w1fc?usp=share_link"
   },
   {
-   "No": 22,
-   "Type of Item": "Home Décor",
-   "Name Of Item": "Wooden Leave - Carved Tree Root Decoration - Standing Sculpture - Home Living Display - Teak Wood Art Decor",
-   "Price ( Include Shipping": "$2110",
-   "Spesification": "Width: 31.4 inches | Height: 63 inches | Depth: 12 inches",
+   id: "22",
+   tipe: "Home Décor",
+   nama: "Wooden Leave - Carved Tree Root Decoration - Standing Sculpture - Home Living Display - Teak Wood Art Decor",
+   harga: "$2110",
+   spek: "Width: 31.4 inches | Height: 63 inches | Depth: 12 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1Df1T23I7I4Oxiqgww2ul3_jzd6FMOsvr?usp=share_link"
   },
   {
-   "No": 23,
-   "Type of Item": "Home Décor",
-   "Name Of Item": "Black - Home Decoration - Art Decoration - Teak Root Carving - Wood Sculpture",
-   "Price ( Include Shipping": "$1099",
-   "Spesification": "Width: 14.9 inches | Height: 31.4 inches | Depth: 12.5 inches",
+   id: "23",
+   tipe: "Home Décor",
+   nama: "Black - Home Decoration - Art Decoration - Teak Root Carving - Wood Sculpture",
+   harga: "$1099",
+   spek: "Width: 14.9 inches | Height: 31.4 inches | Depth: 12.5 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1guFiiPnfC9tFJ3TCWIzzuWA_p9pC1FTs?usp=share_link"
   },
   {
-   "No": 24,
-   "Type of Item": "Home Décor",
-   "Name Of Item": "Wooden Leave - Carved Tree Root Decoration - Standing Sculpture - Home Living Display",
-   "Price ( Include Shipping": "$2110",
-   "Spesification": "Width: 37.4 inches | Height: 44 inches | Depth: 29.5 inches",
+   id: "24",
+   tipe: "Home Décor",
+   nama: "Wooden Leave - Carved Tree Root Decoration - Standing Sculpture - Home Living Display",
+   harga: "$2110",
+   spek: "Width: 37.4 inches | Height: 44 inches | Depth: 29.5 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1kqObjwQxQRJPUuk0059GKJ03m1shN9BS?usp=share_link"
   },
   {
-   "No": 25,
-   "Type of Item": "Home Décor",
-   "Name Of Item": "Carved - White - Massive Teak Root Wall Panel - Wood Room Divider - Tree Root Screen - Root Home Decor",
-   "Price ( Include Shipping": "$3500",
-   "Spesification": "Width: 65 inches | Height: 65 inches | Depth: 12 inches",
+   id: "25",
+   tipe: "Home Décor",
+   nama: "Carved - White - Massive Teak Root Wall Panel - Wood Room Divider - Tree Root Screen - Root Home Decor",
+   harga: "$3500",
+   spek: "Width: 65 inches | Height: 65 inches | Depth: 12 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/11_GiCS4tJoprEjxUvxdpKuKEEIHKPwkR?usp=sharing"
   },
   {
-   "No": 26,
-   "Type of Item": "Home Décor",
-   "Name Of Item": "Carved - Massive Teak Root Wall Panel - Wood Room Divider - Tree Root Screen - Root Home Decor",
-   "Price ( Include Shipping": "$3500",
-   "Spesification": "Width: 65 inches | Height: 65 inches | Depth: 12 inches",
+   id: "26",
+   tipe: "Home Décor",
+   nama: "Carved - Massive Teak Root Wall Panel - Wood Room Divider - Tree Root Screen - Root Home Decor",
+   harga: "$3500",
+   spek: "Width: 65 inches | Height: 65 inches | Depth: 12 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1S-8-3G_tZDWljYclLHVTwyvuOZKO41Va?usp=sharing"
   },
   {
-   "No": 27,
-   "Type of Item": "Home Décor",
-   "Name Of Item": "Carved - Massive Teak Root Wall Panel - Wood Room Divider - Tree Root Screen - Root Home Decor",
-   "Price ( Include Shipping": "$3500",
-   "Spesification": "Width: 65 inches | Height: 65 inches | Depth: 12 inches",
+   id: "27",
+   tipe: "Home Décor",
+   nama: "Carved - Massive Teak Root Wall Panel - Wood Room Divider - Tree Root Screen - Root Home Decor",
+   harga: "$3500",
+   spek: "Width: 65 inches | Height: 65 inches | Depth: 12 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1w5I4w5sVNxsJdBDQ7DxhML2X4THx--1C?usp=sharing"
   },
   {
-   "No": 28,
-   "Type of Item": "Doors, Frame, Windows",
-   "Name Of Item": "Royal 3 Hand Carved Wood Door and Full Frame – Teak Wood Doors and Frames",
-   "Price ( Include Shipping": "$7400",
-   "Spesification": "Width: 177 inches | Height: 177 inches | Depth: 5.5 inches",
+   id: "28",
+   tipe: "Doors, Frame, Windows",
+   nama: "Royal 3 Hand Carved Wood Door and Full Frame – Teak Wood Doors and Frames",
+   harga: "$7400",
+   spek: "Width: 177 inches | Height: 177 inches | Depth: 5.5 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1__i3OPKca1_wJKz57TkdmKzbzH0p24JZ?usp=sharing"
   },
   {
-   "No": 29,
-   "Type of Item": "Doors, Frame, Windows",
-   "Name Of Item": "Royal 2 Hand Carved Wood Door and Full Frame – Teak Wood Doors and Frames",
-   "Price ( Include Shipping": "$6400",
-   "Spesification": "Width: 177 inches | Height: 137 – 149 inches | Depth: 5.5 inches",
+   id: "29",
+   tipe: "Doors, Frame, Windows",
+   nama: "Royal 2 Hand Carved Wood Door and Full Frame – Teak Wood Doors and Frames",
+   harga: "$6400",
+   spek: "Width: 177 inches | Height: 137 – 149 inches | Depth: 5.5 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1lr8hjaXSXjbI79vcq1DestyGZWJ6eSGc?usp=sharing"
   },
   {
-   "No": 30,
-   "Type of Item": "Doors, Frame, Windows",
-   "Name Of Item": "Royal 1 Hand Carved Wood Door and Full Frame – Teak Wood Doors and Frames",
-   "Price ( Include Shipping": "$5400",
-   "Spesification": "Width: 177 inches | Height: 106 inches | Depth: 5.5 inches",
+   id: "30",
+   tipe: "Doors, Frame, Windows",
+   nama: "Royal 1 Hand Carved Wood Door and Full Frame – Teak Wood Doors and Frames",
+   harga: "$5400",
+   spek: "Width: 177 inches | Height: 106 inches | Depth: 5.5 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1jH3io2rfV8V6z7IIJrIP9iseNKKV17eT?usp=sharing"
   },
   {
-   "No": 31,
-   "Type of Item": "Doors, Frame, Windows",
-   "Name Of Item": "Premium Hand Carved Wood Door and Full Frame - Teak Wood Doors and Frames",
-   "Price ( Include Shipping": "$4000",
-   "Spesification": "Width: 177 inches | Height: 59-70 inches | Depth: 5.5 inches",
+   id: "31",
+   tipe: "Doors, Frame, Windows",
+   nama: "Premium Hand Carved Wood Door and Full Frame - Teak Wood Doors and Frames",
+   harga: "$4000",
+   spek: "Width: 177 inches | Height: 59-70 inches | Depth: 5.5 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1OMhbZpA9HHgPSrRdmwqrfikn8t3kEztE?usp=sharing"
   },
   {
-   "No": 32,
-   "Type of Item": "Wall Décor",
-   "Name Of Item": "Wood Carving - Teak Root Wall Decoration - Natural Wood Art - Wood Sculpture - Tree Root Craft",
-   "Price ( Include Shipping": "$1200",
-   "Spesification": "Width: 47 inches | Height: 47 inches | Depth: 9 inches",
+   id: "32",
+   tipe: "Wall Décor",
+   nama: "Wood Carving - Teak Root Wall Decoration - Natural Wood Art - Wood Sculpture - Tree Root Craft",
+   harga: "$1200",
+   spek: "Width: 47 inches | Height: 47 inches | Depth: 9 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1JxNruJV0HRQuVdBw3xLyBuroY3q790he?usp=sharing"
   },
   {
-   "No": 33,
-   "Type of Item": "Wall Décor",
-   "Name Of Item": "Wood Carving - Teak Root Wall Decoration - Natural Wood Art - Wood Sculpture - Tree Root Craft - Wood Carved Wall Hanging",
-   "Price ( Include Shipping": "$1180",
-   "Spesification": "Width: 52 inches | Height: 49.2 inches | Depth: 4 inches",
+   id: "33",
+   tipe: "Wall Décor",
+   nama: "Wood Carving - Teak Root Wall Decoration - Natural Wood Art - Wood Sculpture - Tree Root Craft - Wood Carved Wall Hanging",
+   harga: "$1180",
+   spek: "Width: 52 inches | Height: 49.2 inches | Depth: 4 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/19RALzdlByAXSJbVjvUUAuY_WEjFY--OA?usp=sharing"
   },
   {
-   "No": 34,
-   "Type of Item": "Wall Décor",
-   "Name Of Item": "Wood Carving - Teak Root Wall Decoration - Natural Wood Art - Wood Sculpture - Tree Root Craft - Wood Carved Wall Hanging",
-   "Price ( Include Shipping": "$1000",
-   "Spesification": "Diameters: 31,4 inches | Depth: 3.2 inches",
+   id: "34",
+   tipe: "Wall Décor",
+   nama: "Wood Carving - Teak Root Wall Decoration - Natural Wood Art - Wood Sculpture - Tree Root Craft - Wood Carved Wall Hanging",
+   harga: "$1000",
+   spek: "Diameters: 31,4 inches | Depth: 3.2 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1JTzUaQIdee7uL1B5QFCe8zQnHKU46r_a?usp=sharing"
   },
   {
-   "No": 35,
-   "Type of Item": "Wall Décor",
-   "Name Of Item": "Wood Carving - Teak Root Wall Decoration - Natural Wood Art - Wood Sculpture - Tree Root Craft - Wood Carved Wall Hanging",
-   "Price ( Include Shipping": "$1000",
-   "Spesification": "Width: 32 inches | Height: 32 inches | Depth: 3.2 inches",
+   id: "35",
+   tipe: "Wall Décor",
+   nama: "Wood Carving - Teak Root Wall Decoration - Natural Wood Art - Wood Sculpture - Tree Root Craft - Wood Carved Wall Hanging",
+   harga: "$1000",
+   spek: "Width: 32 inches | Height: 32 inches | Depth: 3.2 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1t-umlvSK5AKN6LPhw5uKe7DGSPSCipgz?usp=sharing"
   },
   {
-   "No": 36,
-   "Type of Item": "Wall Décor",
-   "Name Of Item": "Wood Carving - Teak Root Wall Decoration - Natural Wood Art - Wood Sculpture - Tree Root Craft - Wood Carved Wall Hanging",
-   "Price ( Include Shipping": "$1000",
-   "Spesification": "Width: 31.4 inches | Height: 35.4 inches | Depth: 4 inches",
+   id: "36",
+   tipe: "Wall Décor",
+   nama: "Wood Carving - Teak Root Wall Decoration - Natural Wood Art - Wood Sculpture - Tree Root Craft - Wood Carved Wall Hanging",
+   harga: "$1000",
+   spek: "Width: 31.4 inches | Height: 35.4 inches | Depth: 4 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1yuXa979R70_U2Hdjk6K9qoPhjIJM9JnH?usp=sharing"
   },
   {
-   "No": 37,
-   "Type of Item": "Wall Décor",
-   "Name Of Item": "Wood Carving - Teak Root Wall Decoration - Natural Wood Art - Wood Sculpture - Tree Root Craft",
-   "Price ( Include Shipping": "$1000",
-   "Spesification": "Width: 27 inches | Height: 35 inches | Depth: 3 inches",
+   id: "37",
+   tipe: "Wall Décor",
+   nama: "Wood Carving - Teak Root Wall Decoration - Natural Wood Art - Wood Sculpture - Tree Root Craft",
+   harga: "$1000",
+   spek: "Width: 27 inches | Height: 35 inches | Depth: 3 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1c-9RenhoEeOdPvxprzFdvv7xJK2SimHY?usp=sharing"
   },
   {
-   "No": 38,
-   "Type of Item": "Golden Acacia Furniture",
-   "Name Of Item": "Golden Acacia Coffee Table – Live Edge Table – Living Room Furniture – Monkey Pot Coffee Table",
-   "Price ( Include Shipping": "$2050",
-   "Spesification": "Width: 61 inches | Height: 17.7 inches | Depth: 41.5 inches",
+   id: "38",
+   tipe: "Golden Acacia Furniture",
+   nama: "Golden Acacia Coffee Table – Live Edge Table – Living Room Furniture – Monkey Pot Coffee Table",
+   harga: "$2050",
+   spek: "Width: 61 inches | Height: 17.7 inches | Depth: 41.5 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/15pmvpVKtmfivY1wy_gNdKnxiYY_yPhSx?usp=sharing"
   },
   {
-   "No": 39,
-   "Type of Item": "Golden Acacia Furniture",
-   "Name Of Item": "Carved Console Table – Entryway Table- Bar Table - Live Edge Table – Living Room Furniture – Tree Root Console Table",
-   "Price ( Include Shipping": "$1700",
-   "Spesification": "Width: 52 inches | Height: 36 inches | Depth: 14 inches",
+   id: "39",
+   tipe: "Golden Acacia Furniture",
+   nama: "Carved Console Table – Entryway Table- Bar Table - Live Edge Table – Living Room Furniture – Tree Root Console Table",
+   harga: "$1700",
+   spek: "Width: 52 inches | Height: 36 inches | Depth: 14 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/147J-XnaP2qGR7jhctk4lPlTF_zu9ZN3l?usp=sharing"
   },
   {
-   "No": 40,
-   "Type of Item": "Golden Acacia Furniture",
-   "Name Of Item": "Golden Acacia Console Table – Live Edge Table – Living Room Furniture – Tree Root Console Table – TV Table",
-   "Price ( Include Shipping": "$1700",
-   "Spesification": "Width: 59 inches | Height: 31.4 inches | Depth: 15.7 inches",
+   id: "40",
+   tipe: "Golden Acacia Furniture",
+   nama: "Golden Acacia Console Table – Live Edge Table – Living Room Furniture – Tree Root Console Table – TV Table",
+   harga: "$1700",
+   spek: "Width: 59 inches | Height: 31.4 inches | Depth: 15.7 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1FA1dB5_CCWADj0tjNaj0VCiJM3US7E33?usp=sharing"
   },
   {
-   "No": 41,
-   "Type of Item": "Golden Acacia Furniture",
-   "Name Of Item": "Walnut Coffee Table - Acacia Live Edge Table - Suar Wood Table - Side Table - End Table - Sofa Table",
-   "Price ( Include Shipping": "$1600",
-   "Spesification": "Width: 55 inches | Height: 18 inches | Depth: 23.6 inches",
+   id: "41",
+   tipe: "Golden Acacia Furniture",
+   nama: "Walnut Coffee Table - Acacia Live Edge Table - Suar Wood Table - Side Table - End Table - Sofa Table",
+   harga: "$1600",
+   spek: "Width: 55 inches | Height: 18 inches | Depth: 23.6 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1Qc7RxCy9vp5xy50aSrgAoFnJrDvXZo8E?usp=sharing"
   },
   {
-   "No": 42,
-   "Type of Item": "Golden Acacia Furniture",
-   "Name Of Item": "Golden Acacia Console Table – Live Edge Table – Living Room Furniture – Tree Root Console Table - TV Table",
-   "Price ( Include Shipping": "$1500",
-   "Spesification": "Width: 47.2 inches | Height: 29.5 inches | Depth: 18 inches",
+   id: "42",
+   tipe: "Golden Acacia Furniture",
+   nama: "Golden Acacia Console Table – Live Edge Table – Living Room Furniture – Tree Root Console Table - TV Table",
+   harga: "$1500",
+   spek: "Width: 47.2 inches | Height: 29.5 inches | Depth: 18 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1fitAYDYYNIwtVjO1UVE1WR5-6Acmqz82?usp=sharing"
   },
   {
-   "No": 43,
-   "Type of Item": "Golden Acacia Furniture",
-   "Name Of Item": "Golden Acacia Console Table – Live Edge Table – Living Room Furniture – Tree Root Console Table – TV Table",
-   "Price ( Include Shipping": "$1500",
-   "Spesification": "Width: 47.2 inches | Height: 29.5 inches | Depth: 19.6 inches",
+   id: "43",
+   tipe: "Golden Acacia Furniture",
+   nama: "Golden Acacia Console Table – Live Edge Table – Living Room Furniture – Tree Root Console Table – TV Table",
+   harga: "$1500",
+   spek: "Width: 47.2 inches | Height: 29.5 inches | Depth: 19.6 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/19IvQhuvKGVsemDFBdCJ-wnWn3-c-nqND?usp=sharing"
   },
   {
-   "No": 44,
-   "Type of Item": "Golden Acacia Furniture",
-   "Name Of Item": "Tree Root Bench - Outdoor Chair - Wood Stool - Walnut Coffee Table - End Table - Side Table - Entryway Table",
-   "Price ( Include Shipping": "$1600",
-   "Spesification": "Width: 59 inches | Height: 19 inches | Depth: 15.7 inches",
+   id: "44",
+   tipe: "Golden Acacia Furniture",
+   nama: "Tree Root Bench - Outdoor Chair - Wood Stool - Walnut Coffee Table - End Table - Side Table - Entryway Table",
+   harga: "$1600",
+   spek: "Width: 59 inches | Height: 19 inches | Depth: 15.7 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1evc2iQUNoJbc-DiLgFREdLGAD1MASKkB?usp=sharing"
   },
   {
-   "No": 45,
-   "Type of Item": "Golden Acacia Furniture",
-   "Name Of Item": "Golden Acacia Console Table – Entryway Table- Bar Table - Live Edge Table – Living Room Furniture – Tree Root Console Table",
-   "Price ( Include Shipping": "$1600",
-   "Spesification": "Width: 59 inches | Height: 33 inches | Depth: 15.7 inches",
+   id: "45",
+   tipe: "Golden Acacia Furniture",
+   nama: "Golden Acacia Console Table – Entryway Table- Bar Table - Live Edge Table – Living Room Furniture – Tree Root Console Table",
+   harga: "$1600",
+   spek: "Width: 59 inches | Height: 33 inches | Depth: 15.7 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/10by1F7OmXAJsxb_rzbmc__zZSY5j3JiL?usp=sharing"
   },
   {
-   "No": 46,
-   "Type of Item": "Golden Acacia Furniture",
-   "Name Of Item": "Golden Acacia Coffee Table – Live Edge Table – Living Room Furniture – Tree Stump Coffee Table",
-   "Price ( Include Shipping": "$1400",
-   "Spesification": "Width: 37 inches | Height: 16.5 inches | Depth: 31.4 inches",
+   id: "46",
+   tipe: "Golden Acacia Furniture",
+   nama: "Golden Acacia Coffee Table – Live Edge Table – Living Room Furniture – Tree Stump Coffee Table",
+   harga: "$1400",
+   spek: "Width: 37 inches | Height: 16.5 inches | Depth: 31.4 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1DuMBtQSWJsuHRJ3ZcOR4LKIOE-WNMpBE?usp=sharing"
   },
   {
-   "No": 47,
-   "Type of Item": "Golden Acacia Furniture",
-   "Name Of Item": "Golden Acacia Coffee Table – Live Edge Table – Living Room Furniture – Tree Stump Coffee Table",
-   "Price ( Include Shipping": "$1400",
-   "Spesification": "Width: 34.2 inches | Height: 17.7 inches | Depth: 23.6 inches",
+   id: "47",
+   tipe: "Golden Acacia Furniture",
+   nama: "Golden Acacia Coffee Table – Live Edge Table – Living Room Furniture – Tree Stump Coffee Table",
+   harga: "$1400",
+   spek: "Width: 34.2 inches | Height: 17.7 inches | Depth: 23.6 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1o2EzITVJg382Li456E93y9ONvFm7fyBn?usp=sharing"
   },
   {
-   "No": 48,
-   "Type of Item": "Golden Acacia Furniture",
-   "Name Of Item": "Golden Acacia Cocktail Table – Golden Acacia Side Table – Golden Acacia End Table – Live Edge Table – Sofa Table – Entry Room Table",
-   "Price ( Include Shipping": "$1200",
-   "Spesification": "Width: 15.7 inches | Height: 29.5 inches | Depth: 15.7 inches",
+   id: "48",
+   tipe: "Golden Acacia Furniture",
+   nama: "Golden Acacia Cocktail Table – Golden Acacia Side Table – Golden Acacia End Table – Live Edge Table – Sofa Table – Entry Room Table",
+   harga: "$1200",
+   spek: "Width: 15.7 inches | Height: 29.5 inches | Depth: 15.7 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1WBlE4vUT5Jw2yfMn5aV0zp94mosYGVAt?usp=sharing"
   },
   {
-   "No": 49,
-   "Type of Item": "Wood Exotic Furniture",
-   "Name Of Item": "Round Carving Table - Flower Shape - Tree Root Coffee Table – Walnut Table - Rosewood Table - Sculpture Coffee Table",
-   "Price ( Include Shipping": "$2200",
-   "Spesification": "Width: 47.2 inches | Height: 17.7 inches | Depth: 47.2 inches",
+   id: "49",
+   tipe: "Wood Exotic Furniture",
+   nama: "Round Carving Table - Flower Shape - Tree Root Coffee Table – Walnut Table - Rosewood Table - Sculpture Coffee Table",
+   harga: "$2200",
+   spek: "Width: 47.2 inches | Height: 17.7 inches | Depth: 47.2 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1NXtYo2yLhNBtVpjQelo5VfaAkQOuU_hJ?usp=sharing"
   },
   {
-   "No": 50,
-   "Type of Item": "Wood Exotic Furniture",
-   "Name Of Item": "Rectangular - Tree Root Coffee Table – Walnut Table - Rosewood Table - Exotic Wood Coffee Table",
-   "Price ( Include Shipping": "$1680",
-   "Spesification": "Width: 39.3 inches | Height: 17.7 inches | Depth: 31.4 inches",
+   id: "50",
+   tipe: "Wood Exotic Furniture",
+   nama: "Rectangular - Tree Root Coffee Table – Walnut Table - Rosewood Table - Exotic Wood Coffee Table",
+   harga: "$1680",
+   spek: "Width: 39.3 inches | Height: 17.7 inches | Depth: 31.4 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1aG4SdeIU7fcQNZeHrzqmNex7ThsnYAf7?usp=sharing"
   },
   {
-   "No": 51,
-   "Type of Item": "Wood Exotic Furniture",
-   "Name Of Item": "Round Flower Shape - Tree Root Coffee Table – Walnut Table - Rosewood Table - Sculpture Coffee Table",
-   "Price ( Include Shipping": "$1850",
-   "Spesification": "Width: 39.3 inches | Height: 17.7 inches | Depth: 39.3 inches",
+   id: "51",
+   tipe: "Wood Exotic Furniture",
+   nama: "Round Flower Shape - Tree Root Coffee Table – Walnut Table - Rosewood Table - Sculpture Coffee Table",
+   harga: "$1850",
+   spek: "Width: 39.3 inches | Height: 17.7 inches | Depth: 39.3 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1nokjvqX1Vcq6MkwFBLTifZvu4_7wZkam?usp=sharing"
   },
   {
-   "No": 52,
-   "Type of Item": "Wood Exotic Furniture",
-   "Name Of Item": "Walnut Console Table - Entryway Table - Acacia Side Table - Live Edge Table",
-   "Price ( Include Shipping": "$1700",
-   "Spesification": "Width: 41 inches | Height: 30.3 inches | Depth: 17.7 inches",
+   id: "52",
+   tipe: "Wood Exotic Furniture",
+   nama: "Walnut Console Table - Entryway Table - Acacia Side Table - Live Edge Table",
+   harga: "$1700",
+   spek: "Width: 41 inches | Height: 30.3 inches | Depth: 17.7 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1LP3b1s-SZx5kzu-3v8efWqp-9UcccAqa?usp=sharing"
   },
   {
-   "No": 53,
-   "Type of Item": "Wood Exotic Furniture",
-   "Name Of Item": "Walnut Console Table - Entryway Table - Acacia Side Table - Live Edge Table",
-   "Price ( Include Shipping": "$1550",
-   "Spesification": "Width: 31.5 inches | Height: 30 inches | Depth: 17 inches",
+   id: "53",
+   tipe: "Wood Exotic Furniture",
+   nama: "Walnut Console Table - Entryway Table - Acacia Side Table - Live Edge Table",
+   harga: "$1550",
+   spek: "Width: 31.5 inches | Height: 30 inches | Depth: 17 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1mwJmyfMjNmuU3EwuBdAS1V4quTxBqVe9?usp=sharing"
   },
   {
-   "No": 54,
-   "Type of Item": "Dining Table",
-   "Name Of Item": "Round Mushroom - Teak Root Dining Table – Tree Root Table – Live Edge Table – Living Room Table",
-   "Price ( Include Shipping": "$2250",
-   "Spesification": "Height: 47 inches | Width : 31,4 inches",
+   id: "54",
+   tipe: "Dining Table",
+   nama: "Round Mushroom - Teak Root Dining Table – Tree Root Table – Live Edge Table – Living Room Table",
+   harga: "$2250",
+   spek: "Height: 47 inches | Width : 31,4 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1jJuVkrjvjGZeaIuV1Fh1tyjFMsFwkG6L?usp=sharing"
   },
   {
-   "No": 55,
-   "Type of Item": "Dining Table",
-   "Name Of Item": "White - Carving Table - Flower Shape - Round Teak Stump Dining Table – Tree Stump Dining Table – Teak Wood Dining Table - Live Edge Table",
-   "Price ( Include Shipping": "$1950",
-   "Spesification": "Height: 29.5 Inches | Diameter: 31.4 inches",
+   id: "55",
+   tipe: "Dining Table",
+   nama: "White - Carving Table - Flower Shape - Round Teak Stump Dining Table – Tree Stump Dining Table – Teak Wood Dining Table - Live Edge Table",
+   harga: "$1950",
+   spek: "Height: 29.5 Inches | Diameter: 31.4 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1gVJgpXowIJxFjjxi10skEdMb-0Q-ngq_?usp=sharing"
   },
   {
-   "Price ( Include Shipping": "$2150",
-   "Spesification": "Height: 29.5 Inches | Diameter: 35.4 inches"
+   harga: "$2150",
+   spek: "Height: 29.5 Inches | Diameter: 35.4 inches"
   },
   {
-   "Price ( Include Shipping": "$2350",
-   "Spesification": "Height: 29.5 inches | Diameter: 39.3 inches"
+   harga: "$2350",
+   spek: "Height: 29.5 inches | Diameter: 39.3 inches"
   },
   {
-   "Price ( Include Shipping": "$2650",
-   "Spesification": "Height: 29.5 inches| Diameter: 47.2 inches"
+   harga: "$2650",
+   spek: "Height: 29.5 inches| Diameter: 47.2 inches"
   },
   {
-   "Price ( Include Shipping": "$2000",
-   "Spesification": "Height: 31.4 inches | Diameter: 31.4 inches"
+   harga: "$2000",
+   spek: "Height: 31.4 inches | Diameter: 31.4 inches"
   },
   {
-   "Price ( Include Shipping": "$2200",
-   "Spesification": "Height: 31.4 inches | Diameter: 35.4 inches"
+   harga: "$2200",
+   spek: "Height: 31.4 inches | Diameter: 35.4 inches"
   },
   {
-   "Price ( Include Shipping": "$2400",
-   "Spesification": "Height: 31.4 inches | Diameter: 39.3 inches"
+   harga: "$2400",
+   spek: "Height: 31.4 inches | Diameter: 39.3 inches"
   },
   {
-   "Price ( Include Shipping": "$2700",
-   "Spesification": "Height: 31.4 inches | Diameter: 47.2 inches"
+   harga: "$2700",
+   spek: "Height: 31.4 inches | Diameter: 47.2 inches"
   },
   {
-   "No": 56,
-   "Type of Item": "Dining Table",
-   "Name Of Item": "White Djembe Teak Root Dining Table – Tree Root Dining Table – Teak Wood Table - Dining Room Furniture",
-   "Price ( Include Shipping": "$1850",
-   "Spesification": "Height: 75 Centimeters| Diameter: 80 Centimeters",
+   id: "56",
+   tipe: "Dining Table",
+   nama: "White Djembe Teak Root Dining Table – Tree Root Dining Table – Teak Wood Table - Dining Room Furniture",
+   harga: "$1850",
+   spek: "Height: 75 Centimeters| Diameter: 80 Centimeters",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1lh15LcI8ltC7RLGujd0HydUynebY1FT2?usp=sharing"
   },
   {
-   "Price ( Include Shipping": "$2250",
-   "Spesification": "Height: 75 Centimeters| Diameter: 100 Centimeters"
+   harga: "$2250",
+   spek: "Height: 75 Centimeters| Diameter: 100 Centimeters"
   },
   {
-   "Price ( Include Shipping": "$1900",
-   "Spesification": "Height: 80 Centimeters| Diameter: 80 Centimeters"
+   harga: "$1900",
+   spek: "Height: 80 Centimeters| Diameter: 80 Centimeters"
   },
   {
-   "Price ( Include Shipping": "$2300",
-   "Spesification": "Height: 80 Centimeters| Diameter: 100 Centimeters"
+   harga: "$2300",
+   spek: "Height: 80 Centimeters| Diameter: 100 Centimeters"
   },
   {
-   "No": 57,
-   "Type of Item": "Dining Table",
-   "Name Of Item": "Round Cone - Teak Stump Table – Modern Dining Table – Natural Teak Wood Dining Table - Dining Room Furniture - Live Edge Table",
-   "Price ( Include Shipping": "$1650",
-   "Spesification": "Height: 31.4 Inches | Diameter: 23.6 inches",
+   id: "57",
+   tipe: "Dining Table",
+   nama: "Round Cone - Teak Stump Table – Modern Dining Table – Natural Teak Wood Dining Table - Dining Room Furniture - Live Edge Table",
+   harga: "$1650",
+   spek: "Height: 31.4 Inches | Diameter: 23.6 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1O8-cpPJvisDwUDFjUMQg229LcUvtPOQw?usp=sharing"
   },
   {
-   "Price ( Include Shipping": "$2050",
-   "Spesification": "Height: 31.4 Inches | Diameter: 31.4 inches"
+   harga: "$2050",
+   spek: "Height: 31.4 Inches | Diameter: 31.4 inches"
   },
   {
-   "Price ( Include Shipping": "$2350",
-   "Spesification": "Height: 31.4 Inches | Diameter: 39.3 inches"
+   harga: "$2350",
+   spek: "Height: 31.4 Inches | Diameter: 39.3 inches"
   },
   {
-   "Price ( Include Shipping": "$2650",
-   "Spesification": "Height: 31.4 Inches | Diameter: 47.2 inches"
+   harga: "$2650",
+   spek: "Height: 31.4 Inches | Diameter: 47.2 inches"
   },
   {
-   "No": 58,
-   "Type of Item": "Dining Table",
-   "Name Of Item": "White Round Cone - Teak Stump Table – Modern Dining Table – Natural Teak Wood Dining Table - Dining Room Furniture",
-   "Price ( Include Shipping": "$1550",
-   "Spesification": "Height: 29.5 inches | Diameter: 23.6 inches",
+   id: "58",
+   tipe: "Dining Table",
+   nama: "White Round Cone - Teak Stump Table – Modern Dining Table – Natural Teak Wood Dining Table - Dining Room Furniture",
+   harga: "$1550",
+   spek: "Height: 29.5 inches | Diameter: 23.6 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1vqIfBdAs2OGxDdU27gSLiUWKo_Yh_gUs?usp=sharing"
   },
   {
-   "Price ( Include Shipping": "$1850",
-   "Spesification": "Height: 29.5 inches | Diameter: 31.4 inches"
+   harga: "$1850",
+   spek: "Height: 29.5 inches | Diameter: 31.4 inches",
   },
   {
-   "Price ( Include Shipping": "$2150",
-   "Spesification": "Height: 29.5 inches | Diameter: 39.3 inches"
+   harga: "$2150",
+   spek: "Height: 29.5 inches | Diameter: 39.3 inches",
   },
   {
-   "Price ( Include Shipping": "$2450",
-   "Spesification": "Height: 29.5 inches | Diameter: 47.2 inches"
+   harga: "$2450",
+   spek: "Height: 29.5 inches | Diameter: 47.2 inches",
   },
   {
-   "Price ( Include Shipping": "$1600",
-   "Spesification": "Height: 31.4 inches | Diameter: 23.6 inches"
+   harga: "$1600",
+   spek: "Height: 31.4 inches | Diameter: 23.6 inches",
   },
   {
-   "Price ( Include Shipping": "$1900",
-   "Spesification": "Height: 31.4 inches | Diameter: 31.4 inches"
+   harga: "$1900",
+   spek: "Height: 31.4 inches | Diameter: 31.4 inches",
   },
   {
-   "Price ( Include Shipping": "$2200",
-   "Spesification": "Height: 31.4 inches | Diameter: 39.3 inches"
+   harga: "$2200",
+   spek: "Height: 31.4 inches | Diameter: 39.3 inches",
   },
   {
-   "Price ( Include Shipping": "$2500",
-   "Spesification": "Height: 31.4 inches | Diameter: 47.2 inches"
+   harga: "$2500",
+   spek: "Height: 31.4 inches | Diameter: 47.2 inches",
   },
   {
-   "No": 59,
-   "Type of Item": "Dining Table",
-   "Name Of Item": "Carving Table - Flower Shape - Round Teak Stump Dining Table – Tree Stump Dining Table – Teak Wood Dining Table - Dining Room Furniture",
-   "Price ( Include Shipping": "$1550",
-   "Spesification": "Height: 29.5 inches | Diameter: 23.6 inches",
+   id: "59",
+   tipe: "Dining Table",
+   nama: "Carving Table - Flower Shape - Round Teak Stump Dining Table – Tree Stump Dining Table – Teak Wood Dining Table - Dining Room Furniture",
+   harga: "$1550",
+   spek: "Height: 29.5 inches | Diameter: 23.6 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1o72bq5fwETGyZN3U4WCoUyn_nFuW8gVi?usp=sharing"
   },
   {
-   "Price ( Include Shipping": "$2050",
-   "Spesification": "Height: 29.5 inches | Diameter: 31.4 inches"
+   harga: "$2050",
+   spek: "Height: 29.5 inches | Diameter: 31.4 inches",
   },
   {
-   "Price ( Include Shipping": "$2350",
-   "Spesification": "Height: 29.5 inches | Diameter: 39 inches"
+   harga: "$2350",
+   spek: "Height: 29.5 inches | Diameter: 39 inches",
   },
   {
-   "Price ( Include Shipping": "$2650",
-   "Spesification": "Height: 29.5 inches | Diameter: 47.2 inches"
+   harga: "$2650",
+   spek: "Height: 29.5 inches | Diameter: 47.2 inches",
   },
   {
-   "Price ( Include Shipping": "$1600",
-   "Spesification": "Height: 31.4 inches | Diameter: 23.6 inches"
+   harga: "$1600",
+   spek: "Height: 31.4 inches | Diameter: 23.6 inches",
   },
   {
-   "Price ( Include Shipping": "$2100",
-   "Spesification": "Height: 31.4 inches | Diameter: 31.4 inches"
+   harga: "$2100",
+   spek: "Height: 31.4 inches | Diameter: 31.4 inches",
   },
   {
-   "Price ( Include Shipping": "$2400",
-   "Spesification": "Height: 31.4 inches | Diameter: 39 inches"
+   harga: "$2400",
+   spek: "Height: 31.4 inches | Diameter: 39 inches",
   },
   {
-   "Price ( Include Shipping": "$2700",
-   "Spesification": "Height: 31.4 inches | Diameter: 47.2 inches"
+   harga: "$2700",
+   spek: "Height: 31.4 inches | Diameter: 47.2 inches",
   },
   {
-   "No": 60,
-   "Type of Item": "Coffee Table",
-   "Name Of Item": "White - Square Teak Root Coffee Table – Teak Wood Coffee Table - Tree Root Table - Driftwood Coffee Table",
-   "Price ( Include Shipping": "$1400",
-   "Spesification": "Height: 17.7 inches | Width : 19.6 inches",
+   id: "60",
+   tipe: "Coffee Table",
+   nama: "White - Square Teak Root Coffee Table – Teak Wood Coffee Table - Tree Root Table - Driftwood Coffee Table",
+   harga: "$1400",
+   spek: "Height: 17.7 inches | Width : 19.6 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1_VWVNR4OJn5w__KSwIG0tOyN_Dmsn7bX?usp=sharing"
   },
   {
-   "Price ( Include Shipping": "$1600",
-   "Spesification": "Height: 17.7 inches | Width : 23.6 inches"
+   harga: "$1600",
+   spek: "Height: 17.7 inches | Width : 23.6 inches",
   },
   {
-   "Price ( Include Shipping": "$1800",
-   "Spesification": "Height: 17.7 inches | Width : 31.4 inches"
+   harga: "$1800",
+   spek: "Height: 17.7 inches | Width : 31.4 inches",
   },
   {
-   "Price ( Include Shipping": "$2000",
-   "Spesification": "Height: 17.7 inches | Width : 39 inches"
+   harga: "$2000",
+   spek: "Height: 17.7 inches | Width : 39 inches",
   },
   {
-   "Price ( Include Shipping": "$2400",
-   "Spesification": "Height: 17.7 inches | Width : 47 inches"
+   harga: "$2400",
+   spek: "Height: 17.7 inches | Width : 47 inches",
   },
   {
-   "No": 61,
-   "Type of Item": "Coffee Table",
-   "Name Of Item": "Acacia Coffee Table - Side Table - End Table - Sofa Table - Acacia Stool - Bench - Outdoor Chair",
-   "Price ( Include Shipping": "$1150",
-   "Spesification": "Width: 23.6 inches | Height: 17.7 inches | Depth: 23.6 inches",
+   id: "61",
+   tipe: "Coffee Table",
+   nama: "Acacia Coffee Table - Side Table - End Table - Sofa Table - Acacia Stool - Bench - Outdoor Chair",
+   harga: "$1150",
+   spek: "Width: 23.6 inches | Height: 17.7 inches | Depth: 23.6 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1KtmgdF_I_lHhiMbntP7c9BvzlKg-g06w?usp=sharing"
   },
   {
-   "No": 62,
-   "Type of Item": "Coffee Table",
-   "Name Of Item": "Carving Table - Flower Shape - Teak Root Coffee Table – Side Table - End Table - Outdoor Table - Accent Table",
-   "Price ( Include Shipping": "$2150",
-   "Spesification": "Width: 47.2 inches | Height: 18 inches | Depth: 47.2 inches",
+   id: "62",
+   tipe: "Coffee Table",
+   nama: "Carving Table - Flower Shape - Teak Root Coffee Table – Side Table - End Table - Outdoor Table - Accent Table",
+   harga: "$2150",
+   spek: "Width: 47.2 inches | Height: 18 inches | Depth: 47.2 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1UwdwTj3EstKibSx8fQQDPPrj917SDQqh?usp=sharing"
   },
   {
-   "No": 63,
-   "Type of Item": "Coffee Table",
-   "Name Of Item": "Teak Wood Slab Table - Live Edge Table - Outdoor Table - Gardening Tree Root Table",
-   "Price ( Include Shipping": "$2200",
-   "Spesification": "Width: 61 inches | Height: 26.3 inches | Depth: 29.5 inches",
+   id: "63",
+   tipe: "Coffee Table",
+   nama: "Teak Wood Slab Table - Live Edge Table - Outdoor Table - Gardening Tree Root Table",
+   harga: "$2200",
+   spek: "Width: 61 inches | Height: 26.3 inches | Depth: 29.5 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1Q1t_VdyoIHEVA3bmwSbQcJmgQiIZKshO?usp=sharing"
   },
   {
-   "No": 64,
-   "Type of Item": "Coffee Table",
-   "Name Of Item": "Carving Table - Flower Shape Round - Teak Root Coffee Table – Natural Root Coffee Table – Teak Wood Coffee Table",
-   "Price ( Include Shipping": "$1850",
-   "Spesification": "Width: 39.3 inches | Height: 17.7 inches | Depth: 39.3 inches",
+   id: "64",
+   tipe: "Coffee Table",
+   nama: "Carving Table - Flower Shape Round - Teak Root Coffee Table – Natural Root Coffee Table – Teak Wood Coffee Table",
+   harga: "$1850",
+   spek: "Width: 39.3 inches | Height: 17.7 inches | Depth: 39.3 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1cIAynRYsIaJ_jIuR2iOjMrJ-VGmnPt0m?usp=sharing"
   },
   {
-   "No": 65,
-   "Type of Item": "Coffee Table",
-   "Name Of Item": "Carving Table - Flower Shape Round - Teak Root Coffee Table - Driftwood Table - Live Edge Table - Wood Sculpture",
-   "Price ( Include Shipping": "$1600",
-   "Spesification": "Width: 31.4 inches | Height: 17.7 inches | Depth: 31.4 inches",
+   id: "65",
+   tipe: "Coffee Table",
+   nama: "Carving Table - Flower Shape Round - Teak Root Coffee Table - Driftwood Table - Live Edge Table - Wood Sculpture",
+   harga: "$1600",
+   spek: "Width: 31.4 inches | Height: 17.7 inches | Depth: 31.4 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1yA5KxuHKUw3SB8GaXUrvmyCsO99liPbq?usp=sharing"
   },
   {
-   "No": 66,
-   "Type of Item": "Coffee Table",
-   "Name Of Item": "Teak Wood Slab Table - Erosion Root Table - Rustic Live Edge Table - Driftwood Table - Outdoor Table",
-   "Price ( Include Shipping": "$1930",
-   "Spesification": "Width: 51 inches | Height: 24 inches | Depth: 25 inches",
+   id: "66",
+   tipe: "Coffee Table",
+   nama: "Teak Wood Slab Table - Erosion Root Table - Rustic Live Edge Table - Driftwood Table - Outdoor Table",
+   harga: "$1930",
+   spek: "Width: 51 inches | Height: 24 inches | Depth: 25 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1llEdJHwhXBX6PhxG_TAmAqQ3nTpa2VHJ?usp=sharing"
   },
   {
-   "No": 67,
-   "Type of Item": "Coffee Table",
-   "Name Of Item": "Teak Root Coffee Table - Live Edge Table - Driftwood Table - Rustic Coffee Table - Rectangular Table",
-   "Price ( Include Shipping": "$1300",
-   "Spesification": "Width: 31.4 inches | Height: 15.7 inches | Depth: 23.6 inches",
+   id: "67",
+   tipe: "Coffee Table",
+   nama: "Teak Root Coffee Table - Live Edge Table - Driftwood Table - Rustic Coffee Table - Rectangular Table",
+   harga: "$1300",
+   spek: "Width: 31.4 inches | Height: 15.7 inches | Depth: 23.6 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1gcrlDJTt12vulG7Lks9Csh8LuhZXTYPZ?usp=sharing"
   },
   {
-   "No": 68,
-   "Type of Item": "Coffee Table",
-   "Name Of Item": "Square - Wooden Patchwork Teak Root Coffee Table – Reclaimed Coffee Table – Teak Wood Table - Driftwood Table",
-   "Price ( Include Shipping": "$1030",
-   "Spesification": "Height: 15.7 inches | Width : 15.7 inches",
+   id: "68",
+   tipe: "Coffee Table",
+   nama: "Square - Wooden Patchwork Teak Root Coffee Table – Reclaimed Coffee Table – Teak Wood Table - Driftwood Table",
+   harga: "$1030",
+   spek: "Height: 15.7 inches | Width : 15.7 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1Zgutf8GJmXgod11D0as_XT8qjv_GooFv?usp=sharing"
   },
   {
-   "Price ( Include Shipping": "$1200",
-   "Spesification": "Height: 15.7 inches | Width : 19.6 inches"
+   harga: "$1200",
+   spek: "Height: 15.7 inches | Width : 19.6 inches",
   },
   {
-   "Price ( Include Shipping": "$1500",
-   "Spesification": "Height: 15.7 inches | Width : 23.6 inches"
+   harga: "$1500",
+   spek: "Height: 15.7 inches | Width : 23.6 inches",
   },
   {
-   "Price ( Include Shipping": "$1650",
-   "Spesification": "Height: 15.7 inches | Width : 31.5 inches"
+   harga: "$1650",
+   spek: "Height: 15.7 inches | Width : 31.5 inches",
   },
   {
-   "Price ( Include Shipping": "$1830",
-   "Spesification": "Height: 15.7 inches | Width : 39.4 inches"
+   harga: "$1830",
+   spek: "Height: 15.7 inches | Width : 39.4 inches",
   },
   {
-   "Price ( Include Shipping": "$1100",
-   "Spesification": "Height: 17.7 inches | Width : 19.6 inches"
+   harga: "$1100",
+   spek: "Height: 17.7 inches | Width : 19.6 inches",
   },
   {
-   "Price ( Include Shipping": "$1250",
-   "Spesification": "Height: 17.7 inches | Width : 23.6 inches"
+   harga: "$1250",
+   spek: "Height: 17.7 inches | Width : 23.6 inches",
   },
   {
-   "Price ( Include Shipping": "$1530",
-   "Spesification": "Height: 17.7 inches | Width : 31.4 inches"
+   harga: "$1530",
+   spek: "Height: 17.7 inches | Width : 31.4 inches",
   },
   {
-   "Price ( Include Shipping": "$1710",
-   "Spesification": "Height: 17.7 inches | Width : 39 inches"
+   harga: "$1710",
+   spek: "Height: 17.7 inches | Width : 39 inches",
   },
   {
-   "Price ( Include Shipping": "$1880",
-   "Spesification": "Height: 17.7 inches | Width : 47 inches"
+   harga: "$1880",
+   spek: "Height: 17.7 inches | Width : 47 inches",
   },
   {
-   "No": 69,
-   "Type of Item": "Coffee Table",
-   "Name Of Item": "Teak Root Coffee Table - Live Edge Table - Outdoor Table - Driftwood Table - Tree Root Sofa Table",
-   "Price ( Include Shipping": "$2600",
-   "Spesification": "Width: 63 inches | Height: 23.6 inches | Depth: 63 inches",
+   id: "69",
+   tipe: "Coffee Table",
+   nama: "Teak Root Coffee Table - Live Edge Table - Outdoor Table - Driftwood Table - Tree Root Sofa Table",
+   harga: "$2600",
+   spek: "Width: 63 inches | Height: 23.6 inches | Depth: 63 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1JnGTRErCi_a20kNm9kjYmilSKmRuM57K?usp=sharing"
   },
   {
-   "No": 70,
-   "Type of Item": "Coffee Table",
-   "Name Of Item": "Square Carving Table - Flower Shape - Square Teak Root Coffee Table – Natural Root Coffee Table – Driftwood Coffee Table - Live Edge Table",
-   "Price ( Include Shipping": "$1450",
-   "Spesification": "Height: 15.7 inches | Width : 19.6 inches",
+   id: "70",
+   tipe: "Coffee Table",
+   nama: "Square Carving Table - Flower Shape - Square Teak Root Coffee Table – Natural Root Coffee Table – Driftwood Coffee Table - Live Edge Table",
+   harga: "$1450",
+   spek: "Height: 15.7 inches | Width : 19.6 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/15cp10ShKx5e0zvJpCk5YAg6ljeKsLH4t?usp=sharing"
   },
   {
-   "Price ( Include Shipping": "$1550",
-   "Spesification": "Height: 15.7 inches | Width : 23.6 inches"
+   harga: "$1550",
+   spek: "Height: 15.7 inches | Width : 23.6 inches",
   },
   {
-   "Price ( Include Shipping": "$1850",
-   "Spesification": "Height: 15.7 inches | Width : 31.4 inches"
+   harga: "$1850",
+   spek: "Height: 15.7 inches | Width : 31.4 inches",
   },
   {
-   "Price ( Include Shipping": "$2050",
-   "Spesification": "Height: 15.7 inches | Width : 39.3 inches"
+   harga: "$2050",
+   spek: "Height: 15.7 inches | Width : 39.3 inches",
   },
   {
-   "Price ( Include Shipping": "$2350",
-   "Spesification": "Height: 15.7 inches | Width : 47.2 inches"
+   harga: "$2350",
+   spek: "Height: 15.7 inches | Width : 47.2 inches",
   },
   {
-   "Price ( Include Shipping": "$2750",
-   "Spesification": "Height: 15.7 inches | Width : 59 inches"
+   harga: "$2750",
+   spek: "Height: 15.7 inches | Width : 59 inches",
   },
   {
-   "Price ( Include Shipping": "$1500",
-   "Spesification": "Height: 17.7 inches | Width : 19.6 inches"
+   harga: "$1500",
+   spek: "Height: 17.7 inches | Width : 19.6 inches",
   },
   {
-   "Price ( Include Shipping": "$1600",
-   "Spesification": "Height: 17.7 inches | Width : 23.6 inches"
+   harga: "$1600",
+   spek: "Height: 17.7 inches | Width : 23.6 inches",
   },
   {
-   "Price ( Include Shipping": "$1900",
-   "Spesification": "Height: 17.7 inches | Width : 31.4 inches"
+   harga: "$1900",
+   spek: "Height: 17.7 inches | Width : 31.4 inches",
   },
   {
-   "Price ( Include Shipping": "$2100",
-   "Spesification": "Height: 17.7 inches | Width : 39.3 inches"
+   harga: "$2100",
+   spek: "Height: 17.7 inches | Width : 39.3 inches",
   },
   {
-   "Price ( Include Shipping": "$2400",
-   "Spesification": "Height: 17.7 inches | Width : 47.2 inches"
+   harga: "$2400",
+   spek: "Height: 17.7 inches | Width : 47.2 inches",
   },
   {
-   "Price ( Include Shipping": "$2800",
-   "Spesification": "Height: 17.7 inches | Width : 59 inches"
+   harga: "$2800",
+   spek: "Height: 17.7 inches | Width : 59 inches",
   },
   {
-   "No": 71,
-   "Type of Item": "Coffee Table",
-   "Name Of Item": "White Round Teak Root Coffee Table – Natural Root Coffee Table – Teak Wood Coffee Table",
-   "Price ( Include Shipping": "$1300",
-   "Spesification": "Height: 15.7 inches | Width : 19.6 inches",
+   id: "71",
+   tipe: "Coffee Table",
+   nama: "White Round Teak Root Coffee Table – Natural Root Coffee Table – Teak Wood Coffee Table",
+   harga: "$1300",
+   spek: "Height: 15.7 inches | Width : 19.6 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1uV8rIWXuRck9I4S3OucyZWmhMYayYcQs?usp=sharing"
   },
   {
-   "Price ( Include Shipping": "$1450",
-   "Spesification": "Height: 15.7 inches | Width : 23.6 inches"
+   harga: "$1450",
+   spek: "Height: 15.7 inches | Width : 23.6 inches"
   },
   {
-   "Price ( Include Shipping": "$1750",
-   "Spesification": "Height: 15.7 inches | Width : 31.4 inches"
+   harga: "$1750",
+   spek: "Height: 15.7 inches | Width : 31.4 inches"
   },
   {
-   "Price ( Include Shipping": "$1950",
-   "Spesification": "Height: 15.7 inches | Width : 39.3 inches"
+   harga: "$1950",
+   spek: "Height: 15.7 inches | Width : 39.3 inches"
   },
   {
-   "Price ( Include Shipping": "$2250",
-   "Spesification": "Height: 15.7 inches | Width : 47.2 inches"
+   harga: "$2250",
+   spek: "Height: 15.7 inches | Width : 47.2 inches"
   },
   {
-   "Price ( Include Shipping": "$2650",
-   "Spesification": "Height: 15.7 inches | Width : 59 inches"
+   harga: "$2650",
+   spek: "Height: 15.7 inches | Width : 59 inches"
   },
   {
-   "Price ( Include Shipping": "$1350",
-   "Spesification": "Height: 17.7 inches | Width : 19.6 inches"
+   harga: "$1350",
+   spek: "Height: 17.7 inches | Width : 19.6 inches"
   },
   {
-   "Price ( Include Shipping": "$1500",
-   "Spesification": "Height: 17.7 inches | Width : 23.6 inches"
+   harga: "$1500",
+   spek: "Height: 17.7 inches | Width : 23.6 inches"
   },
   {
-   "Price ( Include Shipping": "$1800",
-   "Spesification": "Height: 17.7 inches | Width : 31.4 inches"
+   harga: "$1800",
+   spek: "Height: 17.7 inches | Width : 31.4 inches"
   },
   {
-   "Price ( Include Shipping": "$2000",
-   "Spesification": "Height: 17.7 inches | Width : 39.3 inches"
+   harga: "$2000",
+   spek: "Height: 17.7 inches | Width : 39.3 inches"
   },
   {
-   "Price ( Include Shipping": "$2300",
-   "Spesification": "Height: 17.7 inches | Width : 47.2 inches"
+   harga: "$2300",
+   spek: "Height: 17.7 inches | Width : 47.2 inches"
   },
   {
-   "Price ( Include Shipping": "$2700",
-   "Spesification": "Height: 17.7 inches | Width : 59 inches"
+   harga: "$2700",
+   spek: "Height: 17.7 inches | Width : 59 inches"
   },
   {
-   "No": 72,
-   "Type of Item": "Coffee Table",
-   "Name Of Item": "Hole – Teak Wood Table – Teak Wood Bench – Teak Wood Garden Furniture – Live Edge Table",
-   "Price ( Include Shipping": "$1400",
-   "Spesification": "Width: 38.5 inches | Height: 17.7 inches | Depth: 23.6 inches",
+   id: "72",
+   tipe: "Coffee Table",
+   nama: "Hole – Teak Wood Table – Teak Wood Bench – Teak Wood Garden Furniture – Live Edge Table",
+   harga: "$1400",
+   spek: "Width: 38.5 inches | Height: 17.7 inches | Depth: 23.6 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1IAavdMU66ZzpFtL6KizSjBP_3jioyTRm?usp=sharing"
   },
   {
-   "No": 73,
-   "Type of Item": "Coffee Table",
-   "Name Of Item": "Hole – Teak Wood Table – Teak Wood Bench – Teak Wood Garden Furniture – Live Edge Table",
-   "Price ( Include Shipping": "$1400",
-   "Spesification": "Width: 37 inches | Height: 17.7 inches | Depth: 19.6 inches",
+   id: "73",
+   tipe: "Coffee Table",
+   nama: "Hole – Teak Wood Table – Teak Wood Bench – Teak Wood Garden Furniture – Live Edge Table",
+   harga: "$1400",
+   spek: "Width: 37 inches | Height: 17.7 inches | Depth: 19.6 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1RjyYg0jTse1G43H_wGGrymjFr-cTUgvu?usp=sharing"
   },
   {
-   "No": 74,
-   "Type of Item": "Coffee Table",
-   "Name Of Item": "Round - Teak Root Coffee Table – Teak Wood Coffee Table – Root Side Table - Live Edge Table - Driftwood Table",
-   "Price ( Include Shipping": "$1400",
-   "Spesification": "Height: 15.7 inches | Width : 23.6 inches",
+   id: "74",
+   tipe: "Coffee Table",
+   nama: "Round - Teak Root Coffee Table – Teak Wood Coffee Table – Root Side Table - Live Edge Table - Driftwood Table",
+   harga: "$1400",
+   spek: "Height: 15.7 inches | Width : 23.6 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1uX1s-7rRQWYcqAXF63OKtKbsAGYUKfFz?usp=sharing"
   },
   {
-   "Price ( Include Shipping": "$1650",
-   "Spesification": "Height: 15.7 inches | Width : 31.4 inches"
+   harga: "$1650",
+   spek: "Height: 15.7 inches | Width : 31.4 inches",
   },
   {
-   "Price ( Include Shipping": "$1850",
-   "Spesification": "Height: 15.7 inches | Width : 39.3 inches"
+   harga: "$1850",
+   spek: "Height: 15.7 inches | Width : 39.3 inches",
   },
   {
-   "Price ( Include Shipping": "$2150",
-   "Spesification": "Height: 15.7 inches | Width : 47.2 inches"
+   harga: "$2150",
+   spek: "Height: 15.7 inches | Width : 47.2 inches",
   },
   {
-   "Price ( Include Shipping": "$1450",
-   "Spesification": "Height: 17.7 inches | Width : 23.6 inches"
+   harga: "$1450",
+   spek: "Height: 17.7 inches | Width : 23.6 inches",
   },
   {
-   "Price ( Include Shipping": "$1700",
-   "Spesification": "Height: 17.7 inches | Width : 31.4 inches"
+   harga: "$1700",
+   spek: "Height: 17.7 inches | Width : 31.4 inches",
   },
   {
-   "Price ( Include Shipping": "$1900",
-   "Spesification": "Height: 17.7 inches | Width : 39.3 inches"
+   harga: "$1900",
+   spek: "Height: 17.7 inches | Width : 39.3 inches",
   },
   {
-   "Price ( Include Shipping": "$2200",
-   "Spesification": "Height: 17.7 inches | Width : 47.2 inches"
+   harga: "$2200",
+   spek: "Height: 17.7 inches | Width : 47.2 inches",
   },
   {
-   "No": 75,
-   "Type of Item": "Coffee Table",
-   "Name Of Item": "Square - Tree Root Coffee Table – Outdoor Coffee Table – Teak Wood Table - Side Table - End Table - Live Edge Table",
-   "Price ( Include Shipping": "$1450",
-   "Spesification": "Height: 15.7 inches | Width : 19.6 inches",
+   id: "75",
+   tipe: "Coffee Table",
+   nama: "Square - Tree Root Coffee Table – Outdoor Coffee Table – Teak Wood Table - Side Table - End Table - Live Edge Table",
+   harga: "$1450",
+   spek: "Height: 15.7 inches | Width : 19.6 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1C-rgXzZbgiZ0QggNC2fxZGfG4xDWM73B?usp=sharing"
   },
   {
-   "Price ( Include Shipping": "$1650",
-   "Spesification": "Height: 15.7 inches | Width : 23.6 inches"
+   harga: "$1650",
+   spek: "Height: 15.7 inches | Width : 23.6 inches",
   },
   {
-   "Price ( Include Shipping": "$1850",
-   "Spesification": "Height: 15.7 inches | Width : 31.4 inches"
+   harga: "$1850",
+   spek: "Height: 15.7 inches | Width : 31.4 inches",
   },
   {
-   "Price ( Include Shipping": "$2150",
-   "Spesification": "Height: 15.7 inches | Width : 39 inches"
+   harga: "$2150",
+   spek: "Height: 15.7 inches | Width : 39 inches",
   },
   {
-   "Price ( Include Shipping": "$1500",
-   "Spesification": "Height: 17.7 inches | Width : 19.6 inches"
+   harga: "$1500",
+   spek: "Height: 17.7 inches | Width : 19.6 inches",
   },
   {
-   "Price ( Include Shipping": "$1700",
-   "Spesification": "Height: 17.7 inches | Width : 23.6 inches"
+   harga: "$1700",
+   spek: "Height: 17.7 inches | Width : 23.6 inches",
   },
   {
-   "Price ( Include Shipping": "$1900",
-   "Spesification": "Height: 17.7 inches | Width : 31.4 inches"
+   harga: "$1900",
+   spek: "Height: 17.7 inches | Width : 31.4 inches",
   },
   {
-   "Price ( Include Shipping": "$2200",
-   "Spesification": "Height: 17.7 inches | Width : 39.3 inches"
+   harga: "$2200",
+   spek: "Height: 17.7 inches | Width : 39.3 inches",
   },
   {
-   "No": 76,
-   "Type of Item": "Coffee Table",
-   "Name Of Item": "Black Star - Teak Stump Table – Teak Wood End Table – Teak Wood Side Table - Outdoor Table - Live Edge Table",
-   "Price ( Include Shipping": "$1450",
-   "Spesification": "Height: 17.7 inches | Diameter : 19.6 inches",
+   id: "76",
+   tipe: "Coffee Table",
+   nama: "Black Star - Teak Stump Table – Teak Wood End Table – Teak Wood Side Table - Outdoor Table - Live Edge Table",
+   harga: "$1450",
+   spek: "Height: 17.7 inches | Diameter : 19.6 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1NsL9GzhzozJM69jW0v0pwdlhFmAVnKq4?usp=sharing"
   },
   {
-   "Price ( Include Shipping": "$1550",
-   "Spesification": "Height: 17.7 inches | Diameter : 23.6 inches"
+   harga: "$1550",
+   spek: "Height: 17.7 inches | Diameter : 23.6 inches",
   },
   {
-   "Price ( Include Shipping": "$1750",
-   "Spesification": "Height: 17.7 inches | Diameter : 31.4 inches"
+   harga: "$1750",
+   spek: "Height: 17.7 inches | Diameter : 31.4 inches",
   },
   {
-   "Price ( Include Shipping": "$1950",
-   "Spesification": "Height: 17.7 inches | Diameter : 39.3 inches"
+   harga: "$1950",
+   spek: "Height: 17.7 inches | Diameter : 39.3 inches",
   },
   {
-   "No": 77,
-   "Type of Item": "Coffee Table",
-   "Name Of Item": "White Round - Teak Root Coffee Table – Tree Root Table – End Table - Side Table - Night Stand - Live Edge Table - Living Room Furniture",
-   "Price ( Include Shipping": "$1400",
-   "Spesification": "Height: 17.7 inches | Width : 19.6 inches",
+   id: "77",
+   tipe: "Coffee Table",
+   nama: "White Round - Teak Root Coffee Table – Tree Root Table – End Table - Side Table - Night Stand - Live Edge Table - Living Room Furniture",
+   harga: "$1400",
+   spek: "Height: 17.7 inches | Width : 19.6 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1OMTljsalqosTl3P_A7W1UPpm4ykujKuX?usp=sharing"
   },
   {
-   "Price ( Include Shipping": "$1500",
-   "Spesification": "Height: 17.7 inches | Width : 23.6 inches"
+   harga: "$1500",
+   spek: "Height: 17.7 inches | Width : 23.6 inches",
   },
   {
-   "Price ( Include Shipping": "$1600",
-   "Spesification": "Height: 17.7 inches | Width : 31.4 inches"
+   harga: "$1600",
+   spek: "Height: 17.7 inches | Width : 31.4 inches",
   },
   {
-   "Price ( Include Shipping": "$1800",
-   "Spesification": "Height: 17.7 inches | Width : 39.3 inches"
+   harga: "$1800",
+   spek: "Height: 17.7 inches | Width : 39.3 inches",
   },
   {
-   "Price ( Include Shipping": "$2150",
-   "Spesification": "Height: 17.7 inches | Width : 47.2 inches"
+   harga: "$2150",
+   spek: "Height: 17.7 inches | Width : 47.2 inches",
   },
   {
-   "No": 78,
-   "Type of Item": "Coffee Table",
-   "Name Of Item": "Log Coffee Table – Wood Coffee Table – End Table - Live Edge Table - Night Stand - Side Table",
-   "Price ( Include Shipping": "$800",
-   "Spesification": "Height: 15.7 inches | Width : 19.6 inches",
+   id: "78",
+   tipe: "Coffee Table",
+   nama: "Log Coffee Table – Wood Coffee Table – End Table - Live Edge Table - Night Stand - Side Table",
+   harga: "$800",
+   spek: "Height: 15.7 inches | Width : 19.6 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1hzfYAVVkT907e70nA07DZi49t89RLqS-?usp=sharing"
   },
   {
-   "Price ( Include Shipping": "$900",
-   "Spesification": "Height: 15.7 inches | Width : 23.6 inches"
+   harga: "$900",
+   spek: "Height: 15.7 inches | Width : 23.6 inches",
   },
   {
-   "Price ( Include Shipping": "$1100",
-   "Spesification": "Height: 15.7 inches | Width : 27.5 inches"
+   harga: "$1100",
+   spek: "Height: 15.7 inches | Width : 27.5 inches",
   },
   {
-   "Price ( Include Shipping": "$1400",
-   "Spesification": "Height: 15.7 inches | Width : 31.5 inches"
+   harga: "$1400",
+   spek: "Height: 15.7 inches | Width : 31.5 inches",
   },
   {
-   "No": 79,
-   "Type of Item": "Coffee Table",
-   "Name Of Item": "Carved Table - Sculpture Table - Fish Sculpture - Teak Root Coffee Table - Live Edge Table - Driftwood Table",
-   "Price ( Include Shipping": "$2350",
-   "Spesification": "Width: 47.2 inches | Height: 19.6 inches | Depth: 47.2 inches",
+   id: "79",
+   tipe: "Coffee Table",
+   nama: "Carved Table - Sculpture Table - Fish Sculpture - Teak Root Coffee Table - Live Edge Table - Driftwood Table",
+   harga: "$2350",
+   spek: "Width: 47.2 inches | Height: 19.6 inches | Depth: 47.2 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1pqv1ZAqW4AeIkakmCZskC8A1OVtCf4ov?usp=sharing"
   },
   {
-   "No": 80,
-   "Type of Item": "Coffee Table",
-   "Name Of Item": "Round Teak Root Coffee Table – Round Teak Root Side Table – Round End Table – Live Edge Table – Rustic Table",
-   "Price ( Include Shipping": "$900",
-   "Spesification": "Width: 23.6 inches | Height: 17.7 inches | Depth: 23.6 inches",
+   id: "80",
+   tipe: "Coffee Table",
+   nama: "Round Teak Root Coffee Table – Round Teak Root Side Table – Round End Table – Live Edge Table – Rustic Table",
+   harga: "$900",
+   spek: "Width: 23.6 inches | Height: 17.7 inches | Depth: 23.6 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1MFawRuscOfOXxynRvzfq_cIn136fxP1E?usp=sharing"
   },
   {
-   "No": 81,
-   "Type of Item": "Coffee Table",
-   "Name Of Item": "Rectangular - Natural Teak Root Coffee Table – Tree Root Side Table – Live Edge Table - Driftwood Table",
-   "Price ( Include Shipping": "$1850",
-   "Spesification": "Width: 39.3 inches | Height: 17.7 inches | Depth: 31.4 inches",
+   id: "81",
+   tipe: "Coffee Table",
+   nama: "Rectangular - Natural Teak Root Coffee Table – Tree Root Side Table – Live Edge Table - Driftwood Table",
+   harga: "$1850",
+   spek: "Width: 39.3 inches | Height: 17.7 inches | Depth: 31.4 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1syhaU1PBDimHqcojipeucbSuZ09fXp0Q?usp=sharing"
   },
   {
-   "Price ( Include Shipping": "$2050",
-   "Spesification": "Width: 47.2 inches | Height: 17.7 inches | Depth: 31.4 inches"
+   harga: "$2050",
+   spek: "Width: 47.2 inches | Height: 17.7 inches | Depth: 31.4 inches"
   },
   {
-   "No": 82,
-   "Type of Item": "Coffee Table",
-   "Name Of Item": "Rectangle - White - Teak Root Coffee Table – Tree Root Coffee Table – Teak Wood Coffee Table - Live Edge Table - Driftwood Table",
-   "Price ( Include Shipping": "$1730",
-   "Spesification": "Width: 39.3 inches | Height: 17.7 inches | Depth: 31.4 inches",
+   id: "82",
+   tipe: "Coffee Table",
+   nama: "Rectangle - White - Teak Root Coffee Table – Tree Root Coffee Table – Teak Wood Coffee Table - Live Edge Table - Driftwood Table",
+   harga: "$1730",
+   spek: "Width: 39.3 inches | Height: 17.7 inches | Depth: 31.4 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1wvx1kcby1C9NU3uMel7p0_WXAPfm8f1g?usp=sharing"
   },
   {
-   "No": 83,
-   "Type of Item": "Coffee Table",
-   "Name Of Item": "Natural - Square Teak Root Coffee Table – Teak Wood Coffee Table - Tree Root Table - Driftwood Coffee Table",
-   "Price ( Include Shipping": "$1300",
-   "Spesification": "Width: 19.6 inches | Height: 17.7 inches",
+   id: "83",
+   tipe: "Coffee Table",
+   nama: "Natural - Square Teak Root Coffee Table – Teak Wood Coffee Table - Tree Root Table - Driftwood Coffee Table",
+   harga: "$1300",
+   spek: "Width: 19.6 inches | Height: 17.7 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1E_LsAUYiwnPeYzb7q2fHcP7_3Jdq8_WI?usp=sharing"
   },
   {
-   "Price ( Include Shipping": "$1350",
-   "Spesification": "Width: 23.6 inches | Height: 17.7 inches"
+   harga: "$1350",
+   spek: "Width: 23.6 inches | Height: 17.7 inches",
   },
   {
-   "Price ( Include Shipping": "$1550",
-   "Spesification": "Width: 31.4 inches | Height: 17.7 inches"
+   harga: "$1550",
+   spek: "Width: 31.4 inches | Height: 17.7 inches",
   },
   {
-   "Price ( Include Shipping": "$1700",
-   "Spesification": "Width: 39.3 inches | Height: 17.7 inches"
+   harga: "$1700",
+   spek: "Width: 39.3 inches | Height: 17.7 inches",
   },
   {
-   "Price ( Include Shipping": "$1950",
-   "Spesification": "Width: 47.2 inches | Height: 17.7 inches"
+   harga: "$1950",
+   spek: "Width: 47.2 inches | Height: 17.7 inches",
   },
   {
-   "No": 84,
-   "Type of Item": "Coffee Table",
-   "Name Of Item": "White Square - Teak Root Coffee Table – Tree Root Side Table – Teak Wood End Table - Live Edge Table - Driftwood Table",
-   "Price ( Include Shipping": "$1050",
-   "Spesification": "Width: 19.6 inches | Height: 17.7 inches | Depth: 19.6 inches",
+   id: "84",
+   tipe: "Coffee Table",
+   nama: "White Square - Teak Root Coffee Table – Tree Root Side Table – Teak Wood End Table - Live Edge Table - Driftwood Table",
+   harga: "$1050",
+   spek: "Width: 19.6 inches | Height: 17.7 inches | Depth: 19.6 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1a9ivv_G_GuKYpaYxYvjnlahBWQ4xYwCc?usp=sharing"
   },
   {
-   "No": 85,
-   "Type of Item": "Coffee Table",
-   "Name Of Item": "Rectangular - White - Teak Root Coffee Table – Tree Root Side Table – Live Edge Table - Driftwood Table ( Best Seller )",
-   "Price ( Include Shipping": "$1850",
-   "Spesification": "Width: 39.3 inches | Height: 17.7 inches | Depth: 31.4 inches",
+   id: "85",
+   tipe: "Coffee Table",
+   nama: "Rectangular - White - Teak Root Coffee Table – Tree Root Side Table – Live Edge Table - Driftwood Table ( Best Seller )",
+   harga: "$1850",
+   spek: "Width: 39.3 inches | Height: 17.7 inches | Depth: 31.4 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1xFdySgDynuH0N8YBZ2y35fuTZL5s6cJf?usp=sharing"
   },
   {
-   "Price ( Include Shipping": "$2050",
-   "Spesification": "Width: 47.2 inches | Height: 17.7 inches | Depth: 31.4 inches"
+   harga: "$2050",
+   spek: "Width: 47.2 inches | Height: 17.7 inches | Depth: 31.4 inches"
   },
   {
-   "No": 86,
-   "Type of Item": "Coffee Table",
-   "Name Of Item": "Black Square - Wooden Patchwork Coffee Table – Outdoor Coffee Table – Teak Root Side Table - Driftwood Table",
-   "Price ( Include Shipping": "$1700",
-   "Spesification": "Width: 31.4 inches | Height: 17.7 inches | Depth: 31.4 inches",
+   id: "86",
+   tipe: "Coffee Table",
+   nama: "Black Square - Wooden Patchwork Coffee Table – Outdoor Coffee Table – Teak Root Side Table - Driftwood Table",
+   harga: "$1700",
+   spek: "Width: 31.4 inches | Height: 17.7 inches | Depth: 31.4 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1cOzsFZxLc0lRqDFEN2Wzyy-2_NlMrlHY?usp=sharing"
   },
   {
-   "No": 87,
-   "Type of Item": "Coffee Table",
-   "Name Of Item": "White Square - Teak Root Coffee Table – Tree Root Coffee Table – Teak Wood Coffee Table - Live Edge Table - Driftwood Table",
-   "Price ( Include Shipping": "$1350",
-   "Spesification": "Height: 15.7 inches | Width : 19.6 inches",
+   id: "87",
+   tipe: "Coffee Table",
+   nama: "White Square - Teak Root Coffee Table – Tree Root Coffee Table – Teak Wood Coffee Table - Live Edge Table - Driftwood Table",
+   harga: "$1350",
+   spek: "Height: 15.7 inches | Width : 19.6 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1CkVPuGOwOEVUBfaCN0a5j7QHpt1M123-?usp=sharing"
   },
   {
-   "Price ( Include Shipping": "$1550",
-   "Spesification": "Height: 15.7 inches | Width : 23.6 inches"
+   harga: "$1550",
+   spek: "Height: 15.7 inches | Width : 23.6 inches"
   },
   {
-   "Price ( Include Shipping": "$1850",
-   "Spesification": "Height: 15.7 inches | Width : 31.4 inches"
+   harga: "$1850",
+   spek: "Height: 15.7 inches | Width : 31.4 inches"
   },
   {
-   "Price ( Include Shipping": "$2250",
-   "Spesification": "Height: 15.7 inches | Width : 39.3 inches"
+   harga: "$2250",
+   spek: "Height: 15.7 inches | Width : 39.3 inches"
   },
   {
-   "Price ( Include Shipping": "$1400",
-   "Spesification": "Height: 17.7 inches | Diameter : 19.6 inches"
+   harga: "$1400",
+   spek: "Height: 17.7 inches | Diameter : 19.6 inches"
   },
   {
-   "Price ( Include Shipping": "$1600",
-   "Spesification": "Height: 17.7 inches | Diameter : 23.6 inches"
+   harga: "$1600",
+   spek: "Height: 17.7 inches | Diameter : 23.6 inches"
   },
   {
-   "Price ( Include Shipping": "$1900",
-   "Spesification": "Height: 17.7 inches | Diameter : 31.4 inches"
+   harga: "$1900",
+   spek: "Height: 17.7 inches | Diameter : 31.4 inches"
   },
   {
-   "Price ( Include Shipping": "$2300",
-   "Spesification": "Height: 17.7 inches | Diameter : 39.3 inches"
+   harga: "$2300",
+   spek: "Height: 17.7 inches | Diameter : 39.3 inches"
   },
   {
-   "No": 88,
-   "Type of Item": "Coffee Table",
-   "Name Of Item": "Round - Teak Root Coffee Table – Tree Root Coffee Table – Live Edge Table - End Table - Side Table - Night Stand - Living Room Furniture",
-   "Price ( Include Shipping": "$1400",
-   "Spesification": "Height: 15.7 inches | Width : 19.6 inches",
+   id: "88",
+   tipe: "Coffee Table",
+   nama: "Round - Teak Root Coffee Table – Tree Root Coffee Table – Live Edge Table - End Table - Side Table - Night Stand - Living Room Furniture",
+   harga: "$1400",
+   spek: "Height: 15.7 inches | Width : 19.6 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1MfZ5xNdQLjiOaGQviAyYyAsRR5Q1BtJw?usp=sharing"
   },
   {
-   "Price ( Include Shipping": "$1500",
-   "Spesification": "Height: 15.7 inches | Width : 23.6 inches"
+   harga: "$1500",
+   spek: "Height: 15.7 inches | Width : 23.6 inches",
   },
   {
-   "Price ( Include Shipping": "$1650",
-   "Spesification": "Height: 15.7 inches | Width : 31.4 inches"
+   harga: "$1650",
+   spek: "Height: 15.7 inches | Width : 31.4 inches",
   },
   {
-   "Price ( Include Shipping": "$1850",
-   "Spesification": "Height: 15.7 inches | Width : 39.3 inches"
+   harga: "$1850",
+   spek: "Height: 15.7 inches | Width : 39.3 inches",
   },
   {
-   "Price ( Include Shipping": "$2150",
-   "Spesification": "Height: 15.7 inches | Width : 47.2 inches"
+   harga: "$2150",
+   spek: "Height: 15.7 inches | Width : 47.2 inches",
   },
   {
-   "Price ( Include Shipping": "$2450",
-   "Spesification": "Height: 15.7 inches | Width : 59 inches"
+   harga: "$2450",
+   spek: "Height: 15.7 inches | Width : 59 inches",
   },
   {
-   "Price ( Include Shipping": "$1450",
-   "Spesification": "Height: 17.7 inches | Diameter : 19.6 inches"
+   harga: "$1450",
+   spek: "Height: 17.7 inches | Diameter : 19.6 inches",
   },
   {
-   "Price ( Include Shipping": "$1550",
-   "Spesification": "Height: 17.7 inches | Diameter : 23.6 inches"
+   harga: "$1550",
+   spek: "Height: 17.7 inches | Diameter : 23.6 inches",
   },
   {
-   "Price ( Include Shipping": "$1700",
-   "Spesification": "Height: 17.7 inches | Diameter : 31.4 inches"
+   harga: "$1700",
+   spek: "Height: 17.7 inches | Diameter : 31.4 inches",
   },
   {
-   "Price ( Include Shipping": "$1900",
-   "Spesification": "Height: 17.7 inches | Diameter : 39.3 inches"
+   harga: "$1900",
+   spek: "Height: 17.7 inches | Diameter : 39.3 inches",
   },
   {
-   "Price ( Include Shipping": "$2200",
-   "Spesification": "Height: 17.7 inches | Width : 47.2 inches"
+   harga: "$2200",
+   spek: "Height: 17.7 inches | Width : 47.2 inches",
   },
   {
-   "Price ( Include Shipping": "$2500",
-   "Spesification": "Height: 17.7 inches | Width : 59 inches"
+   harga: "$2500",
+   spek: "Height: 17.7 inches | Width : 59 inches",
   },
   {
-   "No": 89,
-   "Type of Item": "Coffee Table",
-   "Name Of Item": "White - Flower Shape - Round Teak Root Coffee Table – Carving Table - Natural Root Coffee Table – Living Home Furniture ( Best Seller )",
-   "Price ( Include Shipping": "$1450",
-   "Spesification": "Height: 15.7 inches | Width : 23.6 inches",
+   id: "89",
+   tipe: "Coffee Table",
+   nama: "White - Flower Shape - Round Teak Root Coffee Table – Carving Table - Natural Root Coffee Table – Living Home Furniture ( Best Seller )",
+   harga: "$1450",
+   spek: "Height: 15.7 inches | Width : 23.6 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1sgnihxnzJUjwJV2oOP9nJOEkREwhzdLj?usp=sharing"
   },
   {
-   "Price ( Include Shipping": "$1650",
-   "Spesification": "Height: 15.7 inches | Width : 31.4 inches"
+   harga: "$1650",
+   spek: "Height: 15.7 inches | Width : 31.4 inches",
   },
   {
-   "Price ( Include Shipping": "$1850",
-   "Spesification": "Height: 15.7 inches | Width : 39.3 inches"
+   harga: "$1850",
+   spek: "Height: 15.7 inches | Width : 39.3 inches",
   },
   {
-   "Price ( Include Shipping": "$2150",
-   "Spesification": "Height: 15.7 inches | Width : 47.2 inches"
+   harga: "$2150",
+   spek: "Height: 15.7 inches | Width : 47.2 inches",
   },
   {
-   "Price ( Include Shipping": "$1500",
-   "Spesification": "Height: 17.7 inches | Diameter : 23.6 inches"
+   harga: "$1500",
+   spek: "Height: 17.7 inches | Diameter : 23.6 inches",
   },
   {
-   "Price ( Include Shipping": "$1700",
-   "Spesification": "Height: 17.7 inches | Diameter : 31.4 inches"
+   harga: "$1700",
+   spek: "Height: 17.7 inches | Diameter : 31.4 inches",
   },
   {
-   "Price ( Include Shipping": "$1900",
-   "Spesification": "Height: 17.7 inches | Diameter : 39.3 inches"
+   harga: "$1900",
+   spek: "Height: 17.7 inches | Diameter : 39.3 inches",
   },
   {
-   "Price ( Include Shipping": "$2200",
-   "Spesification": "Height: 17.7 inches | Width : 47.2 inches"
+   harga: "$2200",
+   spek: "Height: 17.7 inches | Width : 47.2 inches",
   },
   {
-   "No": 90,
-   "Type of Item": "Coffee Table",
-   "Name Of Item": "Round Teak Root Coffee Table – Round Teak Root Side Table – Round End Table – Live Edge Table",
-   "Price ( Include Shipping": "$1250",
-   "Spesification": "Width: 23.6 inches | Height: 19.6 inches | Depth: 23.6 inches",
+   id: "90",
+   tipe: "Coffee Table",
+   nama: "Round Teak Root Coffee Table – Round Teak Root Side Table – Round End Table – Live Edge Table",
+   harga: "$1250",
+   spek: "Width: 23.6 inches | Height: 19.6 inches | Depth: 23.6 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1I-N1gyj-TYsOZ4hjSMlFQx2ZU-M6UMW6?usp=sharing"
   },
   {
-   "No": 91,
-   "Type of Item": "Coffee Table",
-   "Name Of Item": "Carving Table - Flower Shape Round - Natural Teak Root Coffee Table – Teak Wood Sculpture Table – Wood Art Table ( Best Seller )",
-   "Price ( Include Shipping": "$1300",
-   "Spesification": "Height: 15.7 inches | Width : 19.6 inches"
+   id: "91",
+   tipe: "Coffee Table",
+   nama: "Carving Table - Flower Shape Round - Natural Teak Root Coffee Table – Teak Wood Sculpture Table – Wood Art Table ( Best Seller )",
+   harga: "$1300",
+   spek: "Height: 15.7 inches | Width : 19.6 inches"
   },
   {
-   "Price ( Include Shipping": "$1550",
-   "Spesification": "Height: 15.7 inches | Width : 23.6 inches"
+   harga: "$1550",
+   spek: "Height: 15.7 inches | Width : 23.6 inches",
   },
   {
-   "Price ( Include Shipping": "$1750",
-   "Spesification": "Height: 15.7 inches | Width : 31.4 inches"
+   harga: "$1750",
+   spek: "Height: 15.7 inches | Width : 31.4 inches",
   },
   {
-   "Price ( Include Shipping": "$1950",
-   "Spesification": "Height: 15.7 inches | Width : 39.3 inches"
+   harga: "$1950",
+   spek: "Height: 15.7 inches | Width : 39.3 inches",
   },
   {
-   "Price ( Include Shipping": "$2250",
-   "Spesification": "Height: 15.7 inches | Width : 47.2 inches"
+   harga: "$2250",
+   spek: "Height: 15.7 inches | Width : 47.2 inches",
   },
   {
-   "Price ( Include Shipping": "$2650",
-   "Spesification": "Height: 15.7 inches | Width : 59 inches"
+   harga: "$2650",
+   spek: "Height: 15.7 inches | Width : 59 inches",
   },
   {
-   "Price ( Include Shipping": "$1350",
-   "Spesification": "Height: 17.7 inches | Diameter : 19.6 inches"
+   harga: "$1350",
+   spek: "Height: 17.7 inches | Diameter : 19.6 inches",
   },
   {
-   "Price ( Include Shipping": "$1600",
-   "Spesification": "Height: 17.7 inches | Diameter : 23.6 inches"
+   harga: "$1600",
+   spek: "Height: 17.7 inches | Diameter : 23.6 inches",
   },
   {
-   "Price ( Include Shipping": "$1800",
-   "Spesification": "Height: 17.7 inches | Diameter : 31.4 inches"
+   harga: "$1800",
+   spek: "Height: 17.7 inches | Diameter : 31.4 inches",
   },
   {
-   "Price ( Include Shipping": "$2000",
-   "Spesification": "Height: 17.7 inches | Diameter : 39.3 inches"
+   harga: "$2000",
+   spek: "Height: 17.7 inches | Diameter : 39.3 inches",
   },
   {
-   "Price ( Include Shipping": "$2300",
-   "Spesification": "Height: 17.7 inches | Width : 47.2 inches"
+   harga: "$2300",
+   spek: "Height: 17.7 inches | Width : 47.2 inches",
   },
   {
-   "Price ( Include Shipping": "$2700",
-   "Spesification": "Height: 17.7 inches | Width : 59 inches"
+   harga: "$2700",
+   spek: "Height: 17.7 inches | Width : 59 inches",
   },
   {
-   "No": 92,
-   "Type of Item": "Console and Bar Table",
-   "Name Of Item": "&nbsp;Carving Table - Leaves Shape - Teak Root Console Table – Rustic Console Table – Teak Wood Table – Living Room Furniture",
-   "Price ( Include Shipping": "$1850",
-   "Spesification": "Width: 47 inches | Height: 31 inches | Depth: 15.7 inches",
+   id: "92",
+   tipe: "Console and Bar Table",
+   nama: "&nbsp;Carving Table - Leaves Shape - Teak Root Console Table – Rustic Console Table – Teak Wood Table – Living Room Furniture",
+   harga: "$1850",
+   spek: "Width: 47 inches | Height: 31 inches | Depth: 15.7 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/10im8-izEs_5ghO14FdydLphEsrdcu0za?usp=sharing"
   },
   {
-   "No": 93,
-   "Type of Item": "Console and Bar Table",
-   "Name Of Item": "White - Leaves Shape Carving - Teak Root Console Table – Natural Console Table – Teak Wood Console Table - Live Edge Table",
-   "Price ( Include Shipping": "$1550",
-   "Spesification": "Height: 29.5 inches | Diameter: 39.3 inches",
+   id: "93",
+   tipe: "Console and Bar Table",
+   nama: "White - Leaves Shape Carving - Teak Root Console Table – Natural Console Table – Teak Wood Console Table - Live Edge Table",
+   harga: "$1550",
+   spek: "Height: 29.5 inches | Diameter: 39.3 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1sGRXXfLLxQdVJ_CibMgK_R79EJxeKr2J?usp=sharing"
   },
   {
-   "Price ( Include Shipping": "$1750",
-   "Spesification": "Height: 29.5 inches | Diameter: 47.2 inches"
+   harga: "$1750",
+   spek: "Height: 29.5 inches | Diameter: 47.2 inches",
   },
   {
-   "Price ( Include Shipping": "$2050",
-   "Spesification": "Height: 29.5 inches | Diameter: 59 inches"
+   harga: "$2050",
+   spek: "Height: 29.5 inches | Diameter: 59 inches",
   },
   {
-   "Price ( Include Shipping": "$2250",
-   "Spesification": "Height: 29.5 inches | Diameter: 70.8 inches"
+   harga: "$2250",
+   spek: "Height: 29.5 inches | Diameter: 70.8 inches",
   },
   {
-   "Price ( Include Shipping": "$2450",
-   "Spesification": "Height: 29.5 inches | Diameter: 78.7 inches"
+   harga: "$2450",
+   spek: "Height: 29.5 inches | Diameter: 78.7 inches",
   },
   {
-   "Price ( Include Shipping": "$1600",
-   "Spesification": "Height: 31.4 inches | Diameter: 39.3 inches"
+   harga: "$1600",
+   spek: "Height: 31.4 inches | Diameter: 39.3 inches",
   },
   {
-   "Price ( Include Shipping": "$1800",
-   "Spesification": "Height: 31.4 inches | Diameter: 47.2 inches"
+   harga: "$1800",
+   spek: "Height: 31.4 inches | Diameter: 47.2 inches",
   },
   {
-   "Price ( Include Shipping": "$2100",
-   "Spesification": "Height: 31.4 inches | Diameter: 59 inches"
+   harga: "$2100",
+   spek: "Height: 31.4 inches | Diameter: 59 inches",
   },
   {
-   "Price ( Include Shipping": "$2300",
-   "Spesification": "Height: 31.4 inches | Diameter: 70.8 inches"
+   harga: "$2300",
+   spek: "Height: 31.4 inches | Diameter: 70.8 inches",
   },
   {
-   "Price ( Include Shipping": "$2500",
-   "Spesification": "Height: 31.4 inches | Diameter: 78.7 inches"
+   harga: "$2500",
+   spek: "Height: 31.4 inches | Diameter: 78.7 inches",
   },
   {
-   "No": 94,
-   "Type of Item": "Console and Bar Table",
-   "Name Of Item": "Carving - Teak Root Bar Table - Wood Console Table - Entryway Table - Wood Sculpture",
-   "Price ( Include Shipping": "$1900",
-   "Spesification": "Width: 47.2 inches | Height: 40 inches | Depth: 17.7 inches",
+   id: "94",
+   tipe: "Console and Bar Table",
+   nama: "Carving - Teak Root Bar Table - Wood Console Table - Entryway Table - Wood Sculpture",
+   harga: "$1900",
+   spek: "Width: 47.2 inches | Height: 40 inches | Depth: 17.7 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1zr2GnocKrQpy2ZQiUL609dHvd0DnR3oU?usp=sharing"
   },
   {
-   "No": 95,
-   "Type of Item": "Console and Bar Table",
-   "Name Of Item": "Teak Root Console Table – Natural Console Table – Teak Wood Console Table - Root Bar Table - Live Edge Table",
-   "Price ( Include Shipping": "$2420",
-   "Spesification": "Width: 78.7 inches | Height: 31.4 inches | Depth: 17.7 inches",
+   id: "95",
+   tipe: "Console and Bar Table",
+   nama: "Teak Root Console Table – Natural Console Table – Teak Wood Console Table - Root Bar Table - Live Edge Table",
+   harga: "$2420",
+   spek: "Width: 78.7 inches | Height: 31.4 inches | Depth: 17.7 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1hSqSQCbrO3G97KzFAnL2NMsOphYhLA6J?usp=sharing"
   },
   {
-   "No": 96,
-   "Type of Item": "Console and Bar Table",
-   "Name Of Item": "Leaves Shape Carving - Teak Root Console Table – Driftwood Console Table – Teak Wood Console Table - Live Edge Table - Roots Bar Table",
-   "Price ( Include Shipping": "$2450",
-   "Spesification": "Width: 78.7 inches | Height: 31.4 inches | Depth: 17.7 inches",
+   id: "96",
+   tipe: "Console and Bar Table",
+   nama: "Leaves Shape Carving - Teak Root Console Table – Driftwood Console Table – Teak Wood Console Table - Live Edge Table - Roots Bar Table",
+   harga: "$2450",
+   spek: "Width: 78.7 inches | Height: 31.4 inches | Depth: 17.7 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1cVTz5THknJKF0YvqXugKCFRIDBjYjv9I?usp=sharing"
   },
   {
-   "No": 97,
-   "Type of Item": "Console and Bar Table",
-   "Name Of Item": "Teak Root Console Table – Root Bar Table - Entryway Table - Driftwood Table – Teak Wood Console Table - Live Edge Table",
-   "Price ( Include Shipping": "$2150",
-   "Spesification": "Width: 70.9 inches | Height: 31.4 inches | Depth: 15.7 inches",
+   id: "97",
+   tipe: "Console and Bar Table",
+   nama: "Teak Root Console Table – Root Bar Table - Entryway Table - Driftwood Table – Teak Wood Console Table - Live Edge Table",
+   harga: "$2150",
+   spek: "Width: 70.9 inches | Height: 31.4 inches | Depth: 15.7 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/15fyRzuo7tpaZTEZQ-oBSK_Oy99l36uDf?usp=sharing"
   },
   {
-   "No": 98,
-   "Type of Item": "Console and Bar Table",
-   "Name Of Item": "TV Table – Rustic Teak Root Table – Teak Wood Console Table – Live Edge Table – Living Room Furniture – Driftwood Console Table",
-   "Price ( Include Shipping": "$1650",
-   "Spesification": "Width: 48 inches | Height: 31.4 inches | Depth: 16.9 inches",
+   id: "98",
+   tipe: "Console and Bar Table",
+   nama: "TV Table – Rustic Teak Root Table – Teak Wood Console Table – Live Edge Table – Living Room Furniture – Driftwood Console Table",
+   harga: "$1650",
+   spek: "Width: 48 inches | Height: 31.4 inches | Depth: 16.9 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/16nrns2iUszvBfispoXOx-iGLgZMQdC8-?usp=sharing"
   },
   {
-   "No": 99,
-   "Type of Item": "Console and Bar Table",
-   "Name Of Item": "Teak Wood Console Table - Driftwood Console Table - Teak Root Console Table - Live Edge Table - Workbench - Office Table",
-   "Price ( Include Shipping": "$1750",
-   "Spesification": "Width: 63.7 inches | Height: 29.5 inches | Depth: 14 inches",
+   id: "99",
+   tipe: "Console and Bar Table",
+   nama: "Teak Wood Console Table - Driftwood Console Table - Teak Root Console Table - Live Edge Table - Workbench - Office Table",
+   harga: "$1750",
+   spek: "Width: 63.7 inches | Height: 29.5 inches | Depth: 14 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1pa_SeAPSBmLTBeZh0qd1iLhzYBGFaTj2?usp=sharing"
   },
   {
-   "No": 100,
-   "Type of Item": "Console and Bar Table",
-   "Name Of Item": "Teak Root Console Table – Natural Console Table – Teak Wood Console Table - Root Bar Table - Live Edge Table",
-   "Price ( Include Shipping": "$1550",
-   "Spesification": "Height: 31.4 inches | Diameter: 39.3 inches",
+   id: "10"0,
+   tipe: "Console and Bar Table",
+   nama: "Teak Root Console Table – Natural Console Table – Teak Wood Console Table - Root Bar Table - Live Edge Table",
+   harga: "$1550",
+   spek: "Height: 31.4 inches | Diameter: 39.3 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/12vcIsQMFuPuHP5_RltOPEqXFH8jslnWa?usp=sharing"
   },
   {
-   "Price ( Include Shipping": "$1750",
-   "Spesification": "Height: 31.4 inches | Diameter: 47.2 inches"
+   harga: "$1750",
+   spek: "Height: 31.4 inches | Diameter: 47.2 inches",
   },
   {
-   "Price ( Include Shipping": "$1950",
-   "Spesification": "Height: 31.4 inches | Diameter: 59 inches"
+   harga: "$1950",
+   spek: "Height: 31.4 inches | Diameter: 59 inches",
   },
   {
-   "Price ( Include Shipping": "$2150",
-   "Spesification": "Height: 31.4 inches | Diameter: 70.8 inches"
+   harga: "$2150",
+   spek: "Height: 31.4 inches | Diameter: 70.8 inches",
   },
   {
-   "Price ( Include Shipping": "$2450",
-   "Spesification": "Height: 31.4 inches | Diameter: 78.7 inches"
+   harga: "$2450",
+   spek: "Height: 31.4 inches | Diameter: 78.7 inches",
   },
   {
-   "No": 101,
-   "Type of Item": "Console and Bar Table",
-   "Name Of Item": "Display Wooden Table - Tree Root Table - Teak Root Console Table - Driftwood Table - Entryway Table",
-   "Price ( Include Shipping": "$2150",
-   "Spesification": "Width: 57 inches | Height: 37.4 inches | Depth: 21.6 inches",
+   id: "10"1,
+   tipe: "Console and Bar Table",
+   nama: "Display Wooden Table - Tree Root Table - Teak Root Console Table - Driftwood Table - Entryway Table",
+   harga: "$2150",
+   spek: "Width: 57 inches | Height: 37.4 inches | Depth: 21.6 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/17BAs5Bre8piabWNYSa33oIArAxhdiqMn?usp=sharing"
   },
   {
-   "No": 102,
-   "Type of Item": "Console and Bar Table",
-   "Name Of Item": "Leaves Shape - Teak Root Console Table – Hand Carved Console Table – Teak Wood Console Table – Live Edge Table",
-   "Price ( Include Shipping": "$1850",
-   "Spesification": "Width: 51 inches | Height: 31.4 inches | Depth: 17.7 inches",
+   id: "10"2,
+   tipe: "Console and Bar Table",
+   nama: "Leaves Shape - Teak Root Console Table – Hand Carved Console Table – Teak Wood Console Table – Live Edge Table",
+   harga: "$1850",
+   spek: "Width: 51 inches | Height: 31.4 inches | Depth: 17.7 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1jzJPmFC4d8JrN4Nx-2ZVa1awu33aHZ-R?usp=sharing"
   },
   {
-   "No": 103,
-   "Type of Item": "Console and Bar Table",
-   "Name Of Item": "Bar Stools – Teak Root Chair – Tree Root Outdoor Chair – Tree Root Garden Bench - Dining Chair",
-   "Price ( Include Shipping": "$1320",
-   "Spesification": "Width: 17.7 inches | Height: 36.6 inches |Depth: 17.7 inches | Seat height: 26.7 inches | Seat width: 17.7 inches | Seat depth: 15.7 inches",
+   id: "10"3,
+   tipe: "Console and Bar Table",
+   nama: "Bar Stools – Teak Root Chair – Tree Root Outdoor Chair – Tree Root Garden Bench - Dining Chair",
+   harga: "$1320",
+   spek: "Width: 17.7 inches | Height: 36.6 inches |Depth: 17.7 inches | Seat height: 26.7 inches | Seat width: 17.7 inches | Seat depth: 15.7 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1Gsz_-VMQ4DzcZZZKh14FTlpSIN_QBPCE?usp=sharing"
   },
   {
-   "No": 104,
-   "Type of Item": "Console and Bar Table",
-   "Name Of Item": "Silver - Tree Root Console Table - Teak Root Console Table – Live Edge Table – Living Room Table",
-   "Price ( Include Shipping": "$1450",
-   "Spesification": "Height: 31.4 inches | Diameter: 39.3 inches",
+   id: "10"4,
+   tipe: "Console and Bar Table",
+   nama: "Silver - Tree Root Console Table - Teak Root Console Table – Live Edge Table – Living Room Table",
+   harga: "$1450",
+   spek: "Height: 31.4 inches | Diameter: 39.3 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1TUsEphalQMw4ubEukXI8jPrFxqmqmuO7?usp=sharing"
   },
   {
-   "Price ( Include Shipping": "$1550",
-   "Spesification": "Height: 31.4 inches | Diameter: 47.2 inches"
+   harga: "$1550",
+   spek: "Height: 31.4 inches | Diameter: 47.2 inches",
   },
   {
-   "Price ( Include Shipping": "$1750",
-   "Spesification": "Height: 31.4 inches | Diameter: 59 inches"
+   harga: "$1750",
+   spek: "Height: 31.4 inches | Diameter: 59 inches",
   },
   {
-   "Price ( Include Shipping": "$1950",
-   "Spesification": "Height: 31.4 inches | Diameter: 70.8 inches"
+   harga: "$1950",
+   spek: "Height: 31.4 inches | Diameter: 70.8 inches",
   },
   {
-   "Price ( Include Shipping": "$2150",
-   "Spesification": "Height: 31.4 inches | Diameter: 78.7 inches"
+   harga: "$2150",
+   spek: "Height: 31.4 inches | Diameter: 78.7 inches",
   },
   {
-   "No": 105,
-   "Type of Item": "Console and Bar Table",
-   "Name Of Item": "Teak Root Console Table – Hand Carved Console Table – Teak Wood Console Table – Live Edge Table",
-   "Price ( Include Shipping": "$1550",
-   "Spesification": "Width: 39.3 inches | Height: 31.4 inches | Depth: 17.7 inches",
+   id: "10"5,
+   tipe: "Console and Bar Table",
+   nama: "Teak Root Console Table – Hand Carved Console Table – Teak Wood Console Table – Live Edge Table",
+   harga: "$1550",
+   spek: "Width: 39.3 inches | Height: 31.4 inches | Depth: 17.7 inches",
    "Unit Photo": "https:\/\/drive.google.com\/drive\/folders\/1YlnrA1_vYNUUyGrPPCH333cIXhsJ-ics?usp=sharing"
   }
  ]
