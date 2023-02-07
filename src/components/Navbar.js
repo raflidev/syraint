@@ -17,11 +17,13 @@ export default function Navbar() {
     <div className='fixed top-0 w-full text-white z-20'> 
         <div className={`flex justify-between items-center uppercase py-5 px-10 lg:px-16 duration-300 ${colorchange ? 'bg-black' : 'bg-transparent'}`}>
             <div className='font-bold'>Syra International</div>
-            <div className='hidden md:inline space-x-16 text-xs font-medium'>
+            <div className='hidden md:inline space-x-10 text-xs font-medium'>
                 <Link to="home" className='cursor-pointer hover:text-gold' activeClass="text-gold font-bold" spy={true} smooth={true} duration={200} offset={-100}>Home</Link>
                 <Link to="Products" className='cursor-pointer hover:text-gold' activeClass="text-gold font-bold" spy={true} smooth={true} duration={200} offset={-300}>Products</Link>
                 <Link to="Services" className='cursor-pointer hover:text-gold' activeClass="text-gold font-bold" spy={true} smooth={true} duration={200} offset={-300}>Services</Link>
                 <Link to="why-us" className='cursor-pointer hover:text-gold' activeClass="text-gold font-bold" spy={true} smooth={true} duration={200} offset={-100}>Why Choose Us</Link>
+                <Link to="team" className='cursor-pointer hover:text-gold' activeClass="text-gold font-bold" spy={true} smooth={true} duration={200} offset={100}>Team</Link>
+                <Link to="contact" className='cursor-pointer hover:text-gold' activeClass="text-gold font-bold" spy={true} smooth={true} duration={200} offset={-100}>Contact Us</Link>
             </div>
             <div className='inline md:hidden' onClick={() => setShow(!show)}>
                 <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -38,6 +40,8 @@ export default function Navbar() {
                         <Link to="Products" className='cursor-pointer hover:text-gold' activeClass="text-gold font-bold" spy={true} smooth={true} duration={200} offset={-300}>Products</Link>
                         <Link to="Services" className='cursor-pointer hover:text-gold' activeClass="text-gold font-bold" spy={true} smooth={true} duration={200} offset={-300}>Services</Link>
                         <Link to="why-us" className='cursor-pointer hover:text-gold' activeClass="text-gold font-bold" spy={true} smooth={true} duration={200} offset={-100}>Why Choose Us</Link>
+                        <Link to="team" className='cursor-pointer hover:text-gold' activeClass="text-gold font-bold" spy={true} smooth={true} duration={200} offset={100}>Team</Link>
+                        <Link to="contact" className='cursor-pointer hover:text-gold' activeClass="text-gold font-bold" spy={true} smooth={true} duration={200} offset={100}>Contact Us</Link>
                       </div>
                   </div>
                 </div>

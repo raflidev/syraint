@@ -203,7 +203,7 @@ function Home() {
         {/* End Our Client Section */}
 
         {/* Our Team */}
-        <section className='bg-gold px-3 md:px-16 py-28'>
+        <section id="team" className='bg-gold px-3 md:px-16 py-28'>
         <div className=' text-black'>
         <h1 className='text-center uppercase text-3xl font-bold py-3'>Our Team</h1>
         <div className="w-5/6 mx-auto py-10">
@@ -243,15 +243,15 @@ function Home() {
         {/* End Our Team */}
 
         {/* Footer Section */}
-        <footer className='bg-black text-white'>
+        <footer id="contact" className='bg-black text-white'>
             <div className='flex justify-center'>
-                <div className='w-5/6 py-10'>
-                    <div className='flex justify-between'>
-                        <div className='w-6/12 space-y-3'>
+                <div className='px-5 lg:px-0 w-full lg:w-5/6 py-10'>
+                    <div className='block lg:flex justify-between space-y-5 lg:space-y-0'>
+                        <div className='w-full lg:w-6/12 space-y-3'>
                             <div className='font-bold text-xl'>Syra International</div>
                             <div className='text-sm text-justify'>Syra International is a distributor company that specializes in a wide range of products and services, including Agriculture, Teak Root Furniture, Iron, Biodiesel, and Coal, as well as freight forwarding services such as Inland, Air, and Sea Freight Service. We have a large sales capacity and export their products to various countries. We are dedicated to providing the best service and fulfilling the needs of clients.</div>
                         </div>
-                        <div className='w-3/12 space-y-3'>
+                        <div className='w-full lg:w-3/12 space-y-3'>
                             <div className='font-bold text-xl'>Contact Us</div>
                             <div className='text-sm'>Indonesia, Bekasi. Medan Satria, Pejuang Jaya. Komando Raya Street.</div>
                             <div className='text-sm'>+62 812-9710-8565</div>
