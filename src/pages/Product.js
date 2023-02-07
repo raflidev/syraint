@@ -64,23 +64,42 @@ function Product() {
         <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mt-10 duration-300'>
           {
             filteredProduct.map((item, index) => (
-              <Link to={`/product/${item.slug}/${item.id}`} key={index} className=" pb-2 rounded duration-500 hover:bg-black/80 hover:cursor-pointer hover:text-white">
-                <img src={item.gambar[0]} className='w-full rounded' alt="asd"/>
-                <div className='p-2 space-y-1'>
-                  <div className='text-xs font-medium'>
-                    Category: <span className='underline'>{item.tipe}</span>
-                  </div>
-                  <div className='text-sm font-semibold'>
-                    {item.nama}
-                  </div>
-                  <div className='font-bold text-lg'>
-                    ${item.harga[0]}
-                  </div>
-                  <span className='bg-green-300/70 font-medium text-xs rounded py-1 px-2'>
-                    free shipping
-                  </span>
-                </div>
-              </Link>
+              <div>
+                {
+                  item.slug == 'wood-furniture' && (
+                    <Link to={`/product/${item.slug}/${item.id}`} key={index} className=" pb-2 rounded duration-500 hover:cursor-pointer">
+                      <img src={item.gambar[0]} className='w-full rounded' alt="asd"/>
+                      <div className='p-2 space-y-1'>
+                        <div className='text-xs font-medium'>
+                          Category: <span className='underline'>{item.tipe}</span>
+                        </div>
+                        <div className='text-sm font-semibold'>
+                          {item.nama}
+                        </div>
+                        <div className='font-bold text-lg'>
+                          ${item.harga[0]}
+                        </div>
+                        <span className='bg-green-300/70 font-medium text-xs rounded py-1 px-2'>
+                          free shipping
+                        </span>
+                      </div>
+                    </Link>
+                  )
+                }
+
+                {
+                  item.slug != 'wood-furniture' && (
+                    <Link to={`/product/${item.slug}/${item.id}`} key={index} className=" pb-2 rounded duration-500 hover:cursor-pointer hover:underline">
+                      <img src={item.gambar} className='w-full rounded' alt="asd"/>
+                      <div className='p-2 space-y-1'>
+                        <div className='text-sm font-semibold'>
+                          {item.nama}
+                        </div>
+                      </div>
+                    </Link>
+                  )
+                }
+              </div>
             ))
           }
           {

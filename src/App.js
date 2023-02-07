@@ -7,6 +7,7 @@ import { BrowserRouter,
 import Home from "./pages/Home";
 import Product from "./pages/Product";
 import ProductId from "./pages/ProductId";
+import Service from "./pages/Service";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Route path="/" element={<Home />} />
       <Route path="/product/:slug" element={<Product />} />
       <Route path="/product/:slug/:id" element={<ProductId />} />
+      <Route path="/service/:slug" element={<Service />} />
     </Routes>
   </BrowserRouter>
 

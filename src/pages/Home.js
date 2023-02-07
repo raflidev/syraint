@@ -37,7 +37,7 @@ const gambar = [coal1, coal2, coal3, coal4, coal5, wood1, wood2, wood3, wood4, w
 
 const provide = [
   {
-    nama: "Products",
+    nama: "Product",
     sub:[
       {
         nama: "Agriculture",
@@ -62,7 +62,7 @@ const provide = [
     ]
   },
   {
-    nama: "Services",
+    nama: "Service",
     sub: [
       {
         nama: "Air Freight",
@@ -111,18 +111,18 @@ function Home() {
                 <div className='flex justify-center mt-20'>
                     <div className='w-full lg:w-4/6 grid grid-cols-1 gap-10 space-y-10'>
                         {provide.map((item, index) => (
-                            <div key={index} className="w-full" id={item.nama}>
+                            <div key={index} className="w-full" id={`${item.nama}s`}>
                                 <div className='bg-black w-full h-[20rem] bg-cover rounded-lg bg-center' style={{backgroundImage: `url(${jumbotron})`}}>
                                     <div className='flex h-full text-white bg-black/40'>
                                         <div className='m-auto w-full'>
                                             <div className='flex w-full justify-center'>
                                                 <div className='w-5/6 text-center space-y-2'>
                                                     <div className='font-bold text-3xl'>
-                                                        {item.nama}
+                                                        {item.nama}s
                                                     </div>
                                                     <div className={`w-full grid grid-cols-2 md:grid-cols-${item.sub.length} font-medium justify-center gap-4 pt-6`}>
                                                       {item.sub.map((sub, index) => (
-                                                        <Link to={`/product/${sub.slug}`} className='bg-gold px-2 h-16 bg-cover bg-center text-black hover:cursor-pointer duration-200 rounded-md hover:bg-black hover:text-gold' key={index}>
+                                                        <Link to={`/${item.nama}/${sub.slug}`} className='bg-gold px-2 h-16 bg-cover bg-center text-black hover:cursor-pointer duration-200 rounded-md hover:bg-black hover:text-gold' key={index}>
                                                           <div className='flex h-full'>
                                                             <div className="m-auto">
                                                               {sub.nama} 
@@ -247,21 +247,15 @@ function Home() {
             <div className='flex justify-center'>
                 <div className='w-5/6 py-10'>
                     <div className='flex justify-between'>
-                        <div className='w-4/12 space-y-3'>
+                        <div className='w-6/12 space-y-3'>
                             <div className='font-bold text-xl'>Syra International</div>
                             <div className='text-sm text-justify'>Syra International is a distributor company that specializes in a wide range of products and services, including Agriculture, Teak Root Furniture, Iron, Biodiesel, and Coal, as well as freight forwarding services such as Inland, Air, and Sea Freight Service. We have a large sales capacity and export their products to various countries. We are dedicated to providing the best service and fulfilling the needs of clients.</div>
                         </div>
-                        <div className='w-2/12 space-y-3'>
+                        <div className='w-3/12 space-y-3'>
                             <div className='font-bold text-xl'>Contact Us</div>
-                            <div className='text-sm'>Jl. Raya Cikarang Barat No. 1, Cikarang Barat, Bekasi, Jawa Barat 17530</div>
-                            <div className='text-sm'>+62 21 8999 9999</div>
-                            <div className='text-sm'>
-                            </div>
-                        </div>
-                        <div className='w-2/12 space-y-3'>
-                            <div className='font-bold text-xl'>Contact Us</div>
-                            <div className='text-sm'>Jl. Raya Cikarang Barat No. 1, Cikarang Barat, Bekasi, Jawa Barat 17530</div>
-                            <div className='text-sm'>+62 21 8999 9999</div>
+                            <div className='text-sm'>Indonesia, Bekasi. Medan Satria, Pejuang Jaya. Komando Raya Street.</div>
+                            <div className='text-sm'>+62 812-9710-8565</div>
+                            <div className='text-sm'>syra.ind@gmail.com</div>
                             <div className='text-sm'>
                             </div>
                         </div>

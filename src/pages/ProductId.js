@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import { Swiper, SwiperSlide } from "swiper/react";
 // import required modules
 import { Pagination, Navigation } from "swiper";
@@ -13,6 +13,10 @@ function ProductId() {
   const [spek, setSpek] = useState(0);
   const { id } = useParams();
   const data = product.find((item) => item.id === id);
+
+  useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [])
   return (
     <div>
       <div className='py-3 mb-10 bg-gold px-10'>
@@ -56,77 +60,97 @@ function ProductId() {
             </Swiper>
           </div>
         </div>
-        <div className="w-5/12 px-10 space-y-3">
-          <div className='text-2xl font-medium'>{data['nama']}</div>
-          <div className='text-xl'>{data['tipe']}</div>
-          <div className='font-bold text-3xl'>${data['harga'][spek]}</div>
-          <div className="w-full grid grid-cols-2 gap-4" onChange={(e) => console.log(e.target.value)}>
-            {
-              data['spek'].map((item, index) => (
-                <div key={index} className='w-full flex' onClick={() => setSpek(index)}>
-                  <button className={`w-full border border-black text-black px-5 py-2 rounded-md ${spek === index ? 'bg-gold' : ''}`}>{item}</button>
+        {
+          data['slug'] === 'wood-furniture' && (
+            <div className="w-5/12 px-10 space-y-3">
+              <div className='text-2xl font-medium'>{data['nama']}</div>
+              <div className='text-xl'>{data['tipe']}</div>
+              <div className='font-bold text-3xl'>${data['harga'][spek]}</div>
+              <div className="w-full grid grid-cols-2 gap-4" onChange={(e) => console.log(e.target.value)}>
+                {
+                  data['spek'].map((item, index) => (
+                    <div key={index} className='w-full flex' onClick={() => setSpek(index)}>
+                      <button className={`w-full border border-black text-black px-5 py-2 rounded-md ${spek === index ? 'bg-gold' : ''}`}>{item}</button>
+                    </div>
+                  ))
+                }
+              </div>
+
+              <div className="flex">
+                <a href={`https://api.whatsapp.com/send/?phone=6281297108565&text=Hello, im interest with ${data['nama']}, can you show detail?`} target="_blank"  rel="noreferrer" className='bg-gold py-2 px-5 text-center w-full rounded-full hover:bg-yellow-400 font-bold '>Contact Us</a>
+              </div>
+
+              <div className='space-y-4'>
+                <div className='font-bold text-xl'>Description</div>
+                <div className='whitespace-pre-wrap'>
+                  Our nature has it’s own art
+                  This star teak stump table is combination of wood working and natural art, no two star table are alike, making this truly one-of-a-kind art. Look carefully at the picture, you will know where the human touch and the touch of nature are. Please be aware that most of the items are vintage/antique and may have small defects or signs of age.
+
+                  This star table is made of teak stumps, that are dug up, cleaned, sanded and finished with a lacquer. It’s brings a unique look and feel to your home.
+
+                  This teak stump table is made by a professional craftsman or artisans in Indonesia. Each stump table is specially handpicked and is totally unique with its own characteristics and individuality. Therefore, each root table is a little bit different, but all will look stunning for you.
+
+                  CUSTOMIZATION available, please message your desired size and shape.
+                  You can ask any information before add to cart, I'm ready to assist.
                 </div>
-              ))
-            }
-          </div>
+                <div className='space-y-4'>
+                  <div>
+                    <span className='font-bold'>SHIPPING PROCESS:</span>
+                    <br/>
+                    <ul className='list-decimal'>
+                      <li>
+                        Free shipping (port to port)
+                      </li>
+                      <li>
+                        LCL Cargo service. So you must pick it up directly from you nearest port/shipping agent warehouse.
+                      </li>
+                      <li>
+                        All items are packed in secure wooden crates.
+                      </li>
+                      <li>
+                        All items are shipped directly from Indonesia. Import duties, taxes and charges are not included in the item price.
+                      These charges are the buyer's responsibility and to be paid by the customer separately. We are not responsible for any of those charges. Please check with your local customs office to determine what these additional charges will be prior to buying. These charges are normally collected by the delivering freight (shipping) company or when you pick up the item. Please do not confuse them for additional shipping charges.
+                      </li>
+                      <li>
+                        Shipping time to USA is 30 - 90 days.
+                      </li>
+                    </ul> 
+                    If you're living in the USA, be prepared to filling ISF form. As it's required by the US Government.
+                    <br/>
+                  </div>
+                  <div>
+                    <div className='font-bold'>RETURNS & EXCHANGE:</div>
+                    I gladly accept cancellations, Request a cancellation within 24 hours of purchase
+                    <br/>
+                    I don't accept returns or exchanges, but please contact me if you have any problems with your order.
+                    <br/>
+                  </div>
 
-          <div>
-            <button className='bg-gold py-2 px-5 text-center w-full rounded-full hover:bg-yellow-400 font-bold '>Contact Us</button>
-          </div>
-
-          <div className='space-y-4'>
-            <div className='font-bold text-xl'>Description</div>
-            <div className='whitespace-pre-wrap'>
-              Our nature has it’s own art
-              This star teak stump table is combination of wood working and natural art, no two star table are alike, making this truly one-of-a-kind art. Look carefully at the picture, you will know where the human touch and the touch of nature are. Please be aware that most of the items are vintage/antique and may have small defects or signs of age.
-
-              This star table is made of teak stumps, that are dug up, cleaned, sanded and finished with a lacquer. It’s brings a unique look and feel to your home.
-
-              This teak stump table is made by a professional craftsman or artisans in Indonesia. Each stump table is specially handpicked and is totally unique with its own characteristics and individuality. Therefore, each root table is a little bit different, but all will look stunning for you.
-
-              CUSTOMIZATION available, please message your desired size and shape.
-              You can ask any information before add to cart, I'm ready to assist.
+                  CUSTOMS & IMPORT TAXES:
+                  <br/>
+                  Buyers are responsible for any customs and import taxes that may apply. I'm not responsible for delays due to customs.
+                  <br/>
+                </div>
+              </div>
             </div>
-            <div className='space-y-4'>
-              <div>
-                <span className='font-bold'>SHIPPING PROCESS:</span>
-                <br/>
-                <ul className='list-decimal'>
-                  <li>
-                    Free shipping (port to port)
-                  </li>
-                  <li>
-                    LCL Cargo service. So you must pick it up directly from you nearest port/shipping agent warehouse.
-                  </li>
-                  <li>
-                    All items are packed in secure wooden crates.
-                  </li>
-                  <li>
-                    All items are shipped directly from Indonesia. Import duties, taxes and charges are not included in the item price.
-                  These charges are the buyer's responsibility and to be paid by the customer separately. We are not responsible for any of those charges. Please check with your local customs office to determine what these additional charges will be prior to buying. These charges are normally collected by the delivering freight (shipping) company or when you pick up the item. Please do not confuse them for additional shipping charges.
-                  </li>
-                  <li>
-                    Shipping time to USA is 30 - 90 days.
-                  </li>
-                </ul> 
-                If you're living in the USA, be prepared to filling ISF form. As it's required by the US Government.
-                <br/>
+          )
+        }
+
+        {
+          data['slug'] !== "wood-furniture" && (
+            <div className="w-5/12 px-10 space-y-3">
+              <div className='text-2xl font-medium'>
+                {data['nama']}
               </div>
               <div>
-                <div className='font-bold'>RETURNS & EXCHANGE:</div>
-                I gladly accept cancellations, Request a cancellation within 24 hours of purchase
-                <br/>
-                I don't accept returns or exchanges, but please contact me if you have any problems with your order.
-                <br/>
+                {data['deskripsi']}
               </div>
-
-              CUSTOMS & IMPORT TAXES:
-              <br/>
-              Buyers are responsible for any customs and import taxes that may apply. I'm not responsible for delays due to customs.
-              <br/>
+              <div className='flex'>
+                <a href={`https://api.whatsapp.com/send/?phone=6281297108565&text=Hello, im interest with ${data['nama']}, can you show detail?`} target="_blank"  rel="noreferrer" className='bg-gold py-2 px-5 text-center w-full rounded-full hover:bg-yellow-400 font-bold '>Contact Us</a>
+              </div>
             </div>
-          </div>
-        </div>
+          )
+        }
       </div>
     </div>
   )

@@ -505,6 +505,12 @@ import f90_2 from "./images/furniture/90/2.jpg";
 import f90_3 from "./images/furniture/90/3.jpg";
 import f90_4 from "./images/furniture/90/4.jpg";
 
+import f91_1 from "./images/furniture/91/1.jpg";
+import f91_2 from "./images/furniture/91/2.jpg";
+import f91_3 from "./images/furniture/91/3.jpg";
+import f91_4 from "./images/furniture/91/4.jpg";
+import f91_5 from "./images/furniture/91/5.jpg";
+
 import f92_1 from "./images/furniture/92/1.jpg";
 import f92_2 from "./images/furniture/92/2.jpg";
 import f92_3 from "./images/furniture/92/3.jpg";
@@ -578,7 +584,23 @@ import f105_1 from "./images/furniture/105/1.jpg";
 import f105_2 from "./images/furniture/105/2.jpg";
 import f105_3 from "./images/furniture/105/3.jpg";
 
+import potato from "./images/agriculture/kentang.png";
+import bawang from "./images/agriculture/bawangmerah.jpg";
+import ubijepang from "./images/agriculture/ubijepang.jpg";
+import wortel from "./images/agriculture/wortel.jpg";
+import tomat from "./images/agriculture/tomat.jpg";
+import chip from "./images/agriculture/chip.jpg";
 
+import besi1 from "./images/besi/1.png"
+import besi2 from "./images/besi/2.png"
+import besi4 from "./images/besi/4.png"
+import besi5 from "./images/besi/5.png"
+import besi6 from "./images/besi/6.png"
+import besi7 from "./images/besi/7.png"
+import besi8 from "./images/besi/8.png"
+import besi9 from "./images/besi/9.png"
+import besi11 from "./images/besi/11.png"
+import besi12 from "./images/besi/12.png"
 
 export const product = [
   {
@@ -1350,7 +1372,7 @@ export const product = [
     id: "86",
     tipe: "Coffee Table",
     nama: "Black Square - Wooden Patchwork Coffee Table – Outdoor Coffee Table – Teak Root Side Table - Driftwood Table",
-    gambar: [f86_1,f86_2,f86_3,f86_4],
+    gambar: [f86_1,f86_2,f86_3,f86_4,f86_5],
     harga: ["1700"],
     spek: ["Width: 31.4 inches | Height: 17.7 inches | Depth: 31.4 inches"],
     slug: 'wood-furniture'
@@ -1395,7 +1417,7 @@ export const product = [
     id: "91",
     tipe: "Coffee Table",
     nama: "Carving Table - Flower Shape Round - Natural Teak Root Coffee Table – Teak Wood Sculpture Table – Wood Art Table ( Best Seller )",
-    gambar: [f90_1,f90_2,f90_3,f90_4],
+    gambar: [f91_1,f91_2,f91_3,f91_4,f91_5],
     harga: ["1300","1550","1750","1950","2250","2650","1350","1600","1800","2000","2300","2700",],
     spek: ["Height: 15.7 inches | Width : 19.6 inches", "Height: 15.7 inches | Width : 23.6 inches","Height: 15.7 inches | Width : 31.4 inches","Height: 15.7 inches | Width : 39.3 inches","Height: 15.7 inches | Width : 47.2 inches","Height: 15.7 inches | Width : 59 inches","Height: 17.7 inches | Diameter : 19.6 inches","Height: 17.7 inches | Diameter : 23.6 inches","Height: 17.7 inches | Diameter : 31.4 inches","Height: 17.7 inches | Diameter : 39.3 inches","Height: 17.7 inches | Width : 47.2 inches","Height: 17.7 inches | Width : 59 inches",],
     slug: 'wood-furniture'
@@ -1525,7 +1547,141 @@ export const product = [
     harga: ["1550"],
     spek: ["Width: 39.3 inches | Height: 31.4 inches | Depth: 17.7 inches"],
     slug: 'wood-furniture'
-   }
+   },
+   {
+    id: '106',
+    nama: "Potato",
+    gambar: [potato],
+    deskripsi: 'Potatoes are one type of vegetable that is much loved by people around the world. Especially in countries that have a climate suitable for growing potatoes, such as Europe, North America and Australia. Potatoes have many health benefits, such as containing carbohydrates which can provide sufficient energy for the body, contain vitamin C which is good for the immune system, and contain fiber which can help bowel movements.',
+    slug: 'agriculture'
+   },
+   {
+    id: '107',
+    nama: "Shallot",
+    gambar: [bawang],
+    deskripsi: 'Shallots are a very important kitchen ingredient throughout the world. It is used in many types of cooking, from traditional to modern cooking, and is considered a delicious and healthy ingredient. Shallots contain lots of vitamins and minerals, such as vitamin C, manganese, and potassium. It is also rich in antioxidants which help reduce the risk of chronic diseases such as heart disease and cancer. Shallots are also used in health products such as herbal medicines and food supplements. It is available in various forms, such as dried shallots, chopped shallots, and powdered shallots. Shallots are also a popular export product and are expected to continue to attract importers in the future.',
+    slug: 'agriculture'
+   },
+   {
+    id: '108',
+    nama: "Japanese Yam / Sweet Potato",
+    gambar: [ubijepang],
+    deskripsi: 'Japanese yam / Sweet Potato is a type of plant grown for food. This plant thrives in tropical and subtropical regions. Sweet potatoes have various varieties, such as white, yellow, red, and black varieties. This plant is fast growing and can be harvested in a short time. Sweet potatoes are rich in carbohydrates, vitamin C and minerals. In addition, sweet potatoes are also used in the food processing industry, such as flour, noodles, and chips.',
+    slug: 'agriculture'
+   },
+   {
+    id: '109',
+    nama: "Carrot",
+    gambar: [wortel],
+    deskripsi: 'Carrot is a vegetable plant that is used as food. Carrots are one of the most popular vegetables because they taste sweet and are rich in nutrients. Carrots have a high vitamin A content, so they can help maintain eye health. In addition, carrots also contain vitamin C, potassium and fiber which are good for health. Carrots can also be used in various dishes, such as soups, salads, or processed into juices.',
+    slug: 'agriculture'
+   },
+   {
+    id: '109',
+    nama: "Tomato",
+    gambar: [tomat],
+    deskripsi: 'Tomato is a vegetable plant that is known as a food ingredient that is widely used in various dishes. Tomatoes are a rich source of vitamin C, lycopene and anti-oxidants. Lycopene contained in tomatoes can help prevent various types of cancer. Tomatoes also contain potassium, vitamin K, vitamin E, and folate which are good for health.',
+    slug: 'agriculture'
+   },
+   {
+    id: '110',
+    nama: "Cassava chips",
+    gambar: [chip],
+    deskripsi: 'Cassava chips are chips made from grated and dried cassava tubers. It is a popular snack in several countries, especially in Asia and Latin America. Cassava chips have a crunchy and tasty texture, and can be prepared with various flavors such as salty, spicy or even chocolate.',
+    slug: 'agriculture'
+   },
+   {
+    id: '110',
+    nama: "Cassava chips",
+    gambar: [chip],
+    deskripsi: 'Cassava chips are chips made from grated and dried cassava tubers. It is a popular snack in several countries, especially in Asia and Latin America. Cassava chips have a crunchy and tasty texture, and can be prepared with various flavors such as salty, spicy or even chocolate.',
+    slug: 'agriculture'
+   },
+   {
+    id: '111',
+    nama: "Black Plate",
+    gambar: [besi1],
+    deskripsi: 'Steel is a type of iron used in building construction. This includes various types of steel profiles, such as angle iron, plate iron, deformed iron, etc. Building iron is used in the structure of columns, floors, walls, and others. The main advantages of steel building are strength, durability and flexibility in design.',
+    slug: 'steel'
+   },
+   {
+    id: '112',
+    nama: "Bordes Plate",
+    gambar: [besi2],
+    deskripsi: 'Steel is a type of iron used in building construction. This includes various types of steel profiles, such as angle iron, plate iron, deformed iron, etc. Building iron is used in the structure of columns, floors, walls, and others. The main advantages of steel building are strength, durability and flexibility in design.',
+    slug: 'steel'
+   },
+   {
+    id: '113',
+    nama: "Galvanis Plate",
+    gambar: [besi2],
+    deskripsi: 'Steel is a type of iron used in building construction. This includes various types of steel profiles, such as angle iron, plate iron, deformed iron, etc. Building iron is used in the structure of columns, floors, walls, and others. The main advantages of steel building are strength, durability and flexibility in design.',
+    slug: 'steel'
+   },
+   {
+    id: '114',
+    nama: "Elbow Steel",
+    gambar: [besi4],
+    deskripsi: 'Steel is a type of iron used in building construction. This includes various types of steel profiles, such as angle iron, plate iron, deformed iron, etc. Building iron is used in the structure of columns, floors, walls, and others. The main advantages of steel building are strength, durability and flexibility in design.',
+    slug: 'steel'
+   },
+   {
+    id: '115',
+    nama: "Strep Plat",
+    gambar: [besi5],
+    deskripsi: 'Steel is a type of iron used in building construction. This includes various types of steel profiles, such as angle iron, plate iron, deformed iron, etc. Building iron is used in the structure of columns, floors, walls, and others. The main advantages of steel building are strength, durability and flexibility in design.',
+    slug: 'steel'
+   },
+   {
+    id: '116',
+    nama: "Channel Steel",
+    gambar: [besi6],
+    deskripsi: 'Steel is a type of iron used in building construction. This includes various types of steel profiles, such as angle iron, plate iron, deformed iron, etc. Building iron is used in the structure of columns, floors, walls, and others. The main advantages of steel building are strength, durability and flexibility in design.',
+    slug: 'steel'
+   },
+   {
+    id: '117',
+    nama: "As Steel",
+    gambar: [besi7],
+    deskripsi: 'Steel is a type of iron used in building construction. This includes various types of steel profiles, such as angle iron, plate iron, deformed iron, etc. Building iron is used in the structure of columns, floors, walls, and others. The main advantages of steel building are strength, durability and flexibility in design.',
+    slug: 'steel'
+   },
+   {
+    id: '117',
+    nama: "NAKO Steel",
+    gambar: [besi8],
+    deskripsi: 'Steel is a type of iron used in building construction. This includes various types of steel profiles, such as angle iron, plate iron, deformed iron, etc. Building iron is used in the structure of columns, floors, walls, and others. The main advantages of steel building are strength, durability and flexibility in design.',
+    slug: 'steel'
+   },
+   {
+    id: '118',
+    nama: "Black Square Pipe Iron",
+    gambar: [besi9],
+    deskripsi: 'Steel is a type of iron used in building construction. This includes various types of steel profiles, such as angle iron, plate iron, deformed iron, etc. Building iron is used in the structure of columns, floors, walls, and others. The main advantages of steel building are strength, durability and flexibility in design.',
+    slug: 'steel'
+   },
+   {
+    id: '119',
+    nama: "Galvanized Square Pipe Iron",
+    gambar: [besi9],
+    deskripsi: 'Steel is a type of iron used in building construction. This includes various types of steel profiles, such as angle iron, plate iron, deformed iron, etc. Building iron is used in the structure of columns, floors, walls, and others. The main advantages of steel building are strength, durability and flexibility in design.',
+    slug: 'steel'
+   },
+   {
+    id: '120',
+    nama: "Galvanized Steel Water Pipe",
+    gambar: [besi11],
+    deskripsi: 'Steel is a type of iron used in building construction. This includes various types of steel profiles, such as angle iron, plate iron, deformed iron, etc. Building iron is used in the structure of columns, floors, walls, and others. The main advantages of steel building are strength, durability and flexibility in design.',
+    slug: 'steel'
+   },
+   {
+    id: '121',
+    nama: "Gas Pipe Steel",
+    gambar: [besi12],
+    deskripsi: 'Steel is a type of iron used in building construction. This includes various types of steel profiles, such as angle iron, plate iron, deformed iron, etc. Building iron is used in the structure of columns, floors, walls, and others. The main advantages of steel building are strength, durability and flexibility in design.',
+    slug: 'steel'
+   },
+   
    
   
 ];
@@ -1618,4 +1774,4 @@ export const people = [
     ]
   },
   
-]
+];
