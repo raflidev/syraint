@@ -1591,13 +1591,6 @@ export const product = [
     slug: 'agriculture'
    },
    {
-    id: '110',
-    nama: "Cassava chips",
-    gambar: [chip],
-    deskripsi: 'Cassava chips are chips made from grated and dried cassava tubers. It is a popular snack in several countries, especially in Asia and Latin America. Cassava chips have a crunchy and tasty texture, and can be prepared with various flavors such as salty, spicy or even chocolate.',
-    slug: 'agriculture'
-   },
-   {
     id: '111',
     nama: "Black Plate",
     gambar: [besi1],
