@@ -593,14 +593,90 @@ import chip from "./images/agriculture/chip.jpg";
 
 import besi1 from "./images/besi/1.png"
 import besi2 from "./images/besi/2.png"
+import besi3 from "./images/besi/3.jpg"
 import besi4 from "./images/besi/4.png"
 import besi5 from "./images/besi/5.png"
 import besi6 from "./images/besi/6.png"
 import besi7 from "./images/besi/7.png"
 import besi8 from "./images/besi/8.png"
 import besi9 from "./images/besi/9.png"
+import besi10 from "./images/besi/10.jpg"
 import besi11 from "./images/besi/11.png"
 import besi12 from "./images/besi/12.png"
+import besi13 from "./images/besi/13.png"
+import besi14 from "./images/besi/14.png"
+import besi15 from "./images/besi/15.png"
+import besi16 from "./images/besi/16.png"
+import besi18 from "./images/besi/18.png"
+import besi19 from "./images/besi/19.png"
+import besi20 from "./images/besi/20.jpg"
+
+import coal1 from "./images/coal/Container2.png"
+
+import briket1 from "./images/briket/briket1.jpg"
+import briket2 from "./images/briket/briket2.jpg"
+
+import diesel1 from "./images/biodiesel/1.jpg"
+import diesel2 from "./images/biodiesel/2.png"
+import diesel3 from "./images/biodiesel/3.jpg"
+
+export const service = [
+  {
+    nama: "Air Freight",
+    slug: "air-feight"
+  },
+  {
+    nama: "Sea Freight",
+    slug: "sea-freight"
+  },
+  {
+    nama: "Custom Brokerage",
+    slug: "custom-brokerage"
+  },
+  {
+    nama: "Inland Service",
+    slug: "inland-service"
+  },
+  {
+    nama: "Heavy Equipment and Oversized",
+    slug: "heavy-equipment-and-oversized"
+  },
+  {
+    nama: 'Service Local Transportation',
+    slug: "service-local-transportation"
+  },
+  {
+    nama: "Service Household Removal",
+    slug: "service-household-removal"
+  }
+];
+
+export const provide = [
+  {
+    nama: "Agriculture",
+    slug: "agriculture"
+  },
+  {
+    nama: "Steel",
+    slug: "steel"
+  },
+  {
+    nama: "Coal",
+    slug: "coal"
+  },
+  {
+    nama: "Biodiesel",
+    slug: "biodiesel"
+  },
+  {
+    nama: "Wood Furniture",
+    slug: "wood-furniture"
+  },
+  {
+    nama: "Briquette",
+    slug: "briquette"
+  }
+];
 
 export const product = [
   {
@@ -1594,87 +1670,226 @@ export const product = [
     id: '111',
     nama: "Black Plate",
     gambar: [besi1],
-    deskripsi: 'Steel is a type of iron used in building construction. This includes various types of steel profiles, such as angle iron, plate iron, deformed iron, etc. Building iron is used in the structure of columns, floors, walls, and others. The main advantages of steel building are strength, durability and flexibility in design.',
+    deskripsi: `Iron plate is a metal plate product with a certain thickness made of carbon steel or alloy steel. Iron plate is usually used in various industrial applications such as construction, building, automotive, mining, and others.
+
+    The quality of iron plate can be judged from various factors such as chemical composition, thickness, width, and length. Plate iron can also be found in various shapes such as round, round and square.
+    
+    Iron plate has several advantages such as high strength, durability, and easy cutting and manufacturing processes. These advantages make iron plate a popular choice in a variety of industries and applications.
+    
+    We always strive to provide quality iron plate products at competitive prices and the best service to meet customer needs. We understand the importance of iron plate products for our customers' business continuity and strive to provide the most effective and efficient solutions.`,
     slug: 'steel'
    },
    {
     id: '112',
     nama: "Bordes Plate",
     gambar: [besi2],
-    deskripsi: 'Steel is a type of iron used in building construction. This includes various types of steel profiles, such as angle iron, plate iron, deformed iron, etc. Building iron is used in the structure of columns, floors, walls, and others. The main advantages of steel building are strength, durability and flexibility in design.',
+    deskripsi: `Iron plate is a metal plate product with a certain thickness made of carbon steel or alloy steel. Iron plate is usually used in various industrial applications such as construction, building, automotive, mining, and others.
+
+    The quality of iron plate can be judged from various factors such as chemical composition, thickness, width, and length. Plate iron can also be found in various shapes such as round, round and square.
+    
+    Iron plate has several advantages such as high strength, durability, and easy cutting and manufacturing processes. These advantages make iron plate a popular choice in a variety of industries and applications.
+    
+    We always strive to provide quality iron plate products at competitive prices and the best service to meet customer needs. We understand the importance of iron plate products for our customers' business continuity and strive to provide the most effective and efficient solutions.`,
     slug: 'steel'
    },
    {
     id: '113',
     nama: "Galvanis Plate",
-    gambar: [besi2],
-    deskripsi: 'Steel is a type of iron used in building construction. This includes various types of steel profiles, such as angle iron, plate iron, deformed iron, etc. Building iron is used in the structure of columns, floors, walls, and others. The main advantages of steel building are strength, durability and flexibility in design.',
+    gambar: [besi3],
+    deskripsi: `Iron plate is a metal plate product with a certain thickness made of carbon steel or alloy steel. Iron plate is usually used in various industrial applications such as construction, building, automotive, mining, and others.
+
+    The quality of iron plate can be judged from various factors such as chemical composition, thickness, width, and length. Plate iron can also be found in various shapes such as round, round and square.
+    
+    Iron plate has several advantages such as high strength, durability, and easy cutting and manufacturing processes. These advantages make iron plate a popular choice in a variety of industries and applications.
+    
+    We always strive to provide quality iron plate products at competitive prices and the best service to meet customer needs. We understand the importance of iron plate products for our customers' business continuity and strive to provide the most effective and efficient solutions.`,
     slug: 'steel'
    },
    {
     id: '114',
-    nama: "Elbow Steel",
+    nama: "Angle Steel",
     gambar: [besi4],
-    deskripsi: 'Steel is a type of iron used in building construction. This includes various types of steel profiles, such as angle iron, plate iron, deformed iron, etc. Building iron is used in the structure of columns, floors, walls, and others. The main advantages of steel building are strength, durability and flexibility in design.',
+    deskripsi: `Angle iron is an L-shaped metal product with two oblique and two parallel sides. Angle iron is usually made of carbon steel and alloy steel, and is used in a variety of construction and industrial applications such as making building frames, making furniture, and others.
+
+    Angle iron has several advantages such as high strength, durability, and easy cutting and manufacturing processes. These advantages make angle iron a popular choice in a variety of industries and applications.
+    
+    We always try to provide quality angle iron products at competitive prices and the best service to meet customer needs. We understand the importance of angle iron products for our customers' business continuity and strive to provide the most effective and efficient solutions.`,
     slug: 'steel'
    },
    {
     id: '115',
     nama: "Strep Plat",
     gambar: [besi5],
-    deskripsi: 'Steel is a type of iron used in building construction. This includes various types of steel profiles, such as angle iron, plate iron, deformed iron, etc. Building iron is used in the structure of columns, floors, walls, and others. The main advantages of steel building are strength, durability and flexibility in design.',
+    deskripsi: `Strep iron is a metal product in the form of a rectangular profile with two parallel sides that are the same size. Strep iron is usually made of carbon steel and alloy steel, and is used in a variety of construction and industrial applications such as roof trusses, steel structure fabrication, and others.
+
+    Strep iron has several advantages such as high strength, durability, and easy cutting and manufacturing processes. These advantages make Strep iron a popular choice in a wide variety of industries and applications.
+    
+    We always try to provide quality Strep iron products at competitive prices and the best service to meet customer needs. We understand the importance of Strep iron products for our customers' business continuity and strive to provide the most effective and efficient solutions.`,
     slug: 'steel'
    },
    {
     id: '116',
     nama: "Channel Steel",
     gambar: [besi6],
-    deskripsi: 'Steel is a type of iron used in building construction. This includes various types of steel profiles, such as angle iron, plate iron, deformed iron, etc. Building iron is used in the structure of columns, floors, walls, and others. The main advantages of steel building are strength, durability and flexibility in design.',
+    deskripsi: `Channel iron is a U and C shaped metal product used in a variety of construction and industrial applications. Channel iron is made of carbon steel and alloy steel, and has two parallel sides and two slanted sides which function as a binder between the construction elements.
+
+    Channel iron has high strength and stability, and is easy to cut, shape, and install. These advantages make channel iron a popular choice in the manufacture of building frames, furniture manufacturing, and others.
+    
+    We always strive to provide quality channel iron products at competitive prices and the best service to meet customer needs. We understand the importance of channel iron products for our customers' business continuity and strive to provide the most effective and efficient solutions.`,
     slug: 'steel'
    },
    {
     id: '117',
     nama: "As Steel",
     gambar: [besi7],
-    deskripsi: 'Steel is a type of iron used in building construction. This includes various types of steel profiles, such as angle iron, plate iron, deformed iron, etc. Building iron is used in the structure of columns, floors, walls, and others. The main advantages of steel building are strength, durability and flexibility in design.',
-    slug: 'steel'
-   },
-   {
-    id: '117',
-    nama: "NAKO Steel",
-    gambar: [besi8],
-    deskripsi: 'Steel is a type of iron used in building construction. This includes various types of steel profiles, such as angle iron, plate iron, deformed iron, etc. Building iron is used in the structure of columns, floors, walls, and others. The main advantages of steel building are strength, durability and flexibility in design.',
+    deskripsi: `Ace iron is a steel product that is found with a distinctive size and shape and is usually used for a variety of construction and industrial applications. Axle iron has a number of advantages, such as good strength and stability, ability to carry large loads, and resistance to corrosion. In addition, axle iron is easy to machine and cut, and is acceptable in a variety of finishes and corrosion resistance. Steel axle products are available in various sizes and shapes, and can be selected according to the needs and specifications of the project. We always strive to provide quality channel iron products at competitive prices and the best service to meet customer needs. We understand the importance of channel iron products for our customers' business continuity and strive to provide the most effective and efficient solutions.`,
     slug: 'steel'
    },
    {
     id: '118',
-    nama: "Black Square Pipe Iron",
-    gambar: [besi9],
-    deskripsi: 'Steel is a type of iron used in building construction. This includes various types of steel profiles, such as angle iron, plate iron, deformed iron, etc. Building iron is used in the structure of columns, floors, walls, and others. The main advantages of steel building are strength, durability and flexibility in design.',
+    nama: "NAKO Steel",
+    gambar: [besi8],
+    deskripsi: `Nako iron is a type of steel profile that has an "n" or "c" shape. Nako iron products are often used as materials for steel framing for various construction and industrial projects, such as buildings, bridges, roofs, and others. Nako iron has good strength and stability, and can carry heavy loads.
+
+    Nako iron is also acceptable in various types of corrosion resistance and has long-lasting capabilities. Nako iron products are available in various sizes and thicknesses that can be selected according to the needs and specifications of the project. In the production process, Nako iron is usually produced through a process of cutting and forming hot steel using sophisticated rolling machines.`,
     slug: 'steel'
    },
    {
     id: '119',
-    nama: "Galvanized Square Pipe Iron",
+    nama: "Black Square Pipe Iron",
     gambar: [besi9],
-    deskripsi: 'Steel is a type of iron used in building construction. This includes various types of steel profiles, such as angle iron, plate iron, deformed iron, etc. Building iron is used in the structure of columns, floors, walls, and others. The main advantages of steel building are strength, durability and flexibility in design.',
+    deskripsi: `Black Square Iron Pipe is a type of pipe made of black iron and has a square shape. This product is usually used in various construction and industrial projects such as building frames, pillars, table and chair frames, railings, etc. The advantages of Black Square Pipe iron include having high resistance to impact and load, having a smooth and even finish, and being available in various sizes and specifications. We always strive to provide quality channel iron products at competitive prices and the best service to meet customer needs. We understand the importance of channel iron products for our customers' business continuity and strive to provide the most effective and efficient solutions. `,
     slug: 'steel'
    },
    {
     id: '120',
-    nama: "Galvanized Steel Water Pipe",
-    gambar: [besi11],
-    deskripsi: 'Steel is a type of iron used in building construction. This includes various types of steel profiles, such as angle iron, plate iron, deformed iron, etc. Building iron is used in the structure of columns, floors, walls, and others. The main advantages of steel building are strength, durability and flexibility in design.',
+    nama: "Galvanized Square Pipe Iron",
+    gambar: [besi10],
+    deskripsi: `Galvanized Square Pipe is a square-shaped iron product that goes through a galvanization process. This process involves adding a layer of zinc to the surface of the iron to protect it from corrosion and environmental damage. Galvanized Square Pipe is commonly used in construction applications such as making roof trusses, stairs and other constructions. The advantage of this iron is that it is resistant to corrosion and harmful environments, and has a good aesthetic appearance. We always strive to provide quality channel iron products at competitive prices and the best service to meet customer needs. We understand the importance of channel iron products for our customers' business continuity and strive to provide the most effective and efficient solutions.`,
     slug: 'steel'
    },
    {
     id: '121',
-    nama: "Gas Pipe Steel",
-    gambar: [besi12],
-    deskripsi: 'Steel is a type of iron used in building construction. This includes various types of steel profiles, such as angle iron, plate iron, deformed iron, etc. Building iron is used in the structure of columns, floors, walls, and others. The main advantages of steel building are strength, durability and flexibility in design.',
+    nama: "Galvanized Steel Water Pipe",
+    gambar: [besi11],
+    deskripsi: `Galvanized Steel Water Pipe is one type of quality pipe that is used as a channel for clean water. This pipe is made using steel as the basic material and coated with a layer of zinc through the galvanization process. This process makes the pipes resistant to corrosion and ensures that the quality of the water that is conveyed is not affected by contamination from steel. This pipe also has a good level of strength and durability, so it can be used for various applications such as clean water distribution systems and irrigation. In addition, this pipe is also easy to install and repair and has an affordable price. We always strive to provide quality channel iron products at competitive prices and the best service to meet customer needs. We understand the importance of channel iron products for our customers' business continuity and strive to provide the most effective and efficient solutions.`,
     slug: 'steel'
    },
-   
+   {
+    id: '122',
+    nama: "Gas Pipe Steel",
+    gambar: [besi12],
+    deskripsi: `Galvanized Steel Gas Pipe is an iron pipe product which is coated with a galvanized coating to protect against corrosion. This pipe is used as a gas line and is manufactured to specifications according to industry standards. The advantage of using galvanized iron pipes is that they have good resistance to corrosion and a longer service life compared to ordinary iron pipes. This pipe also has good strength and stability making it suitable for gas line installation applications on a large scale. We always strive to provide quality channel iron products at competitive prices and the best service to meet customer needs. We understand the importance of channel iron products for our customers' business continuity and strive to provide the most effective and efficient solutions.`,
+    slug: 'steel'
+   },
+   {
+    id: '123',
+    nama: 'Steel Bar',
+    gambar: [besi19],
+    deskripsi: `Threaded iron is a type of iron that has a threaded or curved surface like a screw. This gives iron threads additional resistance to tensile and compressive forces, so they can be used for a variety of building and industrial applications. Deformed iron is usually made by heating iron and forming it into threads, or by cutting iron into threaded pieces and placing them together to form a profile. These products can be found in various sizes and specifications, and are widely used as pipe holders, steel framing materials, and other construction materials.`,
+    slug: 'steel'
+   },
+   {
+    id: '124',
+    nama: "Wide Flange - H Beam",
+    gambar: [besi13],
+    deskripsi: `Wide flange steel is a type of iron profile that has a shape like the letter H. This iron has a wide flange width and has a smaller web width. WF iron is used in construction applications such as the manufacture of warehouses, industrial buildings, bridges, and others. The advantages of WF iron are that it has good strength and stability and can carry heavy loads. This WF iron is also easy to cut and connect. The quality of this WF iron is ensured by rigorous testing and industry standards before it is marketed. We always strive to provide quality channel iron products at competitive prices and the best service to meet customer needs. We understand the importance of channel iron products for our customers' business continuity and strive to provide the most effective and efficient solutions.`,
+    slug: 'steel'
+   },
+   {
+    id: '125',
+    nama: "Wide Flange - INP",
+    gambar: [besi14],
+    deskripsi: `Wide flange steel is a type of iron profile that has a shape like the letter H. This iron has a wide flange width and has a smaller web width. WF iron is used in construction applications such as the manufacture of warehouses, industrial buildings, bridges, and others. The advantages of WF iron are that it has good strength and stability and can carry heavy loads. This WF iron is also easy to cut and connect. The quality of this WF iron is ensured by rigorous testing and industry standards before it is marketed. We always strive to provide quality channel iron products at competitive prices and the best service to meet customer needs. We understand the importance of channel iron products for our customers' business continuity and strive to provide the most effective and efficient solutions.`,
+    slug: 'steel'
+   },
+   {
+    id: '127',
+    nama: "Wide Flange - IWF",
+    gambar: [besi15],
+    deskripsi: `Wide flange steel is a type of iron profile that has a shape like the letter H. This iron has a wide flange width and has a smaller web width. WF iron is used in construction applications such as the manufacture of warehouses, industrial buildings, bridges, and others. The advantages of WF iron are that it has good strength and stability and can carry heavy loads. This WF iron is also easy to cut and connect. The quality of this WF iron is ensured by rigorous testing and industry standards before it is marketed. We always strive to provide quality channel iron products at competitive prices and the best service to meet customer needs. We understand the importance of channel iron products for our customers' business continuity and strive to provide the most effective and efficient solutions.`,
+    slug: 'steel'
+   },
+   {
+    id: '128',
+    nama: "Wiremesh steel",
+    gambar: [besi16],
+    deskripsi: `Wire mesh is one of the iron products made of steel or iron which is processed and placed like a net. Wire mesh has many applications, ranging from use as a barrier material, security, barrier, to support. Wire mesh can be found in various shapes, sizes, and designs, according to the needs of the application. Wire mesh is very well used for construction projects and product manufacturing, such as stair railings, window doors, railings, etc. The advantages of wire mesh are corrosion resistance, durability, and easy installation. We always strive to provide quality channel iron products at competitive prices and the best service to meet customer needs. We understand the importance of channel iron products for our customers' business continuity and strive to provide the most effective and efficient solutions.`,
+    slug: 'steel'
+   },
+   {
+    id: '129',
+    nama: "Welding Wire",
+    gambar: [besi18],
+    deskripsi: `Welding wire is a metal material used in the process of joining metals by welding. Iron welding wire is a type of welding wire made of iron and is used to perform iron welding. Usually, iron welding wire has a small diameter and can be found in several specifications, such as specifications for tensile stress and tensile strength. Its ability to withstand loads and resistance to corrosion makes iron welding wire ideal for welding applications that require high strength and stability. We always strive to provide quality channel iron products at competitive prices and the best service to meet customer needs. We understand the importance of channel iron products for our customers' business continuity and strive to provide the most effective and efficient solutions.`,
+    slug: 'steel'
+   },
+   {
+    id: '130',
+    nama: "Annealed Wire",
+    gambar: [besi20],
+    deskripsi: `Bendrat Iron Wire is a type of steel wire used as the main ingredient in the manufacture of iron products such as fences, bridges or other buildings. This wire has a round shape and has different diameters according to needs.
+
+    Bendrat wire iron has a very good level of strength and durability, making it very suitable for use in construction applications that require high strength and stability. This wire is also resistant to corrosion, so it can be used in hazardous environments.
+    
+    Bendrat wire iron also has many other benefits such as easy installation, easy to cut according to the size needed, and easy to work with. Therefore, bendrat wire is very popular and widely used in various industrial and building applications.`,
+    slug: 'steel'
+   },
+   {
+    id: '131',
+    nama: 'Coal',
+    gambar: [coal1],
+    deskripsi: `We can meet domestic coal needs originating from Kalimantan, Sulawesi to Sumatra and distribute them to consumers in all regions and foreign countries. We can meet all coal needs with specifications GAR 3200 - 8000 by land, sea and bunkers for industry with professional services. We use the payment system "L/C & CASH" which ensures transaction security for customers.
+
+    We always try to provide the best service and maintain the quality of the products we sell to meet customer needs. We really value customer satisfaction and try to meet all their needs in terms of coal. We understand the importance of coal for various industries and strive to provide the most effective and efficient solutions.`,
+    slug: 'coal'
+   },
+   {
+    id: '132',
+    nama: 'Shisha Coconut Briquette Cube',
+    gambar: [briket1],
+    deskripsi: "Arguably the most common type of shisha coal. Cubes offer a slow burn and can be successfully used with most hookah bowl and screen setups due to the many different sizes available. Make sure to rotate the cubes throughout the session to get the best results.Smokeless, Odorless, No Chemical, Eco Friendly, Efficient, Burning time up to 2 Hours",
+    slug: 'briquette'
+   },
+   {
+    id: '133',
+    nama: 'Barbeque Coconut Briquette Hexagon',
+    gambar: [briket2],
+    deskripsi: "Sawdust Charcoal is made by burning wood in the absence of oxygen. Our modern carbonization process produces strong and high density charcoal. Its unique hexagonal shape provides efficient storage, wide surface area, and easy stacking of charcoal during usage. Smokeless, Odorless, No Chemical, Eco Friendly, Efficient, Burning time up to 7 Hours",
+    slug: 'briquette'
+   },
+   {
+    id: '134',
+    nama: 'B20',
+    gambar: [diesel1],
+    deskripsi: `Biodiesel B20 is a mixture of biodiesel and diesel fuel. The biodiesel component in B20 usually comes from renewable sources such as vegetable oils (such as palm, corn and beeswax), while the diesel oil component comes from fossil sources.
+
+    Biodiesel B20 has several advantages compared to ordinary diesel fuel, such as having lower emissions and producing less CO2. The use of B20 biodiesel can also help reduce dependence on fossil fuels and help improve air quality.
+    
+    Use of B20 biodiesel requires a compatible vehicle, and usually requires no changes to the engine or fuel system. In some cases, B20 biodiesel can improve fuel efficiency and extend engine life.`,
+    slug: 'biodiesel'
+   },
+   {
+    id: '135',
+    nama: 'B30',
+    gambar: [diesel2],
+    deskripsi: `Biodiesel B30 is a mixture of biodiesel and diesel fuel, with a higher biodiesel content than B20. Biodiesel B30 usually consists of about 30% biodiesel and 70% diesel oil.
+
+    Biodiesel B30 has several advantages such as having lower emissions and producing less CO2. The use of B30 biodiesel can also help reduce dependence on fossil fuels and help improve air quality.
+    
+    Use of B30 biodiesel requires a compatible vehicle, and usually requires no changes to the engine or fuel system. In some cases, B30 biodiesel can improve fuel efficiency and extend engine life.`,
+    slug: 'biodiesel'
+   },
+   {
+    id: '136',
+    nama: 'B100',
+    gambar: [diesel3],
+    deskripsi: `Biodiesel B100 is a biofuel consisting of 100% fatty acid methyl esters (FAME) and does not contain fossil fuels. Biodiesel B100 can be obtained through the esterification/transesterification process from vegetable oils such as palm, corn and canola oils, or animal fats such as beef tallow.
+    Biodiesel B100 has several advantages, such as having lower emissions than fossil fuels and producing less CO2. The use of B100 biodiesel can also help reduce dependence on fossil fuels and help improve air quality.`,
+    slug: 'biodiesel'
+   },
+
+
    
   
 ];

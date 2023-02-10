@@ -59,6 +59,10 @@ const provide = [
         nama: "Wood Furniture",
         slug: "wood-furniture"
       },
+      {
+        nama: "Briquette",
+        slug: "briquette"
+      }
     ]
   },
   {
@@ -80,6 +84,18 @@ const provide = [
         nama: "Inland Service",
         slug: "inland-service"
       },
+      {
+        nama: "Heavy Equipment and Oversized",
+        slug: "heavy-equipment-and-oversized"
+      },
+      {
+        nama: 'Service Local Transportation',
+        slug: "service-local-transportation"
+      },
+      {
+        nama: "Service Household Removal",
+        slug: "service-household-removal"
+      }
     ]
   } 
 ];
@@ -93,7 +109,7 @@ function Home() {
                 <div className='m-auto'>
                     <div className='flex justify-center'>
                         <div className='w-4/6 text-center space-y-10'>
-                            <div className='font-bold text-5xl'>
+                            <div className='font-bold text-3xl lg:text-5xl pt-7 lg:pt-0'>
                                 Syra International
                             </div>
                             <div className='text-sm lg:text-lg'>
@@ -109,10 +125,10 @@ function Home() {
         <section className='px-2 lg:px-16 py-10 my-32'>
             <div className='uppercase text-gold font-bold text-3xl text-center'>we provide your needs</div>
                 <div className='flex justify-center mt-20'>
-                    <div className='w-full lg:w-4/6 grid grid-cols-1 gap-10 space-y-10'>
+                    <div className='w-full xl:w-4/6 grid grid-cols-1 gap-10 space-y-10'>
                         {provide.map((item, index) => (
                             <div key={index} className="w-full" id={`${item.nama}s`}>
-                                <div className='bg-black w-full h-[20rem] bg-cover rounded-lg bg-center' style={{backgroundImage: `url(${jumbotron})`}}>
+                                <div className='bg-black w-full h-full py-5 lg:py-0 lg:h-[20rem] bg-cover rounded-lg bg-center' style={{backgroundImage: `url(${jumbotron})`}}>
                                     <div className='flex h-full text-white bg-black/40'>
                                         <div className='m-auto w-full'>
                                             <div className='flex w-full justify-center'>
@@ -120,7 +136,7 @@ function Home() {
                                                     <div className='font-bold text-3xl'>
                                                         {item.nama}s
                                                     </div>
-                                                    <div className={`w-full grid grid-cols-2 md:grid-cols-${item.sub.length} font-medium justify-center gap-4 pt-6`}>
+                                                    <div className={`w-full grid grid-cols-1 lg:grid-cols-4 font-medium justify-center gap-4 pt-6`}>
                                                       {item.sub.map((sub, index) => (
                                                         <Link to={`/${item.nama}/${sub.slug}`} className='bg-gold px-2 h-16 bg-cover bg-center text-black hover:cursor-pointer duration-200 rounded-md hover:bg-black hover:text-gold' key={index}>
                                                           <div className='flex h-full'>
@@ -205,42 +221,125 @@ function Home() {
         {/* Our Team */}
         <section id="team" className='bg-gold px-3 md:px-16 py-28'>
         <div className=' text-black'>
-        <h1 className='text-center uppercase text-3xl font-bold py-3'>Our Team</h1>
-        <div className="w-5/6 mx-auto py-10">
-          <div className="grid grid-cols-1 space-y-4 lg:space-y-0 lg:grid-cols-3 gap-5 items-start">
-            { people.map((item, index) => (
-              <div>
-                <img src={item.gambar} className='mx-auto w-48 h-48 bg-red-100 rounded-full mb-5' alt="" srcset="" />
-                <div className='space-y-3 text-center'>
-                  <div className='font-bold text-xl uppercase'>{item.nama}</div>
-                  <div className='text-lg'>{item.jabatan}</div>
-                  <div className='italic'>{item.quotes}</div>
-                  <div className='flex justify-center space-x-5 pt-2 pb-8'>
-                    {
-                      item.links.map((sub, index) => (
-                        <a href={sub.url} target="_blank" rel="noreferrer">
-                          <img src={sub.icon} className="text-black hover:bg-orange-700 p-1 hover:rounded hover:cursor-pointer" alt="" />
-                        </a>
-                      ))
-                    }
-{/*                     
-                    <a href="https://www.facebook.com/yudyhadiwibowo/" target="_blank" rel="noreferrer">
-                      <img src={facebook} className="text-white hover:bg-orange-700 p-1 hover:rounded hover:cursor-pointer" alt="" />
-                    </a>
-                    <a href="http://www.instagram.com/yudyhadi" target="_blank" rel="noreferrer">
-                      <img src={instagram} className="text-white hover:bg-orange-700 p-1 hover:rounded hover:cursor-pointer" alt="" />
-                    </a> */}
+          <h1 className='text-center uppercase text-3xl font-bold py-3'>Our Team</h1>
+          <div className="w-5/6 mx-auto py-10">
+            <div className="grid grid-cols-1 space-y-4 lg:space-y-0 lg:grid-cols-3 gap-5 items-start">
+              { people.map((item, index) => (
+                <div>
+                  <img src={item.gambar} className='mx-auto w-48 h-48 bg-red-100 rounded-full mb-5' alt="" srcset="" />
+                  <div className='space-y-3 text-center'>
+                    <div className='font-bold text-xl uppercase'>{item.nama}</div>
+                    <div className='text-lg'>{item.jabatan}</div>
+                    <div className='italic'>{item.quotes}</div>
+                    <div className='flex justify-center space-x-5 pt-2 pb-8'>
+                      {
+                        item.links.map((sub, index) => (
+                          <a href={sub.url} target="_blank" rel="noreferrer">
+                            <img src={sub.icon} className="text-black hover:bg-orange-700 p-1 hover:rounded hover:cursor-pointer" alt="" />
+                          </a>
+                        ))
+                      }
+  {/*                     
+                      <a href="https://www.facebook.com/yudyhadiwibowo/" target="_blank" rel="noreferrer">
+                        <img src={facebook} className="text-white hover:bg-orange-700 p-1 hover:rounded hover:cursor-pointer" alt="" />
+                      </a>
+                      <a href="http://www.instagram.com/yudyhadi" target="_blank" rel="noreferrer">
+                        <img src={instagram} className="text-white hover:bg-orange-700 p-1 hover:rounded hover:cursor-pointer" alt="" />
+                      </a> */}
+                    </div>
                   </div>
                 </div>
-              </div>
-            ))}
+              ))}
 
-            
+              
+            </div>
           </div>
         </div>
-      </div>
         </section>
         {/* End Our Team */}
+
+        {/* FAQ Section */}
+        <section id="faq" className='min-h-screen bg-white px-3 md:px-16 py-28'>
+          <div>
+            <h1 className='text-center uppercase text-3xl font-bold py-3'>FAQ</h1>
+            <div className='flex justify-center'>
+              <div className='w-full px-3 lg:px-0 lg:w-4/6 space-y-5'>
+                <div>
+                  <div className='border-2 border-gold py-2 px-3 font-bold rounded-none lg:rounded-r-full'>
+                    Q: What are your main products? 
+                  </div>
+                  <div className='px-3 border-l-2 border-black py-2'>
+                    A: We are mainly producing furniture and home decoration products. We mostly use teak wood as our core material because of its flexible nature which would give a wider space to express your imagination.
+                  </div>
+                </div>
+                <div>
+                  <div className='border-2 border-gold py-2 px-3 font-bold rounded-none lg:rounded-r-full'>
+                    Q: Can you help me customize my own products?
+                  </div>
+                  <div className='px-3 border-l-2 border-black py-2'>
+                    A: We couldn’t be happier to help you create your own products! We believe that it would be a wonderful journey for us. Please give us some notes about your product and the measurements when you contact us.
+                  </div>
+                </div>
+                
+                <div>
+                  <div className='border-2 border-gold py-2 px-3 font-bold rounded-none lg:rounded-r-full'>
+                    Q: How much is the minimum order needed to collaborate with you?
+                  </div>
+                  <div className='px-3 border-l-2 border-black py-2'>
+                    A: We could take as a minimum a 1*20 feet container with the mixed item for your order.
+                  </div>
+                </div>
+                
+                <div>
+                  <div className='border-2 border-gold py-2 px-3 font-bold rounded-none lg:rounded-r-full'>
+                    Q: If I’m about to collaborate with you, what is the lead time needed to complete my order?
+                  </div>
+                  <div className='px-3 border-l-2 border-black py-2'>
+                    A: Our lead time for the first order or new items ordered would be longer due to the preparation. It would take 60-75 days for a 1*40 feet container, and up to 14-30 days for a 1*40 feet container for repeated orders. 
+                  </div>
+                </div>
+
+                <div>
+                  <div className='border-2 border-gold py-2 px-3 font-bold rounded-none lg:rounded-r-full'>
+                    Q: I need several certifications for my order, can you help me with it?
+                  </div>
+                  <div className='px-3 border-l-2 border-black py-2'>
+                    A: Surely! We could help you with the certifications needed. Leave us a note about it.
+                  </div>
+                </div>
+
+                <div>
+                  <div className='border-2 border-gold py-2 px-3 font-bold rounded-none lg:rounded-r-full'>
+                    Q: I need packaging that is safe for my products, how do you pack it?
+                  </div>
+                  <div className='px-3 border-l-2 border-black py-2'>
+                    A: We will discuss with you the packaging needed for your products, we have a range of single-face, master, and inner cartons, foam, and many more.
+                  </div>
+                </div>
+
+                <div>
+                  <div className='border-2 border-gold py-2 px-3 font-bold rounded-none lg:rounded-r-full'>
+                    Q: What payment method do you accept?
+                  </div>
+                  <div className='px-3 border-l-2 border-black py-2'>
+                    A: Our standard payment terms are a 50% down payment and a balance against documents or LC at Sight Irrevocable.
+                  </div>
+                </div>
+
+                <div>
+                  <div className='border-2 border-gold py-2 px-3 font-bold rounded-none lg:rounded-r-full'>
+                    Q: About the shipping method, what do you usually do?
+                  </div>
+                  <div className='px-3 border-l-2 border-black py-2'>
+                    A: We usually do Freight on Board (FOB) at Tanjung Priok Port, Jakarta, and Freight on Board (FOB) at Tanjung Mas, Semarang. If you have any special request about it, please leave us a note when you contact us.
+                  </div>
+                </div>
+
+              </div>
+            </div>
+          </div>
+        </section>
+        {/* End FAQ Section */}
 
         {/* Footer Section */}
         <footer id="contact" className='bg-black text-white'>

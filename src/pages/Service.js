@@ -1,24 +1,7 @@
 import React from 'react'
 import { Link, useParams } from 'react-router-dom';
 
-const service = [
-  {
-    nama: "Air Freight",
-    slug: "air-feight"
-  },
-  {
-    nama: "Sea Freight",
-    slug: "sea-freight"
-  },
-  {
-    nama: "Custom Brokerage",
-    slug: "custom-brokerage"
-  },
-  {
-    nama: "Inland Service",
-    slug: "inland-service"
-  },
-];
+import {service} from '../data';
 
 function Service() {
   const {slug} = useParams();
@@ -96,22 +79,8 @@ function Service() {
         {
           data.nama === "Custom Brokerage" && (
             <div>
-              <div>Custom Brokerage - Our team of experts handle all customs clearance and documentation for imports and exports.</div>
-
               <div>
-                <div>
-                  Project - Heavy EQP and Oversize - We have the expertise and equipment to handle large and heavy equipment for projects.
-                </div>
-                <div>
-                  Local Transportation - We offer local transportation services for domestic delivery and logistics.
-                </div>
-                <div>
-                  Household Removal - We provide professional and efficient household removal services.
-                </div>
-                <div>
-                  Domestic Physical Distribution and Logistics - We handle domestic logistics and distribution for businesses.
-                </div>
-`
+                Custom Brokerage Service is a service to facilitate the process of processing documents and paying import duties for imported goods. This includes taking care of the documents required by the customs and excise authorities, helping to arrange the payment of import duties and ensuring that imported goods comply with applicable rules and regulations. This service helps importers to overcome the complexity of the process of sending imported goods and ensure that they meet all the necessary requirements before the goods can enter the destination country.
               </div>
             </div>
           )
@@ -142,6 +111,26 @@ function Service() {
               </ul>
 
             </div>
+          )
+        }
+
+        {
+          data.nama === "Heavy Equipment and Oversized" && (
+            <div>Heavy Equipment and Oversized Service Project is a service provided to help move heavy equipment and larger items from one location to another. This includes heavy equipment such as industrial machinery, construction equipment, and items that are larger than standard sizes. This service involves detailed planning and coordination with various parties such as goods owners, ports, and governments to ensure that these large and heavy goods can be moved from one place to another safely and efficiently. This service also includes transportation, logistics management, and management of documents needed during the moving process.</div>
+          )
+        }
+
+        {
+          data.nama === "Service Local Transportation" && (
+            <div>
+            Service Local Transportation is a transportation service that specializes in shipping goods and objects only within the local area. This service includes the delivery of goods in one city or several cities around the area. This service offers practical and efficient solutions for customers who need to deliver goods only within certain areas without having to consider long distances. The types of goods sent through this service vary, ranging from personal items, merchandise, to household items.
+            </div>
+          )
+        }
+
+        {
+          data.nama === "Service Household Removal" && (
+            <div>Service Household Removal is a house moving service that assists customers in moving their household items from one location to another. This service covers various stages such as packing, transporting and rearranging items in a new home. This service provides practical and efficient solutions for customers who want to move their household items without spending a lot of time and effort. This service serves relocations within one city, regional area to country.</div>
           )
         }
       </div>

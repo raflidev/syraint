@@ -1,31 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { Link, useParams  } from 'react-router-dom'
 
-
-import { product } from '../data';
-
-const provide = [
-  {
-    nama: "Agriculture",
-    slug: "agriculture"
-  },
-  {
-    nama: "Steel",
-    slug: "steel"
-  },
-  {
-    nama: "Coal",
-    slug: "coal"
-  },
-  {
-    nama: "Biodiesel",
-    slug: "biodiesel"
-  },
-  {
-    nama: "Wood Furniture",
-    slug: "wood-furniture"
-  },
-];
+import { product, provide } from '../data';
 
 function Product() {
   const [search, setSearch] = useState('');
@@ -51,7 +27,7 @@ function Product() {
         </div>
       
       <div className="text-black px-3 md:px-28">
-        <div className="grid grid-cols-1 md:grid-cols-5 gap-4 divide-y-2 divide-x-0 md:divide-y-0 md:divide-x-2 divide-black mt-2">
+        <div className="grid grid-cols-1 md:grid-cols-6 gap-4 divide-y-2 divide-x-0 md:divide-y-0 md:divide-x-2 divide-black mt-2">
           { 
             provide.map((item, index) => (
               <div key={index} onClick={() => setSearch(item.slug)} className="text-center pt-2 md:pt-0 font-medium hover:underline hover:text-gold hover:cursor-pointer">
