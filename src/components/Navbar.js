@@ -24,6 +24,7 @@ export default function Navbar() {
                 <Link to="why-us" className='cursor-pointer hover:text-gold' activeClass="text-gold font-bold" spy={true} smooth={true} duration={200} offset={-100}>Why Choose Us</Link>
                 <Link to="team" className='cursor-pointer hover:text-gold' activeClass="text-gold font-bold" spy={true} smooth={true} duration={200} offset={100}>Team</Link>
                 <Link to="contact" className='cursor-pointer hover:text-gold' activeClass="text-gold font-bold" spy={true} smooth={true} duration={200} offset={-100}>Contact Us</Link>
+                {/* <Link to="contact" className='bg-gold p-2 rounded cursor-pointer text-black hover:bg-yellow-500' activeClass="text-gold font-bold" spy={true} smooth={true} duration={200} offset={-100}>Manual Order</Link> */}
             </div>
             <div className='inline md:hidden' onClick={() => setShow(!show)}>
                 <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
