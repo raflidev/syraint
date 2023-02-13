@@ -1,13 +1,10 @@
 import React, { useEffect, useState } from 'react'
-import { Swiper, SwiperSlide } from "swiper/react";
-// import required modules
-import { Pagination, Navigation } from "swiper";
 
-import "swiper/css";
-import "swiper/css/pagination";
-import "swiper/css/navigation"; 
 import {product} from '../data';
 import { Link, useParams } from 'react-router-dom';
+
+import "react-responsive-carousel/lib/styles/carousel.min.css"; 
+import { Carousel } from 'react-responsive-carousel';
 
 function ProductId() {
   const [spek, setSpek] = useState(0);
@@ -19,7 +16,7 @@ function ProductId() {
   }, [])
   return (
     <div>
-      <div className='py-3 mb-10 bg-gold px-10'>
+      <div className='py-3 mb-10 bg-gold px-5 lg:px-10'>
         <Link to={`/product/${data['slug']}`} className="flex space-x-2 items-center hover:underline">
           <div>
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
@@ -31,38 +28,21 @@ function ProductId() {
           </div>
         </Link>
       </div>
-      <div className="flex">
-        <div className="w-7/12">
-          <div>
-            <Swiper
-              pagination={{
-                type: "fraction",
-              }}
-              navigation={true}
-              modules={[Pagination, Navigation]}
-              className="text-gold"
-            >
-            {
-              data['gambar'].map((item, index) => (
-                <SwiperSlide key={index}>
-                  <div className='flex h-full'>
-                    <div className="m-auto">
-                      <div className='w-full'>
-                        <div className="flex justify-center">
-                          <img src={item} className="w-full px-10" alt="" />
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </SwiperSlide>
-              ))
-            }
-            </Swiper>
+      <div className="block lg:flex">
+        <div className="w-full lg:w-7/12">
+          <div className='flex justify-center'>
+            <Carousel dynamicHeight={true} emulateTouch={true} infiniteLoop={true} centerMode={true} autoPlay={true} className="w-full lg:w-11/12">
+              {
+                data['gambar'].map((item, index) => (
+                      <img src={item} key={index} className="" alt="" />
+                ))
+              }
+            </Carousel>
           </div>
         </div>
         {
           data['slug'] === 'wood-furniture' && (
-            <div className="w-5/12 px-10 space-y-3">
+            <div className="w-full lg:w-5/12 px-10 space-y-3">
               <div className='text-2xl font-medium'>{data['nama']}</div>
               <div className='text-xl'>{data['tipe']}</div>
               <div className='font-bold text-3xl'>${data['harga'][spek]}</div>
@@ -138,7 +118,7 @@ function ProductId() {
 
         {
           data['slug'] !== "wood-furniture" && (
-            <div className="w-5/12 px-10 space-y-3">
+            <div className="w-full lg:w-5/12 px-10 space-y-3">
               <div className='text-2xl font-medium'>
                 {data['nama']}
               </div>

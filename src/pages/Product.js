@@ -1,5 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { Link, useParams  } from 'react-router-dom'
+import { LazyLoadImage } from "react-lazy-load-image-component";
+import 'react-lazy-load-image-component/src/effects/blur.css';
 
 import { product, provide } from '../data';
 
@@ -44,7 +46,11 @@ function Product() {
                 {
                   item.slug == 'wood-furniture' && (
                     <Link to={`/product/${item.slug}/${item.id}`} key={index} className=" pb-2 rounded duration-500 hover:cursor-pointer">
-                      <img src={item.gambar[0]} className='w-full rounded' alt="asd"/>
+                      <LazyLoadImage src={item.gambar[0]}
+                        alt={`Image ${item.nama}`}
+                        effect="blur"
+                        className='w-full rounded'
+                      />
                       <div className='p-2 space-y-1'>
                         <div className='text-xs font-medium'>
                           Category: <span className='underline'>{item.tipe}</span>
@@ -66,7 +72,11 @@ function Product() {
                 {
                   item.slug != 'wood-furniture' && (
                     <Link to={`/product/${item.slug}/${item.id}`} key={index} className=" pb-2 rounded duration-500 hover:cursor-pointer hover:underline">
-                      <img src={item.gambar} className='w-full rounded' alt="asd"/>
+                      <LazyLoadImage src={item.gambar}
+                          alt={`Image ${item.nama}`}
+                          effect="blur"
+                          className='w-full rounded'
+                      />
                       <div className='p-2 space-y-1'>
                         <div className='text-sm font-semibold'>
                           {item.nama}

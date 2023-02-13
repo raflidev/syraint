@@ -1,16 +1,12 @@
-import React from 'react'
+import React, { useState } from 'react'
 import Navbar from '../components/Navbar'
 import jumbotron from "../images/jumbotron.jpg"
-import { Swiper, SwiperSlide } from "swiper/react";
-// import required modules
-import { Pagination, Navigation } from "swiper";
 import {Link} from "react-router-dom"
 
-import {people} from "../data"
+import "react-responsive-carousel/lib/styles/carousel.min.css"; 
+import { Carousel } from 'react-responsive-carousel';
 
-import "swiper/css";
-import "swiper/css/pagination";
-import "swiper/css/navigation"; 
+import {people} from "../data"
 
 import coal1 from "../images/coal/1.png";
 import coal2 from "../images/coal/2.png";
@@ -101,6 +97,11 @@ const provide = [
 ];
 
 function Home() {
+  const [nama, setNama] = useState("");
+  const [company, setCompany] = useState("");
+  const [id, setId] = useState("");
+  const [phone, setPhone] = useState("");
+  const [address, setAddress] = useState("");
   return (
     <div className='font-montserrat'>
         <Navbar/>
@@ -204,31 +205,14 @@ function Home() {
         {/* Our Client Section */}
         <section className='px-3 md:px-16 py-28'>
           <div className='uppercase font-bold text-3xl text-center mb-20'>Our Client</div>
-          <div>
-          <Swiper
-            pagination={{
-              type: "fraction",
-            }}
-            navigation={true}
-            modules={[Pagination, Navigation]}
-            className="text-gold"
-          >
-          {
-            gambar.map((item, index) => (
-              <SwiperSlide key={index}>
-                <div className='flex h-full'>
-                  <div className="m-auto">
-                    <div className='w-full'>
-                      <div className="flex justify-center">
-                        <img src={item} className="w-full md:w-1/2" alt="" />
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </SwiperSlide>
-            ))
-          }
-          </Swiper>
+          <div className='flex justify-center'>
+            <Carousel dynamicHeight={true} emulateTouch={true} infiniteLoop={true} centerMode={true} autoPlay={true} className="w-full lg:w-1/2">
+              {
+                gambar.map((item, index) => (
+                      <img src={item} key={index} className="w-full lg:w-1/2" alt="" />
+                ))
+              }
+            </Carousel>
           </div>
         </section>
         {/* End Our Client Section */}
@@ -238,7 +222,7 @@ function Home() {
         <div className=' text-black'>
           <h1 className='text-center uppercase text-3xl font-bold py-3'>Our Team</h1>
           <div className="w-5/6 mx-auto py-10">
-            <div className="grid grid-cols-1 space-y-4 lg:space-y-0 lg:grid-cols-3 gap-5 items-start">
+            <div className="grid grid-cols-1 space-y-8 lg:space-y-0 lg:grid-cols-3 gap-5 items-start">
               { people.map((item, index) => (
                 <div>
                   <img src={item.gambar} className='mx-auto w-48 h-48 bg-red-100 rounded-full mb-5' alt="" srcset="" />
@@ -254,13 +238,6 @@ function Home() {
                           </a>
                         ))
                       }
-  {/*                     
-                      <a href="https://www.facebook.com/yudyhadiwibowo/" target="_blank" rel="noreferrer">
-                        <img src={facebook} className="text-white hover:bg-orange-700 p-1 hover:rounded hover:cursor-pointer" alt="" />
-                      </a>
-                      <a href="http://www.instagram.com/yudyhadi" target="_blank" rel="noreferrer">
-                        <img src={instagram} className="text-white hover:bg-orange-700 p-1 hover:rounded hover:cursor-pointer" alt="" />
-                      </a> */}
                     </div>
                   </div>
                 </div>
@@ -355,6 +332,146 @@ function Home() {
           </div>
         </section>
         {/* End FAQ Section */}
+
+        {/* Order Section */}
+        <section id="order" className='min-h-screen bg-white px-3 md:px-16 py-28'>
+          <div>
+            <h1 className='text-center uppercase text-3xl font-bold py-3'>Form Manual Order</h1>
+            <div className='flex justify-center mt-10'>
+              <div className='w-full px-3 lg:px-0 lg:w-4/6 space-y-8'>
+                <div className='block lg:flex space-x-0 space-y-8 lg:space-y-0 lg:space-x-5'>
+                  <div className='w-full lg:w-1/2'>
+                    <label className='block text-gray-700 text-sm font-bold mb-2' htmlFor='name'>
+                      Order Name*
+                    </label>
+                    <input
+                      className='shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline'
+                      id='name'
+                      type='text'
+                      placeholder='Order Name'
+                    />
+                  </div>
+                  <div className='w-full lg:w-1/2'>
+                    <label className='block text-gray-700 text-sm font-bold mb-2' htmlFor='company'>
+                      Company Name*
+                    </label>
+                    <input
+                      className='shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline'
+                      id='name'
+                      type='text'
+                      placeholder='Company Name'
+                    />
+                  </div>
+                </div>
+
+                <div className='block lg:flex space-x-0 space-y-8 lg:space-y-0 lg:space-x-5'>
+                  <div className='w-full lg:w-1/2'>
+                    <label className='block text-gray-700 text-sm font-bold mb-2' htmlFor='passportID'>
+                      ID Passport Number / NIK*
+                    </label>
+                    <input
+                      className='shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline'
+                      id='name'
+                      type='text'
+                      placeholder='ID Passport Number / NIK'
+                    />
+                  </div>
+                  <div className='w-full lg:w-1/2'>
+                    <label className='block text-gray-700 text-sm font-bold mb-2' htmlFor='name'>
+                      Phone / Whatsapp Number*
+                    </label>
+                    <input
+                      className='shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline'
+                      id='name'
+                      type='text'
+                      placeholder='Phone / Whatsapp Number'
+                    />
+                  </div>
+                </div>
+                
+                <div>
+                  <label className='block text-gray-700 text-sm font-bold mb-2' htmlFor='address'>
+                      Full Address*
+                  </label>
+                  <textarea name="address" id="address" className='shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline'  rows="10">
+                  </textarea>
+                </div>
+
+                <div className='block lg:flex space-x-0 space-y-8 lg:space-y-0 lg:space-x-5'>
+                  <div className='w-full lg:w-1/2'>
+                    <label className='block text-gray-700 text-sm font-bold mb-2' htmlFor='passportID'>
+                      Product Category*
+                    </label>
+                    <input
+                      className='shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline'
+                      id='name'
+                      type='text'
+                      placeholder='Product Category'
+                    />
+                  </div>
+                  <div className='w-full lg:w-1/2'>
+                    <label className='block text-gray-700 text-sm font-bold mb-2' htmlFor='name'>
+                      Product Quantity (Ton)*
+                    </label>
+                    <input
+                      className='shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline'
+                      id='name'
+                      type='text'
+                      placeholder='Product Quantity'
+                    />
+                  </div>
+                </div>
+
+                <div className='block lg:flex space-x-0 space-y-8 lg:space-y-0 lg:space-x-5'>
+                  <div className='w-full lg:w-1/2'>
+                    <label className='block text-gray-700 text-sm font-bold mb-2' htmlFor='passportID'>
+                      Spesification*
+                    </label>
+                    <input
+                      className='shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline'
+                      id='name'
+                      type='text'
+                      placeholder='Spesification'
+                    />
+                  </div>
+                  <div className='w-full lg:w-1/2'>
+                    <label className='block text-gray-700 text-sm font-bold mb-2' htmlFor='name'>
+                      Destination / Port*
+                    </label>
+                    <input
+                      className='shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline'
+                      id='name'
+                      type='text'
+                      placeholder='Destination / Port'
+                    />
+                  </div>
+                </div>
+
+                <div className='flex justify-center'>
+                  <div className='w-full lg:w-auto'>
+                      <label className='block text-gray-700 text-sm font-bold mb-2' htmlFor='name'>
+                        Payment Method*
+                      </label>
+                      <div className='space-x-4'>
+                        <input type="radio" name="payment" value="L/C" />
+                        <label>L/C</label>
+                      </div>
+                      <div className='space-x-4'>
+                        <input type="radio" name="payment" value="TT/CC" />
+                        <label>TT/CC</label>
+                      </div>
+                  </div>
+
+                </div>
+
+                <div className='flex justify-center'>
+                  <button type='submit' className='py-2 px-10 font-medium rounded border border-gold hover:bg-gold hover:text-black'>Submit</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        {/* End Order Section */}
 
         {/* Footer Section */}
         <footer id="contact" className='bg-black text-white'>
