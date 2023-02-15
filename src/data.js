@@ -1908,11 +1908,6 @@ export const people = [
         url: 'https://www.linkedin.com/in/yudyhadiwibowo/'
       },
       {
-        nama: 'facebook',
-        icon: facebook,
-        url: 'https://www.facebook.com/yudyhadiwibowo/',
-      },
-      {
         nama: 'instagram',
         icon: instagram,
         url: 'http://www.instagram.com/yudyhadi'
