@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import Navbar from '../components/Navbar'
 import jumbotron from "../images/jumbotron.jpg"
+import servicebg from "../images/service.jpg"
 import {Link} from "react-router-dom"
 
 import "react-responsive-carousel/lib/styles/carousel.min.css"; 
@@ -102,10 +103,39 @@ function Home() {
   const [id, setId] = useState("");
   const [phone, setPhone] = useState("");
   const [address, setAddress] = useState("");
+  const [product, setProduct] = useState("");
+  const [quantity, setQuantity] = useState("");
+  const [spec, setSpec] = useState("");
+  const [destination, setDestination] = useState("")
+  const [payment, setPayment] = useState("");
+
+  const submitHandler = (e) => {
+    e.preventDefault();
+    const data = {
+      nama,
+      company,
+      id,
+      phone,
+      address,
+      product,
+      quantity,
+      spec,
+      destination,
+      payment
+    }
+    if(payment === ""){
+      alert("Please choose payment method")
+    }else{
+      console.log(data);
+      var url = `https://api.whatsapp.com/send/?phone=6281297108565&text=Name: ${data.nama} | Company: ${data.company} | ID: ${data.id} | Phone: ${data.phone} | Address: ${data.address} | Product: ${data.product} | Quantity: ${data.quantity} | Specification: ${data.spec} | Destination: ${data.destination} | Payment: ${data.payment}`;
+      window.open(url, '_blank', 'noreferrer')
+    }
+  }
+
   return (
     <div className='font-montserrat'>
         <Navbar/>
-        <section id="home" className='bg-black h-[35rem] bg-cover bg-center' style={{backgroundImage: `url(${jumbotron})`}}>
+        <section id="home" className='bg-black h-[35rem] bg-cover bg-center' style={{backgroundImage: `url(${servicebg})`}}>
             <div className='flex h-full text-white bg-black/40'>
                 <div className='m-auto'>
                     <div className='flex justify-center'>
@@ -335,7 +365,7 @@ function Home() {
 
         {/* Order Section */}
         <section id="order" className='min-h-screen bg-white px-3 md:px-16 py-28'>
-          <div>
+          <form onSubmit={submitHandler}>
             <h1 className='text-center uppercase text-3xl font-bold py-3'>Form Manual Order</h1>
             <div className='flex justify-center mt-10'>
               <div className='w-full px-3 lg:px-0 lg:w-4/6 space-y-8'>
@@ -347,8 +377,11 @@ function Home() {
                     <input
                       className='shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline'
                       id='name'
+                      value={nama}
+                      onChange={(e) => setNama(e.target.value)}
                       type='text'
                       placeholder='Order Name'
+                      required
                     />
                   </div>
                   <div className='w-full lg:w-1/2'>
@@ -358,8 +391,11 @@ function Home() {
                     <input
                       className='shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline'
                       id='name'
+                      value={company}
                       type='text'
+                      onChange={(e) => setCompany(e.target.value)}
                       placeholder='Company Name'
+                      required
                     />
                   </div>
                 </div>
@@ -372,8 +408,11 @@ function Home() {
                     <input
                       className='shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline'
                       id='name'
+                      value={id}
+                      onChange={(e) => setId(e.target.value)}
                       type='text'
                       placeholder='ID Passport Number / NIK'
+                      required
                     />
                   </div>
                   <div className='w-full lg:w-1/2'>
@@ -383,8 +422,11 @@ function Home() {
                     <input
                       className='shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline'
                       id='name'
+                      value={phone}
                       type='text'
+                      onChange={(e) => setPhone(e.target.value)}
                       placeholder='Phone / Whatsapp Number'
+                      required
                     />
                   </div>
                 </div>
@@ -393,8 +435,7 @@ function Home() {
                   <label className='block text-gray-700 text-sm font-bold mb-2' htmlFor='address'>
                       Full Address*
                   </label>
-                  <textarea name="address" id="address" className='shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline'  rows="10">
-                  </textarea>
+                  <textarea value={address} onChange={(e) => setAddress(e.target.value)}  name="address" id="address" className='shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline'  rows="10" />
                 </div>
 
                 <div className='block lg:flex space-x-0 space-y-8 lg:space-y-0 lg:space-x-5'>
@@ -405,8 +446,11 @@ function Home() {
                     <input
                       className='shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline'
                       id='name'
+                      value={product}
+                      onChange={(e) => setProduct(e.target.value)}
                       type='text'
                       placeholder='Product Category'
+                      required
                     />
                   </div>
                   <div className='w-full lg:w-1/2'>
@@ -416,8 +460,11 @@ function Home() {
                     <input
                       className='shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline'
                       id='name'
+                      value={quantity}
+                      onChange={(e) => setQuantity(e.target.value)}
                       type='text'
                       placeholder='Product Quantity'
+                      required
                     />
                   </div>
                 </div>
@@ -430,8 +477,11 @@ function Home() {
                     <input
                       className='shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline'
                       id='name'
+                      value={spec}
+                      onChange={(e) => setSpec(e.target.value)}
                       type='text'
                       placeholder='Spesification'
+                      required
                     />
                   </div>
                   <div className='w-full lg:w-1/2'>
@@ -441,8 +491,11 @@ function Home() {
                     <input
                       className='shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline'
                       id='name'
+                      value={destination}
+                      onChange={(e) => setDestination(e.target.value)}
                       type='text'
                       placeholder='Destination / Port'
+                      required
                     />
                   </div>
                 </div>
@@ -453,11 +506,11 @@ function Home() {
                         Payment Method*
                       </label>
                       <div className='space-x-4'>
-                        <input type="radio" name="payment" value="L/C" />
+                        <input type="radio" name="payment" value="L/C" onClick={() => setPayment("L/C")} />
                         <label>L/C</label>
                       </div>
                       <div className='space-x-4'>
-                        <input type="radio" name="payment" value="TT/CC" />
+                        <input type="radio" name="payment" value="TT/CC" onClick={() => setPayment("TT/CC")} />
                         <label>TT/CC</label>
                       </div>
                   </div>
@@ -469,7 +522,7 @@ function Home() {
                 </div>
               </div>
             </div>
-          </div>
+          </form>
         </section>
         {/* End Order Section */}
 

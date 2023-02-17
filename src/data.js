@@ -620,6 +620,9 @@ import diesel1 from "./images/biodiesel/1.jpg"
 import diesel2 from "./images/biodiesel/2.png"
 import diesel3 from "./images/biodiesel/3.jpg"
 
+import nanas from "./images/agriculture/nanas.jpg"
+import pisang from "./images/agriculture/pisang.jpg"
+
 export const service = [
   {
     nama: "Air Freight",
@@ -1888,6 +1891,20 @@ export const product = [
     Biodiesel B100 has several advantages, such as having lower emissions than fossil fuels and producing less CO2. The use of B100 biodiesel can also help reduce dependence on fossil fuels and help improve air quality.`,
     slug: 'biodiesel'
    },
+   {
+    id: '137',
+    nama: 'Cavendish Banana',
+    deskripsi: "Cavendish bananas are a very popular type of banana all over the world. It is one of several types of bananas that are commonly found in grocery stores and are mass-produced for the export market. Cavendish bananas have soft skin and sweet, tender flesh. It's often used in smoothies, fried bananas, and a key ingredient in some cakes and pastries.",
+    gambar: [pisang],
+    slug: 'argiculture'
+   },
+   {
+    id: '138',
+    nama: 'Pineapple',
+    deskripsi: "Pineapple is a fleshy fruit that comes from a plant called Ananas comosus. This fruit has a sweet and sour taste, often used in cooking or consumed as a snack. Pineapple has many health benefits, such as containing the enzyme bromelain which helps break down protein, contains fiber and vitamin C which are good for the digestive tract, and helps reduce the risk of certain diseases.",
+    gambar: [nanas],
+    slug: 'argiculture'
+   }
 
 
    
