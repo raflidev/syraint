@@ -623,6 +623,19 @@ import diesel3 from "./images/biodiesel/3.jpg"
 import nanas from "./images/agriculture/nanas.jpg"
 import pisang from "./images/agriculture/pisang.jpg"
 
+import rempah1 from "./images/rempah/1.png"
+import rempah2 from "./images/rempah/2.jpeg"
+import rempah3 from "./images/rempah/3.jpeg"
+import rempah4 from "./images/rempah/4.png"
+import rempah5 from "./images/rempah/5.png"
+import rempah6 from "./images/rempah/6.jpeg"
+import rempah7 from "./images/rempah/7.png"
+import rempah8 from "./images/rempah/8.png"
+import rempah9 from "./images/rempah/9.png"
+import rempah10 from "./images/rempah/10.png"
+import rempah11 from "./images/rempah/11.png"
+import rempah12 from "./images/rempah/12.jpg"
+
 export const service = [
   {
     nama: "Air Freight",
@@ -664,12 +677,8 @@ export const provide = [
     slug: "steel"
   },
   {
-    nama: "Coal",
-    slug: "coal"
-  },
-  {
-    nama: "Biodiesel",
-    slug: "biodiesel"
+    nama: "Mining, Oil and Gas",
+    slug: "mining-oil-and-gas"
   },
   {
     nama: "Wood Furniture",
@@ -678,6 +687,10 @@ export const provide = [
   {
     nama: "Briquette",
     slug: "briquette"
+  },
+  {
+    nama: "Herbs and Spices",
+    slug: "herbs-and-spices"
   }
 ];
 
@@ -1845,7 +1858,7 @@ export const product = [
     deskripsi: `We can meet domestic coal needs originating from Kalimantan, Sulawesi to Sumatra and distribute them to consumers in all regions and foreign countries. We can meet all coal needs with specifications GAR 3200 - 8000 by land, sea and bunkers for industry with professional services. We use the payment system "L/C & CASH" which ensures transaction security for customers.
 
     We always try to provide the best service and maintain the quality of the products we sell to meet customer needs. We really value customer satisfaction and try to meet all their needs in terms of coal. We understand the importance of coal for various industries and strive to provide the most effective and efficient solutions.`,
-    slug: 'coal'
+    slug: 'mining-oil-and-gas'
    },
    {
     id: '132',
@@ -1870,7 +1883,7 @@ export const product = [
     Biodiesel B20 has several advantages compared to ordinary diesel fuel, such as having lower emissions and producing less CO2. The use of B20 biodiesel can also help reduce dependence on fossil fuels and help improve air quality.
     
     Use of B20 biodiesel requires a compatible vehicle, and usually requires no changes to the engine or fuel system. In some cases, B20 biodiesel can improve fuel efficiency and extend engine life.`,
-    slug: 'biodiesel'
+    slug: 'mining-oil-and-gas'
    },
    {
     id: '135',
@@ -1881,7 +1894,7 @@ export const product = [
     Biodiesel B30 has several advantages such as having lower emissions and producing less CO2. The use of B30 biodiesel can also help reduce dependence on fossil fuels and help improve air quality.
     
     Use of B30 biodiesel requires a compatible vehicle, and usually requires no changes to the engine or fuel system. In some cases, B30 biodiesel can improve fuel efficiency and extend engine life.`,
-    slug: 'biodiesel'
+    slug: 'mining-oil-and-gas'
    },
    {
     id: '136',
@@ -1889,7 +1902,7 @@ export const product = [
     gambar: [diesel3],
     deskripsi: `Biodiesel B100 is a biofuel consisting of 100% fatty acid methyl esters (FAME) and does not contain fossil fuels. Biodiesel B100 can be obtained through the esterification/transesterification process from vegetable oils such as palm, corn and canola oils, or animal fats such as beef tallow.
     Biodiesel B100 has several advantages, such as having lower emissions than fossil fuels and producing less CO2. The use of B100 biodiesel can also help reduce dependence on fossil fuels and help improve air quality.`,
-    slug: 'biodiesel'
+    slug: 'mining-oil-and-gas'
    },
    {
     id: '137',
@@ -1904,7 +1917,92 @@ export const product = [
     deskripsi: "Pineapple is a fleshy fruit that comes from a plant called Ananas comosus. This fruit has a sweet and sour taste, often used in cooking or consumed as a snack. Pineapple has many health benefits, such as containing the enzyme bromelain which helps break down protein, contains fiber and vitamin C which are good for the digestive tract, and helps reduce the risk of certain diseases.",
     gambar: [nanas],
     slug: 'argiculture'
-   }
+   },
+   {
+    id: '139',
+    nama: 'White Pepper',
+    deskripsi: "White pepper, or white peppercorns, has a wide range of uses in culinary, medicinal, and cosmetic fields. In the culinary field, white pepper is often used as a seasoning in cooking, especially in dishes based on meat, fish, chicken, and vegetables. White pepper is also often used in the manufacture of sauces, soups and other spices. In the field of medicine, white pepper is known to have anti-inflammatory and analgesic properties that can help relieve inflammation and pain. White pepper is also known to help boost the digestive system and stimulate the production of digestive enzymes, as well as help fight infections and prevent bacterial growth. In the field of cosmetics, white pepper is often used as an additive to skin and hair care products, as its antioxidant and antiseptic content can help treat and protect the skin and hair from damage. In addition, white pepper is also known as a traditional medicinal ingredient that can help with health problems such as flu, headaches, and colds.",
+    gambar: [rempah1],
+    slug: 'herbs-and-spices'
+   },
+   {
+    id: '140',
+    nama: 'Turmetric',
+    deskripsi: "Turmeric is a natural ingredient that is often used as a spice in cooking and traditional medicine ingredients. In the culinary field, turmeric is often used as an additive to dishes based on meat, chicken, fish, vegetables, and rice. Turmeric is also often used as a natural coloring agent in foods, such as yellow rice and traditional pastries. In the field of medicine, turmeric is known to have anti-inflammatory and antioxidant properties that can help relieve inflammation, prevent the growth of cancer cells, and strengthen the immune system. In addition, turmeric is also known to help with health problems such as arthritis, high cholesterol, digestive problems, and respiratory disorders. Some studies even show that turmeric can help improve brain function and improve mental health. In traditional Indian medicine, turmeric is also used as a medicinal ingredient to treat health problems such as diabetes, allergies, asthma, and wounds. ",
+    gambar: [rempah2],
+    slug: 'herbs-and-spices'
+   },
+   {
+    id: '141',
+    nama: 'Cardamom',
+    deskripsi: "Cardamom is a spice that is widely used in culinary, medicine, and cosmetic fields. In the culinary field, cardamom is often used as an additive to dishes based on meat, chicken, fish, vegetables, and traditional pastries. Cardamom is also often used as a base in beverages such as tea, coffee, and chocolate. In the field of medicine, cardamom is known to have antimicrobial and anti-inflammatory properties that can help fight infections and relieve inflammation. Cardamom is also known to help improve digestive function and relieve digestive problems such as nausea, vomiting, and stomach disorders. In addition, cardamom can also help relieve stress and improve mental health. In folk medicine, cardamom is also used as a remedy to treat health problems such as headaches, toothaches, and fever. In the field of cosmetics, cardamom is often used as an additive to skin and hair care products, as its antioxidant and antiseptic content can help protect the skin and hair from damage.",
+    gambar: [rempah3],
+    slug: 'herbs-and-spices'
+   },
+   {
+    id: '142',
+    nama: 'Coriander',
+    deskripsi: "Coriander is a kitchen spice that not only gives a distinctive flavor to dishes, but also has health benefits such as helping to relieve digestive problems, having anti-inflammatory and antioxidant properties, helping to improve sleep quality, and can help lower blood sugar levels in diabetics. Thus, coriander can be a natural ingredient beneficial to the health of the human body.",
+    gambar: [rempah4],
+    slug: 'herbs-and-spices'
+   },
+   {
+    id: '143',
+    nama: 'Nutmeg',
+    deskripsi: "Nutmeg is a spice that is often used as an additive in various types of dishes, especially in pastry dishes. In addition to providing a distinctive aroma and taste to dishes, nutmeg also has health benefits. Some of the health benefits associated with nutmeg consumption include helping to reduce the risk of developing cardiovascular diseases, boosting the immune system, overcoming digestive disorders such as diarrhea and nausea, and can help improve sleep quality. In addition, nutmeg is also known to contain antioxidant compounds that play a role in protecting body cells from damage due to free radicals. Thus, the use of nutmeg in cooking can not only provide good taste, but can also provide health benefits for the body.",
+    gambar: [rempah5],
+    slug: 'herbs-and-spices'
+   },
+   {
+    id: '144',
+    nama: 'Black Pepper',
+    deskripsi: "Pepper or Black Pepper is one of the types of spices that are often used in cooking and traditional medicine. This spice contains active compounds such as piperine, alkaloids, and flavonoids that provide anti-inflammatory, analgesic, and antioxidant effects on the body. The use of pepper in traditional medicine aims to overcome various types of health disorders such as abdominal pain, fever, and flu. In addition, pepper is also often used as an additional ingredient in cooking because it gives a distinctive taste and enhances the taste of food. Pepper can be a good option for adding nutrients and health benefits to foods and drinks consumed daily.",
+    gambar: [rempah6],
+    slug: 'herbs-and-spices'
+   },
+   {
+    id: '145',
+    nama: 'Cinnamon',
+    deskripsi: "Cinnamon is a type of spice that is often used as an additive in cooking, cakes, drinks, and traditional medicine. Cinnamon contains active compounds such as coumarin, cinnamaldehyde, and eugenol which have antioxidant, anti-inflammatory, and antimicrobial properties. Some of the health benefits associated with cinnamon consumption include helping to regulate blood sugar levels in diabetics, increasing good cholesterol, reducing the risk of heart disease, and can help overcome digestive problems and respiratory infections. With its distinctive taste and health benefits, cinnamon can be a good option as an additive in different types of foods and drinks.",
+    gambar: [rempah7],
+    slug: 'herbs-and-spices'
+   },
+   {
+    id: '146',
+    nama: 'Ginger',
+    deskripsi: "Ginger is a spice that is often used in various cuisines and beverages, as well as used as an ingredient in traditional medicine in many countries. Ginger has very diverse health benefits, among which it helps relieve nausea and vomiting in pregnant women, helps with digestive problems, improves blood circulation, and has anti-inflammatory and antioxidant properties that can help protect the body from free radical damage",
+    gambar: [rempah8],
+    slug: 'herbs-and-spices'
+   },
+   {
+    id: '147',
+    nama: 'Galangal',
+    deskripsi: "Galangal or Alpinia galanga is a type of spice that is often used in traditional cooking and medicine. This spice contains active compounds such as flavonoids, essential oils, and gingerol that provide anti-inflammatory, analgesic, and antioxidant effects on the body. The use of galangal in traditional medicine aims to overcome various types of health disorders such as headaches, abdominal pain, indigestion, and respiratory infections. In addition, galangal is also often used as an additive in cooking because it gives a fragrant aroma and a distinctive taste to food. Galangal can be a good option for adding nutrients and health benefits to foods and drinks consumed daily.",
+    gambar: [rempah9],
+    slug: 'herbs-and-spices'
+   },
+   {
+    id: '148',
+    nama: 'Cloves',
+    deskripsi: "Cloves are the dried flowers of the clove tree, and have many uses in various fields, including medicine, culinary, and cosmetics. In the field of medicine, cloves are known to have analgesic properties that can help relieve toothache and headaches, as well as antiseptic properties that can help fight infections and prevent the development of bacteria. Cloves are also known to help boost the immune system, as well as help improve digestion and overcome stomach problems such as bloating and nausea. In the culinary field, cloves are often used as a seasoning in cooking, especially in meat-based dishes, spices, and drinks such as tea. In the field of cosmetics, cloves are often used as an additive to skin and hair care products, as their antiseptic and antioxidant content can help treat and protect the skin and hair from damage. Finally, cloves are also often used in the perfume industry, due to their distinctive and refreshing aroma.",
+    gambar: [rempah10],
+    slug: 'herbs-and-spices'
+   },
+   {
+    id: '149',
+    nama: 'Cumin',
+    deskripsi: "Cumin is a spice commonly used in traditional medicine and cuisine. This spice contains active compounds such as cuminaldehyde, terpenes, and flavonoids that provide anti-inflammatory, antimicrobial, and antidiabetic effects on the body. The use of cumin in traditional medicine aims to overcome various types of health disorders such as abdominal pain, digestive problems, and respiratory problems. In addition, cumin is also often used as an additive in cooking because it gives food a distinctive taste and fragrant aroma. Cumin is commonly used as an additional seasoning in various types of dishes such as curries, stir-fries, and sauces. Cumin is also often used in the manufacture of breads, cakes, and beverages such as tea and coffee. Cumin can be a good option for adding nutrients and health benefits to foods and drinks consumed daily.",
+    gambar: [rempah11],
+    slug: 'herbs-and-spices'
+   },
+   {
+    id: '150',
+    nama: 'Vanilla',
+    deskripsi: "Vanilla is a food ingredient often used in cooking and pastries to give it a distinctive aroma and taste. In addition, vanilla also has several health benefits, such as containing antioxidants that help protect body cells from damage due to free radicals, improving heart health by lowering cholesterol and triglycerides in the blood, and having anti-inflammatory properties that can help reduce inflammation in the body. In addition, vanilla is also used in the cosmetic and pharmaceutical industries to give aroma and flavor to their products. Thus, vanilla has many uses in various fields and is essential for improving the taste and aroma qualities of food as well as providing health benefits for the body.",
+    gambar: [rempah12],
+    slug: 'herbs-and-spices'
+   },
+   
 
 
    

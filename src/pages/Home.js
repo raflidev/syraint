@@ -45,12 +45,8 @@ const provide = [
         slug: "steel"
       },
       {
-        nama: "Coal",
-        slug: "coal"
-      },
-      {
-        nama: "Biodiesel",
-        slug: "biodiesel"
+        nama: "Mining, Oil and Gas",
+        slug: "mining-oil-and-gas"
       },
       {
         nama: "Wood Furniture",
@@ -59,6 +55,10 @@ const provide = [
       {
         nama: "Briquette",
         slug: "briquette"
+      },
+      {
+        nama: "Herbs and Spices",
+        slug: "herbs-and-spices"
       }
     ]
   },
