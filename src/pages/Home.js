@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 import Navbar from '../components/Navbar'
 import jumbotron from "../images/jumbotron.jpg"
 import servicebg from "../images/service.jpg"
+import servicebg2 from "../images/service2.jpg"
 import {Link} from "react-router-dom"
 
 import "react-responsive-carousel/lib/styles/carousel.min.css"; 
@@ -35,6 +36,7 @@ const gambar = [coal1, coal2, coal3, coal4, coal5, wood1, wood2, wood3, wood4, w
 const provide = [
   {
     nama: "Product",
+    bg: jumbotron,
     sub:[
       {
         nama: "Agriculture",
@@ -64,6 +66,7 @@ const provide = [
   },
   {
     nama: "Service",
+    bg: servicebg2,
     sub: [
       {
         nama: "Air Freight",
@@ -159,7 +162,7 @@ function Home() {
                     <div className='w-full xl:w-4/6 grid grid-cols-1 gap-10 space-y-10'>
                         {provide.map((item, index) => (
                             <div key={index} className="w-full" id={`${item.nama}s`}>
-                                <div className='bg-black w-full h-full py-5 lg:py-0 lg:h-[20rem] bg-cover rounded-lg bg-center' style={{backgroundImage: `url(${jumbotron})`}}>
+                                <div className='bg-black w-full h-full py-5 lg:py-0 lg:h-[20rem] bg-cover rounded-lg bg-center' style={{backgroundImage: `url(${item.bg})`}}>
                                     <div className='flex h-full text-white bg-black/40'>
                                         <div className='m-auto w-full'>
                                             <div className='flex w-full justify-center'>

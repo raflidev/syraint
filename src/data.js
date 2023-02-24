@@ -619,6 +619,7 @@ import briket2 from "./images/briket/briket2.jpg"
 import diesel1 from "./images/biodiesel/1.jpg"
 import diesel2 from "./images/biodiesel/2.png"
 import diesel3 from "./images/biodiesel/3.jpg"
+import diesel4 from "./images/biodiesel/4.jpg"
 
 import nanas from "./images/agriculture/nanas.jpg"
 import pisang from "./images/agriculture/pisang.jpg"
@@ -2001,6 +2002,13 @@ export const product = [
     deskripsi: "Vanilla is a food ingredient often used in cooking and pastries to give it a distinctive aroma and taste. In addition, vanilla also has several health benefits, such as containing antioxidants that help protect body cells from damage due to free radicals, improving heart health by lowering cholesterol and triglycerides in the blood, and having anti-inflammatory properties that can help reduce inflammation in the body. In addition, vanilla is also used in the cosmetic and pharmaceutical industries to give aroma and flavor to their products. Thus, vanilla has many uses in various fields and is essential for improving the taste and aroma qualities of food as well as providing health benefits for the body.",
     gambar: [rempah12],
     slug: 'herbs-and-spices'
+   },
+   {
+    id: '151',
+    nama: 'Euro 5',
+    deskripsi: "Euro-5 In an effort to reduce emissions, the European Union (EU) is taking a step towards using more environmentally friendly transportation technologies. In the early 1990s the EU issued regulations mandating the use of catalysts for gasoline cars, often called the Euro 1 standard. This aims to reduce the level of pollutants produced by motor vehicles. Then gradually the EU tightened the regulations to the Euro 2 (1996), Euro 3 (2000), Euro 4 (2005), Euro5 (2009), and Euro 6 (2014) standards.",
+    gambar: [diesel4],
+    slug: 'mining-oil-and-gas'
    },
    
 
