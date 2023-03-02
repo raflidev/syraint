@@ -5,6 +5,7 @@ import { BrowserRouter,
 
 
 import Home from "./pages/Home";
+import NotFound from "./pages/NotFound";
 import Product from "./pages/Product";
 import ProductId from "./pages/ProductId";
 import Service from "./pages/Service";
@@ -17,7 +18,7 @@ function App() {
       <Route path="/product/:slug" element={<Product />} />
       <Route path="/product/:slug/:id" element={<ProductId />} />
       <Route path="/service/:slug" element={<Service />} />
-      <Route path="*" element={<Service />} />
+      <Route path="*" element={<NotFound />} />
     </Routes>
   </BrowserRouter>
 
