@@ -17,6 +17,7 @@ function App() {
       <Route path="/product/:slug" element={<Product />} />
       <Route path="/product/:slug/:id" element={<ProductId />} />
       <Route path="/service/:slug" element={<Service />} />
+      <Route path="*" element={<Service />} />
     </Routes>
   </BrowserRouter>
 

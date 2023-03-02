@@ -143,12 +143,12 @@ function Home() {
                 <div className='m-auto'>
                     <div className='flex justify-center'>
                         <div className='w-4/6 text-center space-y-10'>
-                            <div className='font-bold text-3xl lg:text-5xl pt-7 lg:pt-0'>
+                            <h1 className='font-bold text-3xl lg:text-5xl pt-7 lg:pt-0'>
                                 Syra International
-                            </div>
-                            <div className='text-sm lg:text-lg'>
+                            </h1>
+                            <h2 className='text-sm lg:text-lg'>
                             Syra International is a distributor company that specializes in a wide range of products and services, including Agriculture, Teak Root Furniture, Iron, Biodiesel, and Coal, as well as freight forwarding services such as Inland, Air, and Sea Freight Service. We have a large sales capacity and export their products to various countries. We are dedicated to providing the best service and fulfilling the needs of clients.
-                            </div>
+                            </h2>
                         </div>
                     </div>
                 </div>
@@ -157,46 +157,46 @@ function Home() {
 
         {/* Provide Section */}
         <section className='px-2 lg:px-16 py-10 my-32'>
-            <div className='uppercase text-gold font-bold text-3xl text-center'>we provide your needs</div>
-                <div className='flex justify-center mt-20'>
-                    <div className='w-full xl:w-4/6 grid grid-cols-1 gap-10 space-y-10'>
-                        {provide.map((item, index) => (
-                            <div key={index} className="w-full" id={`${item.nama}s`}>
-                                <div className='bg-black w-full h-full py-5 lg:py-0 lg:h-[20rem] bg-cover rounded-lg bg-center' style={{backgroundImage: `url(${item.bg})`}}>
-                                    <div className='flex h-full text-white bg-black/40'>
-                                        <div className='m-auto w-full'>
-                                            <div className='flex w-full justify-center'>
-                                                <div className='w-5/6 text-center space-y-2'>
-                                                    <div className='font-bold text-3xl'>
-                                                        {item.nama}s
-                                                    </div>
-                                                    <div className={`w-full grid grid-cols-1 lg:grid-cols-4 font-medium justify-center gap-4 pt-6`}>
-                                                      {item.sub.map((sub, index) => (
-                                                        <Link to={`/${item.nama}/${sub.slug}`} className='bg-gold px-2 h-16 bg-cover bg-center text-black hover:cursor-pointer duration-200 rounded-md hover:bg-black hover:text-gold' key={index}>
-                                                          <div className='flex h-full'>
-                                                            <div className="m-auto">
-                                                              {sub.nama} 
-                                                            </div>
-                                                          </div>
-                                                        </Link>
-                                                      ))
-                                                      }
-                                                    </div>
+            <h1 className='uppercase text-gold font-bold text-3xl text-center'>we provide your needs</h1>
+            <div className='flex justify-center mt-20'>
+                <div className='w-full xl:w-4/6 grid grid-cols-1 gap-10 space-y-10'>
+                    {provide.map((item, index) => (
+                        <div key={index} className="w-full" id={`${item.nama}s`}>
+                            <div className='bg-black w-full h-full py-5 lg:py-0 lg:h-[20rem] bg-cover rounded-lg bg-center' style={{backgroundImage: `url(${item.bg})`}}>
+                                <div className='flex h-full text-white bg-black/40'>
+                                    <div className='m-auto w-full'>
+                                        <div className='flex w-full justify-center'>
+                                            <div className='w-5/6 text-center space-y-2'>
+                                                <div className='font-bold text-3xl'>
+                                                    {item.nama}s
+                                                </div>
+                                                <div className={`w-full grid grid-cols-1 lg:grid-cols-4 font-medium justify-center gap-4 pt-6`}>
+                                                  {item.sub.map((sub, index) => (
+                                                    <Link to={`/${item.nama}/${sub.slug}`} className='bg-gold px-2 h-16 bg-cover bg-center text-black hover:cursor-pointer duration-200 rounded-md hover:bg-black hover:text-gold' key={index}>
+                                                      <div className='flex h-full'>
+                                                        <div className="m-auto">
+                                                          {sub.nama} 
+                                                        </div>
+                                                      </div>
+                                                    </Link>
+                                                  ))
+                                                  }
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                        ))}
-                    </div>
+                        </div>
+                    ))}
                 </div>
+            </div>
         </section>
         {/* End Provide Section */}
 
         {/* Choose Section */}
         <section id="why-us" className='px-3 md:px-16 py-28 text-black bg-gold'>
-            <div className='uppercase font-bold text-3xl text-center'>Why Choose Syra?</div>
+            <h1 className='uppercase font-bold text-3xl text-center'>Why Choose Syra?</h1>
             <div className='grid grid-cols-1 space-y-10 lg:space-y-0 lg:grid-cols-3 gap-4 my-16'>
                 <div className='flex justify-center'>
                     <div className='text-center space-y-3'>
@@ -237,7 +237,7 @@ function Home() {
 
         {/* Our Client Section */}
         <section className='px-3 md:px-16 py-28'>
-          <div className='uppercase font-bold text-3xl text-center mb-20'>Our Client</div>
+          <h1 className='uppercase font-bold text-3xl text-center mb-20'>Our Client</h1>
           <div className='flex justify-center'>
             <Carousel dynamicHeight={true} emulateTouch={true} infiniteLoop={true} centerMode={true} autoPlay={true} className="w-full lg:w-1/2">
               {
