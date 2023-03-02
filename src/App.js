@@ -1,4 +1,5 @@
 import { BrowserRouter,
+  Navigate,
   Route,
   Routes,
  } from "react-router-dom";
@@ -16,8 +17,10 @@ function App() {
     <Routes>
       <Route path="/" element={<Home />} />
       <Route path="/product/:slug" element={<Product />} />
+      <Route path="/product/" element={ <Navigate to="/product/agriculture" replace /> } />
       <Route path="/product/:slug/:id" element={<ProductId />} />
-      <Route path="/service/:slug" element={<Service />} />
+      <Route path="/service/:slug" element={ <Service /> } />
+      <Route path="/service/" element={ <Navigate to="/service/air-feight" replace /> } />
       <Route path="*" element={<NotFound />} />
     </Routes>
   </BrowserRouter>
