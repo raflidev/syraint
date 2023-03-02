@@ -237,7 +237,7 @@ function Home() {
 
         {/* Our Client Section */}
         <section className='px-3 md:px-16 py-28'>
-          <h1 className='uppercase font-bold text-3xl text-center mb-20'>Our Client</h1>
+          <h2 className='uppercase font-bold text-3xl text-center mb-20'>Our Client</h2>
           <div className='flex justify-center'>
             <Carousel dynamicHeight={true} emulateTouch={true} infiniteLoop={true} centerMode={true} autoPlay={true} className="w-full lg:w-1/2">
               {
@@ -253,7 +253,7 @@ function Home() {
         {/* Our Team */}
         <section id="team" className='bg-gold px-3 md:px-16 py-28'>
         <div className=' text-black'>
-          <h1 className='text-center uppercase text-3xl font-bold py-3'>Our Team</h1>
+          <h2 className='text-center uppercase text-3xl font-bold py-3'>Our Team</h2>
           <div className="w-5/6 mx-auto py-10">
             <div className="grid grid-cols-1 space-y-8 lg:space-y-0 lg:grid-cols-3 gap-5 items-start">
               { people.map((item, index) => (
@@ -286,7 +286,7 @@ function Home() {
         {/* FAQ Section */}
         <section id="faq" className='min-h-screen bg-white px-3 md:px-16 py-28'>
           <div>
-            <h1 className='text-center uppercase text-3xl font-bold py-3'>FAQ</h1>
+            <h2 className='text-center uppercase text-3xl font-bold py-3'>FAQ</h2>
             <div className='flex justify-center'>
               <div className='w-full px-3 lg:px-0 lg:w-4/6 space-y-5'>
                 <div>
