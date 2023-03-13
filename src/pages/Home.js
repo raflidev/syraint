@@ -144,10 +144,10 @@ function Home() {
                     <div className='flex justify-center'>
                         <div className='w-4/6 text-center space-y-10'>
                             <h1 className='font-bold text-3xl lg:text-5xl pt-7 lg:pt-0'>
-                                Syra International
+                               PT. Syra International
                             </h1>
                             <h2 className='text-sm lg:text-lg'>
-                            Syra International is a distributor company that specializes in a wide range of products and services, including Agriculture, Teak Root Furniture, Iron, Biodiesel, and Coal, as well as freight forwarding services such as Inland, Air, and Sea Freight Service. We have a large sales capacity and export their products to various countries. We are dedicated to providing the best service and fulfilling the needs of clients.
+                            PT. Syra International is a distributor company that specializes in a wide range of products and services, including Agriculture, Teak Root Furniture, Iron, Biodiesel, and Coal, as well as freight forwarding services such as Inland, Air, and Sea Freight Service. We have a large sales capacity and export their products to various countries. We are dedicated to providing the best service and fulfilling the needs of clients.
                             </h2>
                         </div>
                     </div>
