@@ -2076,7 +2076,7 @@ export const people = [
   {
     nama: 'ALI RAFII MARZUKI',
     gambar: ali,
-    jabatan: 'Chief Marketing Officer',
+    jabatan: 'Head of Operational',
     quotes: "Some are born great, some achieve greatness, and some have greatness thrust upon them.",
     links: [
       {

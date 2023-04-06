@@ -542,7 +542,7 @@ function Home() {
                             <div className='font-bold text-xl'>Contact Us</div>
                             <div className='text-sm'>Indonesia, Bekasi. Medan Satria, Pejuang Jaya. Komando Raya Street.</div>
                             <div className='text-sm'>+62 812-9710-8565</div>
-                            <div className='text-sm'>syra.ind@gmail.com</div>
+                            <div className='text-sm'>marketing@syrainternational.com</div>
                             <div className='text-sm'>
                             </div>
                         </div>
