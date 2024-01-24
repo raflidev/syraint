@@ -1,4 +1,4 @@
-import yudy from "./images/people/yudy.jpg";
+import yudy from "./images/people/yudy.jpeg";
 import aldy from "./images/people/aldy.jpeg";
 import rafli from "./images/people/rafli.jpeg";
 import ali from "./images/people/ali.jpeg";
@@ -6,6 +6,9 @@ import hilman from "./images/people/hilman.jpeg";
 import linkedin from "./images/icon/linkedin.svg"
 import instagram from "./images/icon/instagram.svg"
 import facebook from "./images/icon/facebook.svg"
+
+import azra from "./images/people/azra.jpeg";
+import ghilman from "./images/people/ghilman.jpeg";
 
 import f1_1 from "./images/furniture/1/1.jpg";
 import f1_2 from "./images/furniture/1/2.jpg";
@@ -2038,27 +2041,9 @@ export const people = [
     ]
   },
   {
-    nama: 'ALDY ALFARIDZY ASHARY',
-    gambar: aldy,
-    jabatan: 'Co-Founder',
-    quotes: "The greatest glory in living lies not in never falling, but in rising every time we fall.",
-    links: [
-      {
-        nama: 'linkedin',
-        icon: linkedin,
-        url: 'https://www.linkedin.com/in/aldyalfaridzy'
-      },
-      {
-        nama: 'instagram',
-        icon: instagram,
-        url: 'http://www.instagram.com/dyyz7'
-      },
-    ]
-  },
-  {
     nama: 'MUHAMMAD RAFLI RAMADHAN',
     gambar: rafli,
-    jabatan: 'Chief Technology Officer',
+    jabatan: 'Co-Founder',
     quotes: "The more I read, the more I acquire, the more certain I am that I know nothing.",
     links: [
       {
@@ -2074,28 +2059,28 @@ export const people = [
     ]
   },
   {
-    nama: 'ALI RAFII MARZUKI',
-    gambar: ali,
-    jabatan: 'Head of Operational',
-    quotes: "Some are born great, some achieve greatness, and some have greatness thrust upon them.",
+    nama: 'MUHAMMAD RIZKY AZRA',
+    gambar: azra,
+    jabatan: 'Head of Finance',
+    quotes: "The secret of happiness live in 3 things: patience, gratitude, and sincerity",
     links: [
       {
         nama: 'instagram',
         icon: instagram, 
-        url: 'https://www.instagram.com/alirafii.marzuki/'
+        url: 'https://www.instagram.com/Muhammadazra/'
       },
     ]
   },
   {
-    nama: 'Hilman al hazmi',
-    gambar: hilman,
-    jabatan: 'Chief Marketing Officer',
-    quotes: "Don't stop when you are tired. Stop when you are done!",
+    nama: 'Hafizt Ghilman Ramadhan Ladupa',
+    gambar: ghilman,
+    jabatan: 'Head of Operational',
+    quotes: "The only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle.",
     links: [
       {
         nama: 'instagram',
         icon: instagram,
-        url: 'https://www.instagram.com/hilmanhazmiii/'
+        url: 'https://www.instagram.com//hafiztghilman/'
       },
     ]
   },
