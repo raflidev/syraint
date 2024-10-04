@@ -2040,24 +2040,24 @@ export const people = [
       },
     ]
   },
-  {
-    nama: 'MUHAMMAD RAFLI RAMADHAN',
-    gambar: rafli,
-    jabatan: 'Co-Founder',
-    quotes: "The more I read, the more I acquire, the more certain I am that I know nothing.",
-    links: [
-      {
-        nama: 'linkedin',
-        icon: linkedin,
-        url: 'https://www.linkedin.com/in/raflidev/'
-      },
-      {
-        nama: 'instagram',
-        icon: instagram,
-        url: 'http://www.instagram.com/raflidev'
-      },
-    ]
-  },
+  // {
+  //   nama: 'MUHAMMAD RAFLI RAMADHAN',
+  //   gambar: rafli,
+  //   jabatan: 'Co-Founder',
+  //   quotes: "The more I read, the more I acquire, the more certain I am that I know nothing.",
+  //   links: [
+  //     {
+  //       nama: 'linkedin',
+  //       icon: linkedin,
+  //       url: 'https://www.linkedin.com/in/raflidev/'
+  //     },
+  //     {
+  //       nama: 'instagram',
+  //       icon: instagram,
+  //       url: 'http://www.instagram.com/raflidev'
+  //     },
+  //   ]
+  // },
   {
     nama: 'MUHAMMAD RIZKY AZRA',
     gambar: azra,
