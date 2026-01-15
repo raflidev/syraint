@@ -9,6 +9,9 @@ import facebook from "./images/icon/facebook.svg"
 
 import azra from "./images/people/azra.jpeg";
 import ghilman from "./images/people/ghilman.jpeg";
+import affandi from "./images/people/affandi.jpg";
+import jordan from "./images/people/jordan.png";
+import rivaldo from "./images/people/rivaldo.jpg";
 
 import f1_1 from "./images/furniture/1/1.jpg";
 import f1_2 from "./images/furniture/1/2.jpg";
@@ -2025,7 +2028,7 @@ export const people = [
   {
     nama: 'YUDY HADI WIBOWO',
     gambar: yudy,
-    jabatan: 'Founder',
+    jabatan: 'President Director',
     quotes: "Integrity is an indicator of one's success and trust is built with good communication.",
     links: [
       {
@@ -2040,49 +2043,103 @@ export const people = [
       },
     ]
   },
-  // {
-  //   nama: 'MUHAMMAD RAFLI RAMADHAN',
-  //   gambar: rafli,
-  //   jabatan: 'Co-Founder',
-  //   quotes: "The more I read, the more I acquire, the more certain I am that I know nothing.",
-  //   links: [
-  //     {
-  //       nama: 'linkedin',
-  //       icon: linkedin,
-  //       url: 'https://www.linkedin.com/in/raflidev/'
-  //     },
-  //     {
-  //       nama: 'instagram',
-  //       icon: instagram,
-  //       url: 'http://www.instagram.com/raflidev'
-  //     },
-  //   ]
-  // },
   {
-    nama: 'MUHAMMAD RIZKY AZRA',
-    gambar: azra,
-    jabatan: 'Head of Finance',
-    quotes: "The secret of happiness live in 3 things: patience, gratitude, and sincerity",
+    nama: 'MUHAMMAD RAFLI RAMADHAN',
+    gambar: rafli,
+    jabatan: 'Director of Information Technology',
+    quotes: "The more I read, the more I acquire, the more certain I am that I know nothing.",
     links: [
       {
-        nama: 'instagram',
-        icon: instagram, 
-        url: 'https://www.instagram.com/Muhammadazra/'
+        nama: 'linkedin',
+        icon: linkedin,
+        url: 'https://www.linkedin.com/in/raflidev/'
       },
-    ]
-  },
-  {
-    nama: 'Hafizt Ghilman Ramadhan Ladupa',
-    gambar: ghilman,
-    jabatan: 'Head of Operational',
-    quotes: "The only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle.",
-    links: [
       {
         nama: 'instagram',
         icon: instagram,
-        url: 'https://www.instagram.com//hafiztghilman/'
+        url: 'http://www.instagram.com/raflidev'
       },
     ]
   },
+  {
+    nama: 'Muhammad Rizal Affandi',
+    gambar: affandi,
+    jabatan: 'Finance Director',
+    quotes: "The more I read, the more I acquire, the more certain I am that I know nothing.",
+    links: [
+      {
+        nama: 'linkedin',
+        icon: linkedin,
+        url: 'https://www.linkedin.com/in/raflidev/'
+      },
+      {
+        nama: 'instagram',
+        icon: instagram,
+        url: 'http://www.instagram.com/raflidev'
+      },
+    ]
+  },
+  {
+    nama: 'Jordan Nathanael Makeen Kamasi',
+    gambar: jordan,
+    jabatan: 'Director of Operations and Risk Management',
+    quotes: "The more I read, the more I acquire, the more certain I am that I know nothing.",
+    links: [
+      {
+        nama: 'linkedin',
+        icon: linkedin,
+        url: 'https://www.linkedin.com/in/raflidev/'
+      },
+      {
+        nama: 'instagram',
+        icon: instagram,
+        url: 'http://www.instagram.com/raflidev'
+      },
+    ]
+  },
+  {
+    nama: 'Nikodemus Rivaldo Rindorindo',
+    gambar: rivaldo,
+    jabatan: 'Marketing Director',
+    quotes: "The more I read, the more I acquire, the more certain I am that I know nothing.",
+    links: [
+      {
+        nama: 'linkedin',
+        icon: linkedin,
+        url: 'https://www.linkedin.com/in/raflidev/'
+      },
+      {
+        nama: 'instagram',
+        icon: instagram,
+        url: 'http://www.instagram.com/raflidev'
+      },
+    ]
+  },
+  // {
+  //   nama: 'MUHAMMAD RIZKY AZRA',
+  //   gambar: azra,
+  //   jabatan: 'Head of Finance',
+  //   quotes: "The secret of happiness live in 3 things: patience, gratitude, and sincerity",
+  //   links: [
+  //     {
+  //       nama: 'instagram',
+  //       icon: instagram, 
+  //       url: 'https://www.instagram.com/Muhammadazra/'
+  //     },
+  //   ]
+  // },
+  // {
+  //   nama: 'Hafizt Ghilman Ramadhan Ladupa',
+  //   gambar: ghilman,
+  //   jabatan: 'Head of Operational',
+  //   quotes: "The only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle.",
+  //   links: [
+  //     {
+  //       nama: 'instagram',
+  //       icon: instagram,
+  //       url: 'https://www.instagram.com//hafiztghilman/'
+  //     },
+  //   ]
+  // },
   
 ];

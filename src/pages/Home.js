@@ -262,8 +262,8 @@ function Home() {
                   <div className='space-y-3 text-center'>
                     <div className='font-bold text-xl uppercase'>{item.nama}</div>
                     <div className='text-lg'>{item.jabatan}</div>
-                    <div className='italic'>{item.quotes}</div>
-                    <div className='flex justify-center space-x-5 pt-2 pb-8'>
+                    {/* <div className='italic'>{item.quotes}</div> */}
+                    {/* <div className='flex justify-center space-x-5 pt-2 pb-8'>
                       {
                         item.links.map((sub, index) => (
                           <a href={sub.url} target="_blank" rel="noreferrer">
@@ -271,7 +271,7 @@ function Home() {
                           </a>
                         ))
                       }
-                    </div>
+                    </div> */}
                   </div>
                 </div>
               ))}
